@@ -1,0 +1,3722 @@
+{
+  "Animonculory_Curseadelica": {
+    "3.23": {
+      "title": "Cursedelica",
+      "description": "Biblically accurate Skyrim",
+      "author": "JanuarySnow",
+      "maintainers": [
+        "github/Styyx1",
+        "Styyx"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": true,
+      "tags": [
+        "Featured"
+      ],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/The-Animonculory/Curseadelica/refs/heads/main/banner.webp",
+        "readme": "https://github.com/The-Animonculory/Curseadelica/blob/main/README.md",
+        "download": "https://authored-files.wabbajack.org/Cursedelica.wabbajack_aa30aab9-efa7-4fe7-8b9b-f05b08d5bde2",
+        "machineURL": "Curseadelica",
+        "discordURL": "https://discord.gg/xRrHRsb5e9",
+        "websiteURL": ""
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 174970216,
+        "NumberOfArchives": 983,
+        "SizeOfArchives": 100705614375,
+        "NumberOfInstalledFiles": 343975,
+        "SizeOfInstalledFiles": 166751456450,
+        "TotalSize": 267457070825
+      },
+      "version": "3.23",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "2025-04-02T06:28:16.8333007Z",
+      "repositoryName": "Animonculory"
+    }
+  },
+  "Beowulf_beowulf": {
+    "1.1.1": {
+      "title": "Beowulf",
+      "description": "Beowulf ist eine von Grund auf neu erstellte DEUTSCHE Modliste f\u00fcr Mid- und High-End PCs mit Fokus auf grafischer Aufwertung, Immersion und etwas Gameplay-Verbesserungen.",
+      "author": "Nexusbla18",
+      "maintainers": [
+        "Nexusbla18"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": false,
+      "tags": [
+        "Vanilla+"
+      ],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/Nexusbla18/Beowulf/main/Beowulf_flag.jpg",
+        "readme": "https://www.nexusmods.com/skyrimspecialedition/mods/112952",
+        "download": "https://authored-files.wabbajack.org/Beowulf.wabbajack_5f63193a-814a-481e-8e3d-1edd882fc1ed",
+        "machineURL": "beowulf",
+        "discordURL": "None",
+        "websiteURL": ""
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 564565122,
+        "NumberOfArchives": 2193,
+        "SizeOfArchives": 172623308651,
+        "NumberOfInstalledFiles": 134033,
+        "SizeOfInstalledFiles": 229785520084,
+        "TotalSize": 402408828735
+      },
+      "version": "1.1.1",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "0001-01-01T00:00:00",
+      "repositoryName": "Beowulf"
+    }
+  },
+  "Animonculory_aur": {
+    "1.5.6": {
+      "title": "Aurora - A Visual Overhaul",
+      "description": "Aurora is a Wabbajack visuals-only list for Skyrim Special Edition with an emphasis on consistency. Based on Skyrim Modding Essentials.",
+      "author": "Phoenix",
+      "maintainers": [
+        "github/foreverphoenix",
+        "github/Althro",
+        "github/Codygits",
+        "github/Styyx1",
+        "github/TDarkShadow"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": false,
+      "tags": [],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/The-Animonculory/Aurora/refs/heads/main/aurora.webp",
+        "readme": "https://github.com/The-Animonculory/Aurora/blob/main/README.md",
+        "download": "https://github.com/The-Animonculory/Aurora/releases/download/1.5.6/Aurora.wabbajack",
+        "machineURL": "aur",
+        "discordURL": "https://discord.gg/xRrHRsb5e9",
+        "websiteURL": "https://thephoenixflavour.com/skyrim-se/aur/introduction/"
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 814104908,
+        "NumberOfArchives": 1098,
+        "SizeOfArchives": 77623063383,
+        "NumberOfInstalledFiles": 185156,
+        "SizeOfInstalledFiles": 86614000130,
+        "TotalSize": 164237063513
+      },
+      "version": "1.5.6",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "2025-05-12T09:40:11.956227Z",
+      "repositoryName": "Animonculory"
+    }
+  },
+  "Animonculory_ADT": {
+    "8.0.0": {
+      "title": "ADT",
+      "description": "Designed as the mod author's tool kit, Animonculory Dev Tools comes with all the tools you need to create and test your mods. Featuring mandatory DLL level fixes & libraries to build your own with, a fully patched Creation Kit for 1.6.xx and a few tweaks, it's the ideal playground to both work and build on.",
+      "author": "Althro",
+      "maintainers": [
+        "althro",
+        "github/Althro",
+        "github/Styyx1",
+        "github/Abandoned-1248"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": true,
+      "tags": [
+        "Featured",
+        "Utility"
+      ],
+      "nsfw": false,
+      "utility_list": true,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/Althro/ADT/main/Resources/ADTNew.webp",
+        "readme": "https://raw.githubusercontent.com/Althro/ADT/main/README.md",
+        "download": "https://authored-files.wabbajack.org/ADT.wabbajack_3d31fe90-45cf-4d3d-b64a-18d64b81065a",
+        "machineURL": "ADT",
+        "discordURL": "https://discord.gg/xRrHRsb5e9",
+        "websiteURL": ""
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 40649526,
+        "NumberOfArchives": 236,
+        "SizeOfArchives": 17345724371,
+        "NumberOfInstalledFiles": 21972,
+        "SizeOfInstalledFiles": 19279766215,
+        "TotalSize": 36625490586
+      },
+      "version": "8.0.0",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "2025-02-24T05:40:32.5028186Z",
+      "repositoryName": "Animonculory"
+    }
+  },
+  "AD_auriels_dream_ae": {
+    "1.0.4": {
+      "title": "Auriel's Dream - AE",
+      "description": "Auriels Dream - a visually focused modlist. Colors are warmer and theme is high fantasy, complimented with Community Shader. No changes to perks, leveling, crating and so on by default. But optional mods are provided to add popular game changing mods. Also offers two game modes, hard mode and survival mode. Comes with complete LODs.",
+      "author": "Kvitekvist",
+      "maintainers": [
+        "github/Kvitekvist",
+        "Kvitekvist"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": false,
+      "tags": [
+        "High Fantasy"
+      ],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": false,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/Kvitekvist/auriels-dream-ae/master/images/AurielsDream.webp",
+        "readme": "https://github.com/Kvitekvist/auriels-dream-ae/blob/main/README.md",
+        "download": "https://authored-files.wabbajack.org/Auriel's Dream  - AE.wabbajack_1a766a5d-d1fc-4423-ae6e-813401dc18e3",
+        "machineURL": "auriels_dream_ae",
+        "discordURL": "https://discord.gg/mNPws3YTz7",
+        "websiteURL": "",
+        "nexusCollection": null
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 805189606,
+        "NumberOfArchives": 756,
+        "SizeOfArchives": 76596352191,
+        "NumberOfInstalledFiles": 154074,
+        "SizeOfInstalledFiles": 103286460324,
+        "TotalSize": 179882812515
+      },
+      "version": "1.0.4",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "2025-09-06T13:32:37.2625139Z",
+      "repositoryName": "AD"
+    }
+  },
+  "Ash_Lotus_AshLotus": {
+    "1.2.3": {
+      "title": "Ash Lotus",
+      "description": "Ash Lotus is a cinematic, story-driven Fallout 4 modlist built around gameplay enhancement, immersive faction conflict, and atmospheric realism. Explore a reimagined Commonwealth shaped by darkness, danger, and dynamic storytelling.",
+      "author": "CuongT.Modwork",
+      "maintainers": [
+        "github/CuongMe"
+      ],
+      "game": "Fallout4",
+      "official": false,
+      "tags": [
+        "Hardcore",
+        "Survival",
+        "SFW",
+        "Vanilla+",
+        "DLC Required"
+      ],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/CuongMe/ash-lotus-modlist/main/ashlotus-banner.png",
+        "readme": "https://github.com/CuongMe/ash-lotus-modlist/blob/main/README.md",
+        "download": "https://authored-files.wabbajack.org/Ash%20Lotus%20V1.2.3.wabbajack_77c00b25-969e-4f78-bae8-454c73416b07",
+        "machineURL": "AshLotus",
+        "discordURL": "https://discord.gg/tbS9VAEchj",
+        "websiteURL": ""
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 7849375,
+        "NumberOfArchives": 618,
+        "SizeOfArchives": 111819369797,
+        "NumberOfInstalledFiles": 54342,
+        "SizeOfInstalledFiles": 132400039842,
+        "TotalSize": 244219409639
+      },
+      "version": "1.2.3",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "0001-01-01T00:00:00",
+      "repositoryName": "Ash_Lotus"
+    }
+  },
+  "BtHz_HzOff": {
+    "1.4.3": {
+      "title": "Horizon - Official Modlist",
+      "description": "The official modlist for the Horizon overhaul mod.",
+      "author": "Greb751 and Zawinul",
+      "maintainers": [
+        "github/nemal34"
+      ],
+      "game": "Fallout4",
+      "official": false,
+      "tags": [],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": false,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/nemal34/beyondthehorizon_wj/main/horizon_official.webp",
+        "readme": "https://nemal34.github.io/beyondthehorizon_wj/README_official.html",
+        "download": "https://authored-files.wabbajack.org/Horizon_Official_1431.wabbajack_3f8e10e3-088a-4a6c-a7c7-a0d1ca7bad86",
+        "machineURL": "HzOff",
+        "discordURL": "https://discord.gg/gW2xdaH",
+        "websiteURL": "",
+        "nexusCollection": null
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 1094492,
+        "NumberOfArchives": 24,
+        "SizeOfArchives": 5284915835,
+        "NumberOfInstalledFiles": 2310,
+        "SizeOfInstalledFiles": 6238831396,
+        "TotalSize": 11523747231
+      },
+      "version": "1.4.3",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "0001-01-01T00:00:00",
+      "repositoryName": "BtHz"
+    }
+  },
+  "CharGrinn_CharGrinn": {
+    "1.5.0.0": {
+      "title": "CharGrinn",
+      "description": "Visceral & Grim.  Combat Style is Fast & Brutal",
+      "author": "NotSafeForAdults64",
+      "maintainers": [
+        "github/notsafeforadults64"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": false,
+      "tags": [],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": false,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/notsafeadults64/CharGrinn_Modlist/main/CharGrinn_1.webp",
+        "readme": "https://github.com/notsafeadults64/CharGrinn_Modlist/blob/main/README.md",
+        "download": "https://authored-files.wabbajack.org/Char%20Grinn.wabbajack_7f33cf35-e964-474d-b4af-df7fca19714e",
+        "machineURL": "CharGrinn",
+        "discordURL": "https://discord.gg/XBQSxJeDAc",
+        "websiteURL": "",
+        "nexusCollection": null
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 356632460,
+        "NumberOfArchives": 2574,
+        "SizeOfArchives": 220923572728,
+        "NumberOfInstalledFiles": 347974,
+        "SizeOfInstalledFiles": 335880526979,
+        "TotalSize": 556804099707
+      },
+      "version": "1.5.0.0",
+      "dateCreated": "2025-08-17T12:18:15Z",
+      "dateUpdated": "2025-08-17T12:18:15Z",
+      "repositoryName": "CharGrinn"
+    }
+  },
+  "Cistern_BottleRim": {
+    "2.6.0": {
+      "title": "BottleRim",
+      "description": "Complete Vanilla+ light survival Simonrim Overhaul built upon CSVO with full PBR visuals, and a focus on First Person gameplay.",
+      "author": "Bottle",
+      "maintainers": [
+        "github/InTheBottle"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": false,
+      "tags": [
+        "SFW",
+        "Steam",
+        "Vanilla+"
+      ],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/InTheBottle/BottleRim/refs/heads/main/Resources/Bottlerim.webp",
+        "readme": "https://github.com/InTheBottle/BottleRim/blob/main/README.md",
+        "download": "https://authored-files.wabbajack.org/BottleRim.wabbajack_45303e83-81a8-4a9a-a4d1-e94751fb1149",
+        "machineURL": "BottleRim",
+        "discordURL": "https://discord.gg/avzs76EgnA",
+        "websiteURL": ""
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 5135684032,
+        "NumberOfArchives": 1979,
+        "SizeOfArchives": 122244160647,
+        "NumberOfInstalledFiles": 246371,
+        "SizeOfInstalledFiles": 199481701777,
+        "TotalSize": 321725862424
+      },
+      "version": "2.6.0",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "0001-01-01T00:00:00",
+      "repositoryName": "Cistern"
+    }
+  },
+  "Cistern_CSVO": {
+    "2.2.0": {
+      "title": "CSVO - Community Shaders Visual Overhaul",
+      "description": "A full Community Shaders PBR Visual Overhaul baseline",
+      "author": "Bottle",
+      "maintainers": [
+        "github/InTheBottle"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": true,
+      "tags": [
+        "Featured",
+        "SFW",
+        "Steam",
+        "Vanilla+",
+        "Utility"
+      ],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/InTheBottle/CSVO/main/Resources/csvo.png",
+        "readme": "https://github.com/InTheBottle/CSVO/blob/main/README.md",
+        "download": "https://authored-files.wabbajack.org/CSVO.wabbajack_0f353bba-da8c-489b-9eeb-76e0c31a78fc",
+        "machineURL": "CSVO",
+        "discordURL": "https://discord.gg/WF66mMu",
+        "websiteURL": "",
+        "nexusCollection": null
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 765442290,
+        "NumberOfArchives": 460,
+        "SizeOfArchives": 78280698755,
+        "NumberOfInstalledFiles": 81709,
+        "SizeOfInstalledFiles": 110046100719,
+        "TotalSize": 188326799474
+      },
+      "version": "2.2.0",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "2026-04-04T21:31:22.5987761Z",
+      "repositoryName": "Cistern"
+    }
+  },
+  "Deckborn_Deckborn": {
+    "0.3.6": {
+      "title": "Deckborn",
+      "description": "A modern gameplay modlist made with the steam deck in mind!",
+      "author": "Pentonize",
+      "maintainers": [
+        "github/Pentonize"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": false,
+      "tags": [
+        "Steam Deck"
+      ],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/Pentonize/DeckBorn/main/Assets/Deckborn.png",
+        "readme": "https://github.com/Pentonize/DeckBorn/blob/main/README.md",
+        "download": "https://authored-files.wabbajack.org/Deckborn.wabbajack_4f5d360b-6fa8-453a-b196-027f45564ab7",
+        "machineURL": "Deckborn",
+        "discordURL": "https://discord.gg/KYgU4zbEZd",
+        "websiteURL": ""
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 39925574,
+        "NumberOfArchives": 474,
+        "SizeOfArchives": 38660660958,
+        "NumberOfInstalledFiles": 68061,
+        "SizeOfInstalledFiles": 45689131297,
+        "TotalSize": 84349792255
+      },
+      "version": "0.3.6",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "2024-12-13T14:19:27.9857309Z",
+      "repositoryName": "Deckborn"
+    }
+  },
+  "CapitalCommonwealth_mt4lcapitalcommonwealth": {
+    "1.1.0": {
+      "title": "Capital Commonwealth",
+      "description": "Capital Commonwealth is a modlist inspired by Fallout 3's Capital Wasteland, with some bits of New Vegas sprinkled in, it's a harder list, but not to the point of being a chore to play. It maintains a gritty, unsafe, and dark atmosphere, without sacrificing fun, and playability.",
+      "author": "MT4L",
+      "maintainers": [
+        "github/McTiddies4Lunch"
+      ],
+      "game": "Fallout4",
+      "official": false,
+      "tags": [
+        "Steam",
+        "Survival",
+        "DLC Required"
+      ],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/TheMrNewVegas/TheMrNewVegas.github.io/refs/heads/main/Resources/capcom/ccwjimage.png",
+        "readme": "https://www.modlists.net/docs/2capcom/Home",
+        "download": "https://authored-files.wabbajack.org/Capital Commonwealth.wabbajack_5735cfcf-0ab0-425d-9869-c02f6a49e556",
+        "machineURL": "mt4lcapitalcommonwealth",
+        "discordURL": "https://discord.gg/myc6aSEPFe",
+        "websiteURL": ""
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 139176147,
+        "NumberOfArchives": 548,
+        "SizeOfArchives": 84384105758,
+        "NumberOfInstalledFiles": 42246,
+        "SizeOfInstalledFiles": 97707186504,
+        "TotalSize": 182091292262
+      },
+      "version": "1.1.0",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "2025-06-10T01:19:52.6281642Z",
+      "repositoryName": "CapitalCommonwealth"
+    }
+  },
+  "Dying_Breath_dyingbreath": {
+    "1.2": {
+      "title": "DyingBreath",
+      "description": "A fresh experience of Fallout 4. A whole new leveling system,new combat mechanics, new quests and locations, and hundreds of new weapons and armors replacing the originals in a lore friendly manner.",
+      "author": "OddlyMistaken",
+      "maintainers": [
+        "github/OddlyMistaken"
+      ],
+      "game": "Fallout4",
+      "official": false,
+      "tags": [],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/OddlyMistaken/Dying-Breath/main/Vault%20111.png",
+        "readme": "https://github.com/OddlyMistaken/Dying-Breath",
+        "download": "https://authored-files.wabbajack.org/DyingBreath.wabbajack_ed807126-8502-4cee-b409-e66692f77a8d",
+        "machineURL": "dyingbreath",
+        "discordURL": "https://discord.com/invite/T3XQky6g9c",
+        "websiteURL": ""
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 1503814280,
+        "NumberOfArchives": 673,
+        "SizeOfArchives": 158847893618,
+        "NumberOfInstalledFiles": 87311,
+        "SizeOfInstalledFiles": 126842573414,
+        "TotalSize": 285690467032
+      },
+      "version": "1.2",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "2025-02-27T01:28:30.9543745Z",
+      "repositoryName": "Dying_Breath"
+    }
+  },
+  "ELden-Rim_Together_EldenRim": {
+    "3.2.6": {
+      "title": "Elden-Rim Together",
+      "description": "ACT RPG Modpack that features modern combat and gameplay features thats not only made for single player but was made for online coop in mind",
+      "author": "DJLegends",
+      "maintainers": [
+        "github/DJLegends1011"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": false,
+      "tags": [],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/DJLegends1011/Elden-Rim-Together/main/modlist-image.png",
+        "readme": "https://github.com/DJLegends1011/Elden-Rim/blob/main/README.md",
+        "download": "https://authored-files.wabbajack.org/EldenRim Together.wabbajack_8e03ef4c-dc6c-4a73-93fb-37d59070aebf",
+        "machineURL": "EldenRim",
+        "discordURL": "https://discord.gg/YwU4dF2X9V",
+        "websiteURL": ""
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 52820004,
+        "NumberOfArchives": 676,
+        "SizeOfArchives": 52976625289,
+        "NumberOfInstalledFiles": 95444,
+        "SizeOfInstalledFiles": 76232874725,
+        "TotalSize": 129209500014
+      },
+      "version": "3.2.6",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "2025-06-26T23:19:03.6008736Z",
+      "repositoryName": "ELden-Rim_Together"
+    }
+  },
+  "ElmoRim_ElmoRim": {
+    "2.1.1": {
+      "title": "ElmoRim",
+      "description": "ElmoRim is for players who want enhanced visuals & combat with solid performance and minimal content additions.",
+      "author": "Elmo",
+      "maintainers": [
+        "github/elmoDFGD"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": false,
+      "tags": [],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": false,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/ElmoDFGD/ElmoRim/main/media/ElmoRim_Sak_edit.png",
+        "readme": "https://github.com/ElmoDFGD/ElmoRim",
+        "download": "https://authored-files.wabbajack.org/ElmoRim%202.wabbajack_0c7b273d-2b7a-4625-b6f3-7be2f7d70a32",
+        "machineURL": "ElmoRim",
+        "discordURL": "https://discord.gg/6gGVgDYnBW",
+        "websiteURL": ""
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 500938882,
+        "NumberOfArchives": 404,
+        "SizeOfArchives": 60115704422,
+        "NumberOfInstalledFiles": 44315,
+        "SizeOfInstalledFiles": 79964339789,
+        "TotalSize": 140080044211
+      },
+      "version": "2.1.1",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "0001-01-01T00:00:00",
+      "repositoryName": "ElmoRim"
+    }
+  },
+  "fo4nexNG_fo4nexNG": {
+    "1.6.1": {
+      "title": "Fallout 4 NG Curated",
+      "description": "Nexar's Curated Fallout 4 Next-Gen Modlist 2025",
+      "author": "N3xar",
+      "maintainers": [
+        "github/N3xar"
+      ],
+      "game": "Fallout4",
+      "official": false,
+      "tags": [],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://nexarplays.co.za/wp-content/uploads/2025/01/Main-Image.webp",
+        "readme": "https://nexarplays.co.za/fallout4/",
+        "download": "https://authored-files.wabbajack.org/Nexar's Curated Mods 2025.wabbajack_9b82fc6b-26f2-4d6a-b733-e9148ec2d1f8",
+        "machineURL": "fo4nexNG",
+        "discordURL": "https://discord.gg/dhWM6qSbDC",
+        "websiteURL": "https://nexarplays.co.za/fallout4"
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 2369648035,
+        "NumberOfArchives": 1350,
+        "SizeOfArchives": 158707316316,
+        "NumberOfInstalledFiles": 61424,
+        "SizeOfInstalledFiles": 233105445121,
+        "TotalSize": 391812761437
+      },
+      "version": "1.6.1",
+      "dateCreated": "2025-01-09T19:30:00Z",
+      "dateUpdated": "2025-06-18T15:47:41.9145421Z",
+      "repositoryName": "fo4nexNG"
+    }
+  },
+  "FUSION_FUSION": {
+    "2.1.3": {
+      "title": "FUSION",
+      "description": "FUSION is a mod list that focuses on improving the games visuals, removing the vanilla games annoyances and improving the core experience without adding in any new gameplay mechanics, weapons or armor.",
+      "author": "SpringHeelJon",
+      "maintainers": [
+        "github/SpringHeelJon"
+      ],
+      "game": "Fallout4",
+      "official": true,
+      "tags": [
+        "Featured"
+      ],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/SpringHeelJon/FO4-FUSION/main/logo%20WJ%20title.webp",
+        "readme": "https://www.nexusmods.com/fallout4/mods/62880",
+        "download": "https://authored-files.wabbajack.org/Fusion.wabbajack_fd39a056-c7db-4183-9cbe-8e25722e0fbd",
+        "machineURL": "FUSION",
+        "discordURL": "https://discord.gg/GBVzYjF6",
+        "websiteURL": "",
+        "nexusCollection": null
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 83468369,
+        "NumberOfArchives": 501,
+        "SizeOfArchives": 64394583736,
+        "NumberOfInstalledFiles": 31701,
+        "SizeOfInstalledFiles": 64331155394,
+        "TotalSize": 128725739130
+      },
+      "version": "2.1.3",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "2025-12-21T20:57:53.9356837Z",
+      "repositoryName": "FUSION"
+    }
+  },
+  "Elysium_elysium": {
+    "3.3.1": {
+      "title": "Elysium Remastered",
+      "description": "Elysium Remastered is a complete rebuild of the original Elysium modlist. Like the original, it focuses primarily on visuals and is fully featured with hundreds of new additions and full Creation Club support\u2014extending the base setup with Enai Siaion's full suite of gameplay overhauls and various new quests and encounters. (6GB+ of VRAM Required.)",
+      "author": "TitansBane",
+      "maintainers": [
+        "github/TitansBane",
+        "github/SovnSkyrim"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": true,
+      "tags": [
+        "Featured",
+        "Survival"
+      ],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": false,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/TitansBane/Elysium-Remastered/main/image/Elysium_Remastered_Banner.webp",
+        "readme": "https://raw.githubusercontent.com/TitansBane/Elysium-Remastered/main/README.md",
+        "download": "https://authored-files.wabbajack.org/Elysium Remastered.wabbajack_5efeaf50-1733-4f2a-a611-958b1f46f706",
+        "machineURL": "elysium",
+        "discordURL": "https://discord.gg/FAfPb9T",
+        "websiteURL": ""
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 4452788887,
+        "NumberOfArchives": 2542,
+        "SizeOfArchives": 192314917891,
+        "NumberOfInstalledFiles": 365603,
+        "SizeOfInstalledFiles": 348440800660,
+        "TotalSize": 540755718551
+      },
+      "version": "3.3.1",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "2025-03-09T09:52:58.0390409Z",
+      "repositoryName": "Elysium"
+    }
+  },
+  "FAnomaly_Fallout_Anomaly": {
+    "0.5.7": {
+      "title": "Fallout Anomaly",
+      "description": "Fallout Anomaly delivers a true hardcore survival experience, pushing realism to the limit with mods like Damn Apocalypse, MAIM, and more. Face brutal new challenges with an expanded arsenal of weapons and armor, encounter dangerous enemy types, explore new quests, and build with enhanced settlement options. A full texture overhaul brings the game up to modern visual standards, making every moment feel more immersive and unforgiving.",
+      "author": "Fallout Anomaly Team",
+      "maintainers": [
+        "github/NomadsReach",
+        "github/StreikEizer"
+      ],
+      "game": "Fallout4",
+      "official": true,
+      "tags": [
+        "Featured",
+        "Survival"
+      ],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": false,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/NomadsReach/Fallout-Anomaly/refs/heads/master/images/Logo011_0.png",
+        "readme": "https://falloutanomaly.guildtag.com/readme/",
+        "download": "https://authored-files.wabbajack.org/Fallout%20Anomaly%20Beta%20Fixed.wabbajack_34d80996-8a2f-4127-9344-1e0ddc0ffbc5",
+        "machineURL": "Fallout_Anomaly",
+        "discordURL": "https://discord.gg/TAueAV8Utk",
+        "websiteURL": "https://fallout-anomaly.github.io/websitedev/index.html"
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 169536456,
+        "NumberOfArchives": 997,
+        "SizeOfArchives": 180993605139,
+        "NumberOfInstalledFiles": 43732,
+        "SizeOfInstalledFiles": 195787978073,
+        "TotalSize": 376781583212
+      },
+      "version": "0.5.7",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "2025-07-03T02:06:30.0254719Z",
+      "repositoryName": "FAnomaly"
+    }
+  },
+  "ForgottenGlory_zenforge": {
+    "0.0.3": {
+      "title": "Zenithar's Forge",
+      "description": "The ultimate roleplaying experience for Skyrim SE. Become a humble blacksmith, alchemist, or even a chef. Master the power of magic, or hone your skills and quest for adventure and loot. Survive the elements, master the combat, and forge your own path. The choice is yours.",
+      "author": "ForgottenGlory",
+      "maintainers": [
+        "github/ForgottenGlory"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": false,
+      "tags": [
+        "Survival",
+        "Hardcore"
+      ],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://i.imgur.com/plxo3QX.png",
+        "readme": "https://www.fgsmodlists.com/zenforge",
+        "download": "https://authored-files.wabbajack.org/Zenithar's Forge.wabbajack_91a2ad5c-d033-4ceb-b84a-d6336726c615",
+        "machineURL": "zenforge",
+        "discordURL": "https://discord.gg/WKZgPuxvHS",
+        "websiteURL": ""
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 280583164,
+        "NumberOfArchives": 820,
+        "SizeOfArchives": 96708467959,
+        "NumberOfInstalledFiles": 207596,
+        "SizeOfInstalledFiles": 222525126460,
+        "TotalSize": 319233594419
+      },
+      "version": "0.0.3",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "2025-02-13T01:11:40.5128949Z",
+      "repositoryName": "ForgottenGlory"
+    }
+  },
+  "FILFY_TheMethod": {
+    "0.2.5": {
+      "title": "The Method to Madness",
+      "description": "This is a modlist focussed on gameplay and functionality with a minimal performance impact, intended to play on all modern devices. It will start very small and get larger with time and requests.",
+      "author": "Aleksandr",
+      "maintainers": [
+        "github/AllstaRawR"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": false,
+      "tags": [
+        "Survival"
+      ],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": false,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/AllstaRawR/TheMethod/refs/heads/main/TheMethod_WabbajackGallery.JPG",
+        "readme": "https://github.com/AllstaRawR/TheMethod/blob/main/README.md",
+        "download": "https://authored-files.wabbajack.org/The Method to Madness.wabbajack_4286e82e-32cc-4323-bc65-c7ecccab1174",
+        "machineURL": "TheMethod",
+        "discordURL": "https://discord.gg/ag6FSESCK6",
+        "websiteURL": ""
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 143591074,
+        "NumberOfArchives": 367,
+        "SizeOfArchives": 29699492605,
+        "NumberOfInstalledFiles": 14405,
+        "SizeOfInstalledFiles": 33579099460,
+        "TotalSize": 63278592065
+      },
+      "version": "0.2.5",
+      "dateCreated": "2024-10-11T00:29:21.3353955Z",
+      "dateUpdated": "2024-10-14T20:30:48.4622796Z",
+      "repositoryName": "FILFY"
+    }
+  },
+  "FILFY_FILFY": {
+    "2.7.0.9": {
+      "title": "FILFY",
+      "description": "A one-click installation overhaul that touches all aspects of gameplay, with most of your favorite mods. It includes multiple magic, combat, weapon, armor, city, environment, fast travel, religious, quest, continent, body, animation, enemy, animal, texture, graphical, and audio overhauls. It even has seasons!",
+      "author": "AllstaRawR",
+      "maintainers": [
+        "github/AllstaRawR"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": true,
+      "tags": [
+        "Featured"
+      ],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": false,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/AllstaRawR/FILFY/refs/heads/main/screenshots/8PdLdGR.jpeg",
+        "readme": "https://github.com/AllstaRawR/FILFY/blob/main/README.md",
+        "download": "https://build.wabbajack.org/authored_files/download/FILFY.wabbajack_96bbf6d1-e509-4ad1-ade5-2251415fe2a3",
+        "machineURL": "FILFY",
+        "discordURL": "https://discord.gg/ag6FSESCK6",
+        "websiteURL": "",
+        "nexusCollection": null
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 1376491639,
+        "NumberOfArchives": 4163,
+        "SizeOfArchives": 263029844450,
+        "NumberOfInstalledFiles": 663869,
+        "SizeOfInstalledFiles": 494358957118,
+        "TotalSize": 757388801568
+      },
+      "version": "2.7.0.9",
+      "dateCreated": "2026-04-04T04:36:54.0906014Z",
+      "dateUpdated": "2026-04-04T04:36:54.0906014Z",
+      "repositoryName": "FILFY"
+    }
+  },
+  "F4FEVR_LaskeumaKuume": {
+    "0.2.10": {
+      "title": "F4FEVR",
+      "description": "Fundamental Evolutionary VR",
+      "author": "Ajantaju",
+      "maintainers": [
+        "github/ajantaju"
+      ],
+      "game": "Fallout4VR",
+      "official": false,
+      "tags": [
+        "VR"
+      ],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/ajantaju/F4FEVR/main/f4fevr_2.webp",
+        "readme": "https://github.com/ajantaju/F4FEVR",
+        "download": "https://authored-files.wabbajack.org/F4FEVR_0_2_10.wabbajack_5530908c-1800-4c3a-b9d3-2200ad5dadbe",
+        "machineURL": "LaskeumaKuume",
+        "discordURL": "https://discord.gg/Mn8FPYtGCK",
+        "websiteURL": ""
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 1162707,
+        "NumberOfArchives": 108,
+        "SizeOfArchives": 16652344047,
+        "NumberOfInstalledFiles": 5463,
+        "SizeOfInstalledFiles": 20614257548,
+        "TotalSize": 37266601595
+      },
+      "version": "0.2.10",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "2024-05-08T20:50:44.9135193Z",
+      "repositoryName": "F4FEVR"
+    }
+  },
+  "Dying_Breath_ViirSuum": {
+    "1.0": {
+      "title": "ViirSuum",
+      "description": "A **No Frills** Requiem list going back to the basics for a simple experience. Focusing on small immersive additions instead of major content for a vanilla style feel with increased difficulty and plans to expand Viir Su'um is back with a new vision!",
+      "author": "OddlyMistaken",
+      "maintainers": [
+        "github/OddlyMistaken"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": false,
+      "tags": [
+        "Survival"
+      ],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/OddlyMistaken/Viir-Su-um/main/Splash.png",
+        "readme": "https://github.com/OddlyMistaken/Viir-Su-um",
+        "download": "https://authored-files.wabbajack.org/Viir Su'um.wabbajack_4c605e52-9307-47eb-bc61-5d065ef5e704",
+        "machineURL": "ViirSuum",
+        "discordURL": "https://discord.com/invite/T3XQky6g9c",
+        "websiteURL": ""
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 1225247136,
+        "NumberOfArchives": 2203,
+        "SizeOfArchives": 136869426893,
+        "NumberOfInstalledFiles": 199284,
+        "SizeOfInstalledFiles": 187953553777,
+        "TotalSize": 324822980670
+      },
+      "version": "1.0",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "2025-07-30T23:30:41.5141983Z",
+      "repositoryName": "Dying_Breath"
+    }
+  },
+  "Geborgen_nordic-souls": {
+    "3.0.1": {
+      "title": "Nordic Souls",
+      "description": "Nordic Souls is a comprehensive visual and gameplay overhaul designed to modernize Skyrim while staying true to the game's Nordic theme. It provides a perfect balance between plenty of new content, a complete SimonRim gameplay overhaul, and beautiful yet performance-friendly visuals.",
+      "author": "Geborgen",
+      "maintainers": [
+        "github/Geborgen"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": true,
+      "tags": [
+        "Featured"
+      ],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/Geborgen/nordic-souls/main/.github/NordicSoulsBanner.png",
+        "readme": "https://github.com/Geborgen/nordic-souls/blob/main/README.md",
+        "download": "https://authored-files.wabbajack.org/Nordic Souls.wabbajack_818e396a-d108-40e4-86a5-d7c2fd0803c5",
+        "machineURL": "nordic-souls",
+        "discordURL": "https://discord.gg/9cRs3KPyuW",
+        "websiteURL": "https://www.nexusmods.com/skyrimspecialedition/mods/77497",
+        "nexusCollection": null
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 1415851178,
+        "NumberOfArchives": 1695,
+        "SizeOfArchives": 124296671102,
+        "NumberOfInstalledFiles": 244061,
+        "SizeOfInstalledFiles": 186828085902,
+        "TotalSize": 311124757004
+      },
+      "version": "3.0.1",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "2025-08-24T22:30:08.9770476Z",
+      "repositoryName": "Geborgen"
+    }
+  },
+  "Ilinalta_Ilinalta": {
+    "1.3.0": {
+      "title": "Ilinalta",
+      "description": "Ilinalta is a vanilla focused modlist that aims to deliver good visuals while maintaining compatibility with vanilla saves due to no required ESP/SKSE. ",
+      "author": "Veyrah",
+      "maintainers": [
+        "github/veyrah"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": false,
+      "tags": [
+        "Vanilla+"
+      ],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/Veyrah/Ilinalta/refs/heads/main/banner.webp",
+        "readme": "https://github.com/Veyrah/Ilinalta/blob/main/README.md",
+        "download": "https://authored-files.wabbajack.org/Ilinalta.wabbajack_6d33f672-4a4b-44cb-8079-747aa2c68803",
+        "machineURL": "Ilinalta",
+        "discordURL": "https://discord.gg/UHfVZQQu93",
+        "websiteURL": ""
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 90403686,
+        "NumberOfArchives": 245,
+        "SizeOfArchives": 39050873032,
+        "NumberOfInstalledFiles": 23147,
+        "SizeOfInstalledFiles": 61905380533,
+        "TotalSize": 100956253565
+      },
+      "version": "1.3.0",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "0001-01-01T00:00:00",
+      "repositoryName": "Ilinalta"
+    }
+  },
+  "Geborgen_dinoksetiid": {
+    "1.0.1": {
+      "title": "Dinoksetiid",
+      "description": "Dinoksetiid is a stylized dark fantasy modlist built around the Shattered Skyrim series of mods. Traverse a broken world decimated by the World Eater, and uncover the truth of what really happened. Become a hero of your own making in this post-apocalyptic Skyrim.",
+      "author": "Geborgen",
+      "maintainers": [
+        "github/Geborgen"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": false,
+      "tags": [],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/Geborgen/dinoksetiid/main/.github/DinoksetiidBanner.png",
+        "readme": "https://github.com/Geborgen/dinoksetiid/blob/main/README.md",
+        "download": "https://authored-files.wabbajack.org/Dinoksetiid.wabbajack_ed23fea6-7af7-45b5-a7dd-029674c66266",
+        "machineURL": "dinoksetiid",
+        "discordURL": "https://discord.com/invite/9cRs3KPyuW",
+        "websiteURL": ""
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 186550713,
+        "NumberOfArchives": 743,
+        "SizeOfArchives": 60207103913,
+        "NumberOfInstalledFiles": 174028,
+        "SizeOfInstalledFiles": 88765329902,
+        "TotalSize": 148972433815
+      },
+      "version": "1.0.1",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "2024-08-20T21:32:36.9241257Z",
+      "repositoryName": "Geborgen"
+    }
+  },
+  "ElderTeej_ElderTeej": {
+    "4.0.4": {
+      "title": "ElderTeej",
+      "description": "BFCO combat, every official LOTD display on Nexus, Vokord perk overhaul with vanilla skill leveling?\n\nThis is a power fantasy. You're the Dragonborn, kick some butt and fill that museum!",
+      "author": "tpartridge89",
+      "maintainers": [
+        "github/tpartridge89"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": false,
+      "tags": [
+        "Total Overhaul",
+        "Steam",
+        "Combat Overhaul",
+        "SFW"
+      ],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": false,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/tpartridge89/ElderTeej/refs/heads/main/ElderTeej16x9.webp",
+        "readme": "https://github.com/tpartridge89/ElderTeej/blob/main/README.md",
+        "download": "https://authored-files.wabbajack.org/ElderTeej.wabbajack_7469d114-a14e-445a-9fd3-a3c5cd931bdd",
+        "machineURL": "ElderTeej",
+        "discordURL": "https://discord.gg/r4YnyqGBBA",
+        "websiteURL": "",
+        "nexusCollection": null
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 2990194134,
+        "NumberOfArchives": 2671,
+        "SizeOfArchives": 228197875159,
+        "NumberOfInstalledFiles": 454295,
+        "SizeOfInstalledFiles": 438259907511,
+        "TotalSize": 666457782670
+      },
+      "version": "4.0.4",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "2026-04-18T04:22:29.4814151Z",
+      "repositoryName": "ElderTeej"
+    }
+  },
+  "EldergleamNG_EldergleamNG": {
+    "4.0.2": {
+      "title": "Eldergleam Next-Gen",
+      "description": "\ufeffEldergleam is a Skyrim Modlist that focuses on replacing Skyrim\u2019s vanilla visuals with 2k-4k photorealistic textures. Most of the textures are parallaxed, having that 3D look. Additionally, the animations have also been completely replaced, making the game feel more fluid and up to date to today\u2019s standards. Eldergleam was made for it to be easily modified by new and veteran moders who wants a base modlist that already has all the core mods needed to start modding and having one of the best visual mods to start of with. You\u2019ll be able to get the exact modlist with just a few clicks thanks to the amazing program Wabbajack.",
+      "author": "Capt. Panda",
+      "maintainers": [
+        "github/CaptPandaYT"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": false,
+      "tags": [],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/CaptPandaYT/Eldergleam-NG/main/logo.png",
+        "readme": "https://github.com/CaptPandaYT/Eldergleam-NG/blob/main/README.md",
+        "download": "https://authored-files.wabbajack.org/Eldergleam Next-Gen.wabbajack_bff49964-e500-4b0b-ab53-dde34b0c1187",
+        "machineURL": "EldergleamNG",
+        "discordURL": "https://discord.gg/5RRtjr9c",
+        "websiteURL": "",
+        "nexusCollection": null
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 1830685366,
+        "NumberOfArchives": 1961,
+        "SizeOfArchives": 181040567899,
+        "NumberOfInstalledFiles": 213885,
+        "SizeOfInstalledFiles": 229776176807,
+        "TotalSize": 410816744706
+      },
+      "version": "4.0.2",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "2025-10-25T14:46:16.0126733Z",
+      "repositoryName": "EldergleamNG"
+    }
+  },
+  "Journals_of_Jyggalag_Journals_of_Jyggalag": {
+    "3.4.0": {
+      "title": "Journals of Jyggalag",
+      "description": "Journals of Jyggalag (JOJ) is a NSFW Skyrim modlist combining stunning visuals, expanded quests, and rich lore integration for a cohesive and immersive experience. Featuring enhanced graphics, detailed landscapes, refined character models, and countless new storylines, JOJ transforms Skyrim into a vibrant, living world. With balanced gameplay improvements and performance tweaks, it offers a polished and captivating journey for both exploration and storytelling.",
+      "author": "Herr Schtevie",
+      "maintainers": [
+        "github/HerrSchtevie"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": false,
+      "tags": [
+        "NSFW",
+        "DLC Required"
+      ],
+      "nsfw": true,
+      "utility_list": false,
+      "image_contains_title": false,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/HerrSchtevie/Journals-of-Jyggalag/main/JOJ%20Wallpaper.png",
+        "readme": "https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/Journals-of-Jyggalag-ReadMe",
+        "download": "https://authored-files.wabbajack.org/Journals%20of%20Jyggalag.wabbajack_6a95c7ec-8c5b-428c-aa69-c047fa8ee9d1",
+        "machineURL": "Journals_of_Jyggalag",
+        "discordURL": "https://discord.gg/scrollsofschtevie",
+        "websiteURL": ""
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 1437567358,
+        "NumberOfArchives": 3496,
+        "SizeOfArchives": 311198469597,
+        "NumberOfInstalledFiles": 633595,
+        "SizeOfInstalledFiles": 612698137904,
+        "TotalSize": 923896607501
+      },
+      "version": "3.4.0",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "0001-01-01T00:00:00",
+      "repositoryName": "Journals_of_Jyggalag"
+    }
+  },
+  "HoS_HoS": {
+    "1.3.4": {
+      "title": "Halls of Sovngarde",
+      "description": "Halls of Sovngarde is a requiem based list which seeks to fully overhaul most elements of Skyrim entirely. With respects to Vanilla Skyrim, many of the old and beloved features of the game we all enjoy have been kept the same. On the other hand, areas which require updating and modernization have been put under the microscope, each minute detail modified to ensure the most modern and cohesive experience possible. This is not a vanilla list, nor is it a list which seeks to completely remove the original feel Skyrim gave us 12 years ago. This list will pay homage to the things we all grew to love while improving the look and overall feel.",
+      "author": "Camboi BYC",
+      "maintainers": [
+        "github/CamIce2002"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": true,
+      "tags": [
+        "Featured",
+        "Survival"
+      ],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/camice2002/HallsofSovngarde/main/HOS%20(1).png",
+        "readme": "https://www.modlists.net/docs/4hos/Install",
+        "download": "https://authored-files.wabbajack.org/Halls of Sovngarde.wabbajack_02943789-6027-4674-a069-251d9551cd20",
+        "machineURL": "HoS",
+        "discordURL": "https://discord.gg/43EhRjU",
+        "websiteURL": ""
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 202294136,
+        "NumberOfArchives": 2227,
+        "SizeOfArchives": 111905751600,
+        "NumberOfInstalledFiles": 241763,
+        "SizeOfInstalledFiles": 169577601059,
+        "TotalSize": 281483352659
+      },
+      "version": "1.3.4",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "2025-02-22T16:17:16.6211238Z",
+      "repositoryName": "HoS"
+    }
+  },
+  "CSVP_CSVP": {
+    "2.8.1": {
+      "title": "CSVP - A NGVO Fork",
+      "description": "Vanilla Focused modlist built upon the visuals in 'Next Generation Visual Overhaul'. It is intended as a packaged experience, but is sparing enough in sweeping overhauls to allow customization",
+      "author": "TheConversation",
+      "maintainers": [
+        "github/Colloquy99"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": false,
+      "tags": [
+        "SFW",
+        "Vanilla+"
+      ],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://staticdelivery.nexusmods.com/images/1704/13165815-1760406398.png",
+        "readme": "https://github.com/Colloquy99/CSVP/blob/main/README.md",
+        "download": "https://authored-files.wabbajack.org/CSVP - A NGVO Fork.wabbajack_55fff89b-76f6-4c52-9a6f-a0c42a3c7c91",
+        "machineURL": "CSVP",
+        "discordURL": "https://discord.gg/bungalo",
+        "websiteURL": "",
+        "nexusCollection": null
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 2693799203,
+        "NumberOfArchives": 2040,
+        "SizeOfArchives": 158011405288,
+        "NumberOfInstalledFiles": 199075,
+        "SizeOfInstalledFiles": 205121549759,
+        "TotalSize": 363132955047
+      },
+      "version": "2.8.1",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "2026-03-29T00:20:03.4275514Z",
+      "repositoryName": "CSVP"
+    }
+  },
+  "LoreRim_LoreRim": {
+    "4.0.35": {
+      "title": "LoreRim",
+      "description": "LoreRim is a modern action RPG modlist with a heavy emphasis on role-playing and making the lands of Skyrim feel alive. You'll encounter enemies and find gear seen in previous Elder Scrolls titles. Don't give up!",
+      "author": "Biggie_Boss",
+      "maintainers": [
+        "github/biggie-boss"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": true,
+      "tags": [
+        "Featured"
+      ],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://staticdelivery.nexusmods.com/mods/1704/images/112590/112590-1747509146-1248295040.png",
+        "readme": "https://lorerim.com/",
+        "download": "https://authored-files.wabbajack.org/LoreRim.wabbajack_f8df063f-be11-4642-a46d-db9572c4532f",
+        "machineURL": "LoreRim",
+        "discordURL": "https://discord.gg/bungalo",
+        "websiteURL": "https://lorerim.com/"
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 3464288481,
+        "NumberOfArchives": 4239,
+        "SizeOfArchives": 268600934231,
+        "NumberOfInstalledFiles": 393830,
+        "SizeOfInstalledFiles": 357992462439,
+        "TotalSize": 626593396670
+      },
+      "version": "4.0.35",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "2025-07-13T00:58:51.2920114Z",
+      "repositoryName": "LoreRim"
+    }
+  },
+  "Keizaal_keizaal": {
+    "8.0.1": {
+      "title": "Keizaal",
+      "description": "Keizaal is a simple modlist that focuses on improving what is already presented to us in vanilla Skyrim without compromising Bethesda\u2019s original vision that we all fell in love with back in 2011.",
+      "author": "Tate Taylor",
+      "maintainers": [
+        "github/TateTaylorOH"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": true,
+      "tags": [
+        "Featured"
+      ],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/8.0.1.png",
+        "readme": "https://keizaal.github.io/Keizaal/",
+        "download": "https://authored-files.wabbajack.org/Keizaal.wabbajack_255f8976-1f88-4f98-aa96-ceacd74a5c6a",
+        "machineURL": "keizaal",
+        "discordURL": "https://discord.gg/eYZJFP8",
+        "websiteURL": ""
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 13007956,
+        "NumberOfArchives": 1013,
+        "SizeOfArchives": 40639413851,
+        "NumberOfInstalledFiles": 195347,
+        "SizeOfInstalledFiles": 83020259157,
+        "TotalSize": 123659673008
+      },
+      "version": "8.0.1",
+      "dateCreated": "2020-02-16T00:00:00Z",
+      "dateUpdated": "2024-11-02T21:43:22.3329047Z",
+      "repositoryName": "Keizaal"
+    }
+  },
+  "Gate_to_Sovngarde_GateToSovngarde_WJ_AE": {
+    "0.101.0": {
+      "title": "Gate to Sovngarde AE Version",
+      "description": "Gate to Sovngarde is a love letter to the Skyrim modding community, and I hope you enjoy it as much as I do. \r\n\r\n-JaySerpa \r\n\r\nIMPORTANT: This modlist comes in 2 stand-alone Versions: Anniversary Edition Version and Non-AE Version. Be sure to download the right one! \r\n\r\nAnniversary Edition (AE) refers to the Anniversary Edition Upgrade DLC (https://store.steampowered.com/app/1746860/The_Elder_Scrolls_V_Skyrim_Anniversary_Upgrade/). Choose one version or the other depending if you have this DLC or not.",
+      "author": "JaySerpa - converted to Wabbajack by flimsy",
+      "maintainers": [
+        "github/FlimsyParking"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": false,
+      "tags": [
+        "SFW"
+      ],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": false,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/FlimsyParking/Gate-to-Sovngarde-Wabbajack/main/GtS_Thumbnail_for_Wabbajack_1080p.webp",
+        "readme": "https://github.com/FlimsyParking/Gate-to-Sovngarde-Wabbajack/blob/main/README.md",
+        "download": "https://authored-files.wabbajack.org/Gate to Sovngarde Anniversary Edition Upgrade.wabbajack_d02f0ee0-78c6-4865-a963-4949a98b4965",
+        "machineURL": "GateToSovngarde_WJ_AE",
+        "discordURL": "https://discord.gg/jayserpa",
+        "websiteURL": "",
+        "nexusCollection": null
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 25959768,
+        "NumberOfArchives": 2145,
+        "SizeOfArchives": 83563593553,
+        "NumberOfInstalledFiles": 225971,
+        "SizeOfInstalledFiles": 133082096038,
+        "TotalSize": 216645689591
+      },
+      "version": "0.101.0",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "0001-01-01T00:00:00",
+      "repositoryName": "Gate_to_Sovngarde"
+    }
+  },
+  "Kahnezzer_OldNewEngland": {
+    "1.2": {
+      "title": "Old New England",
+      "description": "Old New England is a modlist built for the players, not the creator. With over 1,000 mods, it's grounded in organization and stability. It's Fallout 4 with smarter systems, better encounters, and a world that truly feels alive. Every area has been improved and expanded, but without the unnecessary bloat. Ultimately, it\u2019s about bringing the Commonwealth to life in a way that feels fresh.",
+      "author": "Kahnezzer",
+      "maintainers": [
+        "github/Kahnezzer"
+      ],
+      "game": "Fallout4",
+      "official": false,
+      "tags": [
+        "Steam",
+        "Total Overhaul"
+      ],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": false,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/Kahnezzer/oldnewenglandresources/refs/heads/main/ONEcover.jpg",
+        "readme": "https://github.com/Kahnezzer/OldNewEngland/blob/main/README.md",
+        "download": "https://authored-files.wabbajack.org/ONE.wabbajack_93bdf138-3232-4c44-91c9-77c611c802ec",
+        "machineURL": "OldNewEngland",
+        "discordURL": "https://discord.gg/nxnqZyUf55",
+        "websiteURL": "https://github.com/Kahnezzer/OldNewEngland/blob/main/README.md",
+        "nexusCollection": null
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 334255825,
+        "NumberOfArchives": 1264,
+        "SizeOfArchives": 166636844824,
+        "NumberOfInstalledFiles": 138769,
+        "SizeOfInstalledFiles": 188785993696,
+        "TotalSize": 355422838520
+      },
+      "version": "1.2",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "2026-01-08T14:28:24.1670832Z",
+      "repositoryName": "Kahnezzer"
+    }
+  },
+  "Mad_Gods_Overhaul_MadGodsOverhaul": {
+    "3.6.2": {
+      "title": "Mad Gods Overhaul SFW",
+      "description": "Mad God Overhaul SFW, the definitive high end Skyrim VR experience.  Inspired by top SE/AE lists such as Nolvus and Lorerim.  Every aspect of the Bethesda original was painstakingly remastered with the best mods from 2025. Supports latest Community Shaders, full PBR texture and Season of Skyrim.  Every city, town, and village looks epic.  Loaded with high quality quest expansion contents for countless hours of gameplay.  Pre-Installed with Mantella AI for maximum immersion.  Come and find out what you have been missing.",
+      "author": "Moyse06",
+      "maintainers": [
+        "github/Moyse06"
+      ],
+      "game": "SkyrimVR",
+      "official": false,
+      "tags": [
+        "VR"
+      ],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/Moyse06/MadGodsOverhaul/main/sfw_splash.png",
+        "readme": "https://raw.githubusercontent.com/Moyse06/MadGodsOverhaul/main/README.md",
+        "download": "https://authored-files.wabbajack.org/Skyrim VR Mad God Overhaul - SFW.wabbajack_a2541610-6de3-482c-8629-fd6854334c05",
+        "machineURL": "MadGodsOverhaul",
+        "discordURL": "https://discord.com/invite/WjSUaSPaQZ",
+        "websiteURL": ""
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 7042463209,
+        "NumberOfArchives": 1815,
+        "SizeOfArchives": 149584243106,
+        "NumberOfInstalledFiles": 370628,
+        "SizeOfInstalledFiles": 281654192501,
+        "TotalSize": 431238435607
+      },
+      "version": "3.6.2",
+      "dateCreated": "2023-12-31T00:00:00Z",
+      "dateUpdated": "2025-06-06T00:00:00Z",
+      "repositoryName": "Mad_Gods_Overhaul"
+    }
+  },
+  "NGVO_DNGG": {
+    "2.8.5": {
+      "title": "Do Not Go Gentle",
+      "description": "Do Not Go Gentle started off as a personal list that was built off of AVO-AE with Requiem. You'll see a different choice of followers than the usual, quest additions, vanilla quest tweaks/enhancements, a full combat overhaul, a religion overhaul, along with npc replacers, a full visual overhaul based on AVO-AE, and lots of character customization options.",
+      "author": "Abandoned_by_Arkay",
+      "maintainers": [
+        "github/biggie-boss"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": true,
+      "tags": [
+        "Featured",
+        "Hardcore"
+      ],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://staticdelivery.nexusmods.com/mods/1704/images/112590/112590-1746666283-550023726.png",
+        "readme": "https://github.com/Arkay-1248/Do-Not-Go-Gentle/blob/main/Readme.md",
+        "download": "https://authored-files.wabbajack.org/Do Not Go Gentle.wabbajack_75adc0d0-f971-4b18-b7a4-1b82ac8ccec9",
+        "machineURL": "DNGG",
+        "discordURL": "https://discord.gg/bungalo",
+        "websiteURL": ""
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 362226959,
+        "NumberOfArchives": 2009,
+        "SizeOfArchives": 165949746826,
+        "NumberOfInstalledFiles": 296651,
+        "SizeOfInstalledFiles": 279792199543,
+        "TotalSize": 445741946369
+      },
+      "version": "2.8.5",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "2025-03-05T02:31:02.1240509Z",
+      "repositoryName": "NGVO"
+    }
+  },
+  "lukxsofficial_lukxsofficiallists": {
+    "0.9": {
+      "title": "Ashveil - Eine Deutsche Modliste",
+      "description": "Ashveil ist eine d\u00fcstere Fantasy-\u00dcberarbeitung von Skyrim, die Soulslike-Kampfmechanik, kompromissloses \u00dcberleben und beeindruckende Atmosph\u00e4re vereint.",
+      "author": "lukxsofficial",
+      "maintainers": [
+        "github/lukxsofficial"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": false,
+      "tags": [
+        "SFW",
+        "Steam",
+        "Vanilla+",
+        "Combat Overhaul"
+      ],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/lukxsofficial/modlists/main/AshveilTitle.webp",
+        "readme": "https://www.nexusmods.com/skyrimspecialedition/mods/150110",
+        "download": "https://authored-files.wabbajack.org/Ashveil - Eine Deutsche Modliste.wabbajack_97d6244f-ee6c-4400-9a87-3c5a999afdd8",
+        "machineURL": "lukxsofficiallists",
+        "discordURL": "https://discord.gg/tamriel",
+        "websiteURL": ""
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 433922778,
+        "NumberOfArchives": 1056,
+        "SizeOfArchives": 108630357049,
+        "NumberOfInstalledFiles": 111019,
+        "SizeOfInstalledFiles": 156479763062,
+        "TotalSize": 265110120111
+      },
+      "version": "0.9",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "2025-07-29T17:17:14.0877176Z",
+      "repositoryName": "lukxsofficial"
+    }
+  },
+  "Just_Another_Requiem_List_Just_Another_Requiem_List": {
+    "2.2": {
+      "title": "Just Another Requiem List",
+      "description": "JARL is a minimalistic Requiem modlist that offers optimized graphics. List runs under 2.3GB VRAM while also looking great",
+      "author": "Beth6",
+      "maintainers": [
+        "github/mccakit"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": false,
+      "tags": [],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": false,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://imgur.com/a7HInBm.jpg",
+        "readme": "https://github.com/mccakit/Just_Another_Requiem_List/blob/main/README.md",
+        "download": "https://authored-files.wabbajack.org/JARL.wabbajack_4b9f58fa-2731-469b-8b5f-7c6a9bc35781",
+        "machineURL": "Just_Another_Requiem_List",
+        "discordURL": "<your discord link here>",
+        "websiteURL": ""
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 403131043,
+        "NumberOfArchives": 665,
+        "SizeOfArchives": 54177596050,
+        "NumberOfInstalledFiles": 100928,
+        "SizeOfInstalledFiles": 69152316966,
+        "TotalSize": 123329913016
+      },
+      "version": "2.2",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "0001-01-01T00:00:00",
+      "repositoryName": "Just_Another_Requiem_List"
+    }
+  },
+  "Mad_Gods_Overhaul_MadGodsOverhaulFO4VR": {
+    "1.5.2": {
+      "title": "Mad God Overhaul",
+      "description": "Every aspect of the Bethesda original was painstakingly remastered with the best mods from 2025. Supports latest weather, texture and lighting.  Loaded with high quality quest expansion contents for countless hours of gameplay.  Choose between Classic Fallout 4 VR experience and modern tactical experience from the same installation.  Come and find out what you have been missing.",
+      "author": "Moyse06",
+      "maintainers": [
+        "github/Moyse06"
+      ],
+      "game": "Fallout4VR",
+      "official": false,
+      "tags": [
+        "VR"
+      ],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/Moyse06/MadGodsOverhaul/main/fallout4_splash.png",
+        "readme": "https://raw.githubusercontent.com/Moyse06/MadGodsOverhaul/main/README.md",
+        "download": "https://authored-files.wabbajack.org/Fallout 4 VR - Mad God Overhaul.wabbajack_e5a438f2-87d2-46b3-b3e1-d66ad9855f34",
+        "machineURL": "MadGodsOverhaulFO4VR",
+        "discordURL": "https://discord.com/invite/WjSUaSPaQZ",
+        "websiteURL": ""
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 153444042,
+        "NumberOfArchives": 309,
+        "SizeOfArchives": 92815057015,
+        "NumberOfInstalledFiles": 17958,
+        "SizeOfInstalledFiles": 107192705337,
+        "TotalSize": 200007762352
+      },
+      "version": "1.5.2",
+      "dateCreated": "2023-12-31T00:00:00Z",
+      "dateUpdated": "2025-06-02T00:00:00Z",
+      "repositoryName": "Mad_Gods_Overhaul"
+    }
+  },
+  "LostOutpost_arcanaeum": {
+    "1.2.1": {
+      "title": "Arcanaeum",
+      "description": "Arcanaeum is a lightweight and elegant modlist containing carefully chosen bug fixes, gameplay balance changes and new content. It contains full anniversary edition content and rebalancing as well as the absolute best community quests and new items fully custom integrated.",
+      "author": "guitarninja",
+      "maintainers": [
+        "github/guitarninja2"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": false,
+      "tags": [],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://staticdelivery.nexusmods.com/mods/1704/images/125198/125198-1721927884-77198350.png",
+        "readme": "https://github.com/Lost-Outpost/arcanaeum/blob/main/README.md",
+        "download": "https://authored-files.wabbajack.org/Arcanaeum.wabbajack_eda5fa40-67a4-4763-aee8-94799ef273bc",
+        "machineURL": "arcanaeum",
+        "discordURL": "https://discord.gg/WF66mMu",
+        "websiteURL": ""
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 251455394,
+        "NumberOfArchives": 265,
+        "SizeOfArchives": 31112773079,
+        "NumberOfInstalledFiles": 66381,
+        "SizeOfInstalledFiles": 56164759704,
+        "TotalSize": 87277532783
+      },
+      "version": "1.2.1",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "2025-04-04T14:36:11.244094Z",
+      "repositoryName": "LostOutpost"
+    }
+  },
+  "LostOutpost_lostlegacy": {
+    "1.2.1": {
+      "title": "Lost Legacy",
+      "description": "Lost Legacy is a full on power fantasy modlist (Vokriinator \\u002B EnaiRim) with a massive amount of new quest mods, 5000\\u002B LotD Museum displays, vibrant high fantasy visuals, and optional survival mechanics! Performance mode available too!",
+      "author": "GreatPadinski",
+      "maintainers": [
+        "github/GreatPadinski",
+        "GreatPadinski"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": true,
+      "tags": [
+        "Featured"
+      ],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/Lost-Outpost/lost-legacy/main/images/banner.webp",
+        "readme": "https://github.com/Lost-Outpost/lost-legacy/blob/main/README.md",
+        "download": "https://authored-files.wabbajack.org/Lost Legacy.wabbajack_a3297d50-c99c-454f-b98b-0c4cf41d096a",
+        "machineURL": "lostlegacy",
+        "discordURL": "https://discord.gg/WF66mMu",
+        "websiteURL": ""
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 355589078,
+        "NumberOfArchives": 1422,
+        "SizeOfArchives": 144616734350,
+        "NumberOfInstalledFiles": 220226,
+        "SizeOfInstalledFiles": 222736971979,
+        "TotalSize": 367353706329
+      },
+      "version": "1.2.1",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "2024-01-18T18:45:33.752155Z",
+      "repositoryName": "LostOutpost"
+    }
+  },
+  "MagesAndVikings_MagesAndVikings": {
+    "2.5.1": {
+      "title": "Mages & Vikings",
+      "description": "Some may call this junk. Me, I call this Mages & Vikings.",
+      "author": "SEEYOULHATER",
+      "maintainers": [
+        "github/nicolasbertolino"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": true,
+      "tags": [
+        "Featured",
+        "High Fantasy",
+        "SFW"
+      ],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": false,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/nicolasbertolino/MagesAndVikings/main/banner.webp",
+        "readme": "https://github.com/nicolasbertolino/MagesAndVikings/blob/main/README.md",
+        "download": "https://authored-files.wabbajack.org/Mages & Vikings.wabbajack_4ca30c4e-8b8c-4fe6-810b-f511f7beeb68",
+        "machineURL": "MagesAndVikings",
+        "discordURL": "https://discord.gg/Newa3dj5pZ",
+        "websiteURL": "",
+        "nexusCollection": null
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 488004335,
+        "NumberOfArchives": 3638,
+        "SizeOfArchives": 224701468203,
+        "NumberOfInstalledFiles": 275824,
+        "SizeOfInstalledFiles": 357940092749,
+        "TotalSize": 582641560952
+      },
+      "version": "2.5.1",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "2026-03-15T21:08:27.7960022Z",
+      "repositoryName": "MagesAndVikings"
+    }
+  },
+  "ModdingLinked_ADragonbornsFate": {
+    "17.8.25": {
+      "title": "A Dragonborn's Fate",
+      "description": "A Dragonborn's Fate is a modlist for Skyrim Special Edition that will give you a perfectly stable, smooth and enjoyable experience.",
+      "author": "ModdingLinked",
+      "maintainers": [
+        "github/Ungeziefi",
+        "github/WallSoGB"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": false,
+      "tags": [],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/ModdingLinked/ML-Wabbajack/main/DBF Image.webp",
+        "readme": "https://dragonbornsfate.moddinglinked.com/wabbajack.html",
+        "download": "https://authored-files.wabbajack.org/A Dragonborn's Fate.wabbajack_cb25a86f-0359-4012-b47b-3c00179b1908",
+        "machineURL": "ADragonbornsFate",
+        "discordURL": "https://discord.gg/S99Ary5eba",
+        "websiteURL": ""
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 34263904,
+        "NumberOfArchives": 145,
+        "SizeOfArchives": 5438317654,
+        "NumberOfInstalledFiles": 16351,
+        "SizeOfInstalledFiles": 8230449382,
+        "TotalSize": 13668767036
+      },
+      "version": "17.8.25",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "2025-08-17T02:22:50.2802799Z",
+      "repositoryName": "ModdingLinked"
+    }
+  },
+  "Nolvus_Nolvus": {
+    "6.0.20": {
+      "title": "Nolvus",
+      "description": "Nolvus 6 Awakening",
+      "author": "Vektor",
+      "game": "SkyrimSpecialEdition",
+      "links": {
+        "image": "/static/nolvus6-0.jpg",
+        "readme": "https://www.nolvus.net/",
+        "machineURL": "Nolvus",
+        "discordURL": "https://discord.gg/Zkh5PwD"
+      },
+      "download_metadata": {
+        "NumberOfArchives": 3727,
+        "SizeOfInstalledFiles": 435723607390
+      },
+      "version": "6.0.20",
+      "repositoryName": "Nolvus"
+    }
+  },
+  "LostOutpost_windsofthenorth": {
+    "3.0.3": {
+      "title": "Winds of the North",
+      "description": "Winds of the North is a lightweight modlist that focuses on improving Skyrim\u2019s gameplay and adding new content to experience, while also preserving the aesthetic of the original game.",
+      "author": "colinswrath",
+      "maintainers": [
+        "github/colinswrath"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": true,
+      "tags": [
+        "Featured"
+      ],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/colinswrath/WindsOfTheNorth/main/images/WindsofTheNorthLogo2k.png",
+        "readme": "https://colinswrath.github.io/WindsOfTheNorth/",
+        "download": "https://authored-files.wabbajack.org/WindsoftheNorth.wabbajack_6e41a6ef-d286-491a-bbfa-363bcc8099da",
+        "machineURL": "windsofthenorth",
+        "discordURL": "https://discord.gg/WF66mMu",
+        "websiteURL": "https://colinswrath.github.io/WindsOfTheNorth/",
+        "nexusCollection": null
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 148222532,
+        "NumberOfArchives": 714,
+        "SizeOfArchives": 52443276453,
+        "NumberOfInstalledFiles": 93760,
+        "SizeOfInstalledFiles": 63055417822,
+        "TotalSize": 115498694275
+      },
+      "version": "3.0.3",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "2025-12-10T14:44:21.254778Z",
+      "repositoryName": "LostOutpost"
+    }
+  },
+  "NGVO_NGVO": {
+    "6.0.2": {
+      "title": "NGVO",
+      "description": "Next Generation Visual Overhaul (or NGVO) is a visual-only modlist for Skyrim Anniversary Edition. Containing all the latest bugfixes and visual addons, it aims to use all the cutting-edge modding technology available.",
+      "author": "Biggie_Boss",
+      "maintainers": [
+        "github/biggie-boss"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": true,
+      "tags": [
+        "Featured"
+      ],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://camo.githubusercontent.com/5764dd92e0f422bc99c0fb572e3fd958f6fc432a9f22e3c878b9bb1d8e380613/68747470733a2f2f73746174696364656c69766572792e6e657875736d6f64732e636f6d2f6d6f64732f313730342f696d616765732f3131393937322f3131393937322d313732343936373931362d313236333339343437332e706e67",
+        "readme": "https://github.com/biggie-boss/NGVO/blob/main/README.md",
+        "download": "https://authored-files.wabbajack.org/NGVO.wabbajack_6cbd8dc9-3a19-4dd3-943c-9953529fa74f",
+        "machineURL": "NGVO",
+        "discordURL": "https://discord.gg/bungalo",
+        "websiteURL": "https://github.com/biggie-boss/NGVO/blob/main/README.md"
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 667491190,
+        "NumberOfArchives": 1528,
+        "SizeOfArchives": 135349402418,
+        "NumberOfInstalledFiles": 144227,
+        "SizeOfInstalledFiles": 179858435840,
+        "TotalSize": 315207838258
+      },
+      "version": "6.0.2",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "2025-06-01T21:14:00.8038337Z",
+      "repositoryName": "NGVO"
+    }
+  },
+  "NotToddHoward_SkyrimPluslink": {
+    "1.2.0": {
+      "title": "Skyrim+",
+      "description": "This mod list is vanilla-based. It adds content without significantly altering the visuals. It tries to respect the original vision",
+      "author": "NotToddHoward",
+      "maintainers": [
+        "github.com/NotToddHoward"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": false,
+      "tags": [
+        "SFW",
+        "Steam",
+        "Vanilla+"
+      ],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": false,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/NotToddHoward/SkyrimPlus/main/Skyrim%2B.webp",
+        "readme": "https://nottoddhoward.github.io/Skyrim-Readme/",
+        "download": "https://authored-files.wabbajack.org/Skyrim+.wabbajack_88028e30-c090-4038-ac31-722e734008fe",
+        "machineURL": "SkyrimPluslink",
+        "discordURL": "https://discord.gg/Z9pj2KWZRw",
+        "websiteURL": ""
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 254898393,
+        "NumberOfArchives": 1187,
+        "SizeOfArchives": 96935350791,
+        "NumberOfInstalledFiles": 216087,
+        "SizeOfInstalledFiles": 144356564990,
+        "TotalSize": 241291915781
+      },
+      "version": "1.2.0",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "0001-01-01T00:00:00",
+      "repositoryName": "NotToddHoward"
+    }
+  },
+  "NGVO_ETERNAL": {
+    "1.0.0": {
+      "title": "Skyrim Eternal Edition",
+      "description": "Skyrim Eternal Edition is a collecting and questing focused modern Skyrim experience. With beautiful visuals, quality content addons and tons of modern mechanics, you'll be playing Skyrim for eternity.",
+      "author": "Biggie_Boss",
+      "maintainers": [
+        "github/biggie-boss"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": false,
+      "tags": [],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://staticdelivery.nexusmods.com/mods/1704/images/112590/112590-1743893423-1511941662.png",
+        "readme": "https://github.com/biggie-boss/NGVO/blob/main/README.md",
+        "download": "https://authored-files.wabbajack.org/Skyrim%20Eternal%20Edition.wabbajack_8cefee64-79a8-43dd-a250-70a0d0d0fc0d",
+        "machineURL": "ETERNAL",
+        "discordURL": "https://discord.gg/bungalo",
+        "websiteURL": ""
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 589742880,
+        "NumberOfArchives": 2222,
+        "SizeOfArchives": 192972568839,
+        "NumberOfInstalledFiles": 261384,
+        "SizeOfInstalledFiles": 273761934330,
+        "TotalSize": 466734503169
+      },
+      "version": "1.0.0",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "0001-01-01T00:00:00",
+      "repositoryName": "NGVO"
+    }
+  },
+  "NYA_sandland": {
+    "1.3": {
+      "title": "Sandland",
+      "description": "Release Version of Sandland. 1164 Mods. Complete Overhaul of Fallout 4 with a Desert Theme. Very High Performance Friendly. Reactor ENB. Over 100 new Creatures and Weapons, and more then 1000 Clothing/Armors. New Perk System Overhaul.",
+      "author": "Vermillion",
+      "maintainers": [
+        "github/Millionsfrost"
+      ],
+      "game": "Fallout4",
+      "official": false,
+      "tags": [],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/Millionsfrost/N.Y.A-NSFW-Modlist-Skyrim/main/Sandland-Fallout-4-banner.webp",
+        "readme": "https://github.com/Millionsfrost/N.Y.A-NSFW-Modlist-Skyrim/blob/main/Sandland-Fallout-4-SFW.md",
+        "download": "https://authored-files.wabbajack.org/Sandland Remake.wabbajack_aa3ea4c7-710c-4a23-8da8-e7c4469586a7",
+        "machineURL": "sandland",
+        "discordURL": "https://discord.gg/V38xZ6CtzQ",
+        "websiteURL": ""
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 336168444,
+        "NumberOfArchives": 1400,
+        "SizeOfArchives": 284513299735,
+        "NumberOfInstalledFiles": 138599,
+        "SizeOfInstalledFiles": 402311011209,
+        "TotalSize": 686824310944
+      },
+      "version": "1.3",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "2025-07-19T21:36:13.6962688Z",
+      "repositoryName": "NYA"
+    }
+  },
+  "Scrolls_of_Schtevie_TomesOfTalos": {
+    "4.1.1": {
+      "title": "Tomes of Talos",
+      "description": "Tomes of Talos (TOT) is a lore-rich, SFW Skyrim modlist from The Modding Bordello, spun from the foundations of Journals of Jyggalag and designed to deliver a stable, immersive, and cohesive experience focused on storytelling, exploration, and visual fidelity. Every addition has been hand-picked to enhance Skyrim\u2019s atmosphere without breaking its lore or tone.",
+      "author": "Herr Schtevie",
+      "maintainers": [
+        "github/HerrSchtevie"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": false,
+      "tags": [
+        "DLC Required",
+        "SFW"
+      ],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": false,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/HerrSchtevie/Scrolls-of-Schtevie/refs/heads/main/assets/TOT%20Wallpaper.webp",
+        "readme": "https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/Tomes-of-Talos-ReadMe",
+        "download": "https://authored-files.wabbajack.org/Tomes%20of%20Talos.wabbajack_0642a4ea-82ce-4c4d-8bcb-3dcd355bd909",
+        "machineURL": "TomesOfTalos",
+        "discordURL": "https://discord.gg/themoddingbordello",
+        "websiteURL": "",
+        "nexusCollection": null
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 846321754,
+        "NumberOfArchives": 3426,
+        "SizeOfArchives": 274897053397,
+        "NumberOfInstalledFiles": 632254,
+        "SizeOfInstalledFiles": 503019915446,
+        "TotalSize": 777916968843
+      },
+      "version": "4.1.1",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "0001-01-01T00:00:00",
+      "repositoryName": "Scrolls_of_Schtevie"
+    }
+  },
+  "SICKnasty-FO4_sicknastyfo4": {
+    "3.0.0": {
+      "title": "SICKnasty",
+      "description": "Over 1k handpicked & carefully patched mods that combine via Wabbajack to make your Fallout 4 survival mode playthrough more fun, challenging, & packed with content!",
+      "author": "KCisSICKnasty",
+      "maintainers": [
+        "github/KCisSICKnasty"
+      ],
+      "game": "Fallout4",
+      "official": false,
+      "tags": [
+        "Survival"
+      ],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/KCisSICKnasty/SICKnasty-FO4/refs/heads/main/resized%20word.webp",
+        "readme": "https://github.com/KCisSICKnasty/SICKnasty-FO4/blob/main/README.md",
+        "download": "https://authored-files.wabbajack.org/SICKnasty - FO4.wabbajack_126f65ea-5685-41b8-8e66-54c9cd1a7690",
+        "machineURL": "sicknastyfo4",
+        "discordURL": "https://discord.gg/W9HRjDFVzX",
+        "websiteURL": ""
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 3984713907,
+        "NumberOfArchives": 2031,
+        "SizeOfArchives": 204996565458,
+        "NumberOfInstalledFiles": 153510,
+        "SizeOfInstalledFiles": 255080388518,
+        "TotalSize": 460076953976
+      },
+      "version": "3.0.0",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "2025-04-25T22:04:59.8987269Z",
+      "repositoryName": "SICKnasty-FO4"
+    }
+  },
+  "Palette_Alpyne": {
+    "1.6.1": {
+      "title": "Alpyne",
+      "description": "Alpyne is a heroic fantasy vanilla plus modlist. Leveraging the likes of Skyrim Redone and Skyrim Realistic Conquering, Alpyne seeks to create an experience that is as visceral as it is striking",
+      "author": "Ferroxius",
+      "maintainers": [
+        "github/Ferroxius"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": true,
+      "tags": [
+        "Featured"
+      ],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/Ferroxius/Palette/main/Alpyne.png",
+        "readme": "https://raw.githubusercontent.com/Ferroxius/Palette/main/Alpyne_Installation.md",
+        "download": "https://authored-files.wabbajack.org/Alpyne%20(1).wabbajack_9ac505b3-e547-4744-aef2-f9e8419c8a1b",
+        "machineURL": "Alpyne",
+        "discordURL": "https://discord.gg/xRrHRsb5e9",
+        "websiteURL": "",
+        "nexusCollection": null
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 1302640607,
+        "NumberOfArchives": 1442,
+        "SizeOfArchives": 91486578793,
+        "NumberOfInstalledFiles": 140678,
+        "SizeOfInstalledFiles": 112851750547,
+        "TotalSize": 204338329340
+      },
+      "version": "1.6.1",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "2025-06-13T16:42:43.847415Z",
+      "repositoryName": "Palette"
+    }
+  },
+  "Palette_Untitled": {
+    "1.0.0": {
+      "title": "Untitled Skyrim Modlist",
+      "description": "On an ordinary day like no other, John Skyrim decided to mix his skooma with honningbrew mead, and he was never the same again",
+      "author": "Ferroxius",
+      "maintainers": [
+        "github/Ferroxius"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": false,
+      "tags": [],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/Ferroxius/Palette/main/Untitled.png",
+        "readme": "https://raw.githubusercontent.com/Ferroxius/Palette/main/README.md",
+        "download": "https://authored-files.wabbajack.org/USM.wabbajack_e1a52643-571b-443a-9ade-a2624fc0f6c2",
+        "machineURL": "Untitled",
+        "discordURL": "https://discord.gg/xRrHRsb5e9",
+        "websiteURL": ""
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 140096360,
+        "NumberOfArchives": 841,
+        "SizeOfArchives": 83863702996,
+        "NumberOfInstalledFiles": 187015,
+        "SizeOfInstalledFiles": 99389646361,
+        "TotalSize": 183253349357
+      },
+      "version": "1.0.0",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "2024-02-02T11:50:45.5777715Z",
+      "repositoryName": "Palette"
+    }
+  },
+  "TempSME_sme": {
+    "2.7.1": {
+      "title": "Skyrim Modding Essentials",
+      "description": "Skyrim Modding Essentials is a lean utility Wabbajack list for Skyrim Special Edition, intended to jumpstart a new mod setup with all the required tools and basic mods.",
+      "author": "Phoenix",
+      "maintainers": [
+        "github/foreverphoenix",
+        "phoenix",
+        "github/Styyx1",
+        "github/TDarkShadow"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": true,
+      "tags": [
+        "Featured",
+        "Utility"
+      ],
+      "nsfw": false,
+      "utility_list": true,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/foreverphoenix/the-phoenix-flavour/master/skyrim-modding-essentials.webp",
+        "readme": "https://raw.githubusercontent.com/foreverphoenix/the-phoenix-flavour/master/WABBAJACK-SME.md",
+        "download": "https://authored-files.wabbajack.org/Skyrim Modding Essentials.wabbajack_7c422547-564e-47ad-b165-59be964a3abc",
+        "machineURL": "sme",
+        "discordURL": "https://discord.gg/xRrHRsb5e9",
+        "websiteURL": ""
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 30404713,
+        "NumberOfArchives": 301,
+        "SizeOfArchives": 17875141558,
+        "NumberOfInstalledFiles": 21541,
+        "SizeOfInstalledFiles": 20490781737,
+        "TotalSize": 38365923295
+      },
+      "version": "2.7.1",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "2025-03-09T17:23:25.1125444Z",
+      "repositoryName": "TempSME"
+    }
+  },
+  "theoldnorth_theoldnorth": {
+    "2.0.3": {
+      "title": "The Old North",
+      "description": "The Old North is vanilla Skyrim, perfected. Just under 300 mods have been chosen to polish the BGS jankiness and focus on the game's strengths. Upscaled textures, improved NPCs, and more tactical combat come together to create the ultimate vanilla plus experience.",
+      "author": "granfdad",
+      "maintainers": [
+        "github/granfdad"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": false,
+      "tags": [
+        "SFW",
+        "Steam",
+        "Vanilla+"
+      ],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/granfdad/the-old-north/refs/heads/main/theoldnorthbanner.png",
+        "readme": "https://www.nexusmods.com/skyrimspecialedition/mods/121712",
+        "download": "https://authored-files.wabbajack.org/The Old North.wabbajack_b3d79af6-2682-4550-a1ab-7d9fcacefa7d",
+        "machineURL": "theoldnorth",
+        "discordURL": "https://discord.gg/xRrHRsb5e9",
+        "websiteURL": ""
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 21406686,
+        "NumberOfArchives": 407,
+        "SizeOfArchives": 48813384332,
+        "NumberOfInstalledFiles": 45488,
+        "SizeOfInstalledFiles": 61634687816,
+        "TotalSize": 110448072148
+      },
+      "version": "2.0.3",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "2025-06-02T01:30:12.2621548Z",
+      "repositoryName": "theoldnorth"
+    }
+  },
+  "SkyGround_Chronicles_Worromot": {
+    "1.0.1": {
+      "title": "Worromot - Tamriel gone off the skooma again",
+      "description": "Built by ChickenMike, Ivy and MissileMann, Worromot is the Elder Scrolls V: Skyrim experience that asks, \u201cWhat if Todd had no rules?\u201d This modlist is a chaotic love letter to memes, mayhem, and moments that make you laugh so hard you accidentally FUS RO DAH your keyboard.",
+      "author": "ChickenMike, Ivy and MissileMann",
+      "maintainers": [
+        "github/ItzIvy05"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": false,
+      "tags": [
+        "SFW",
+        "High Fantasy",
+        "Steam"
+      ],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/ItzIvy05/worromot/main/Resources/122.jpg",
+        "readme": "https://github.com/ItzIvy05/worromot/blob/main/README.md",
+        "download": "https://authored-files.wabbajack.org/Worromot.wabbajack_f2a195ad-bc08-4bf1-9f76-3f6551fd6013",
+        "machineURL": "Worromot",
+        "discordURL": "https://discord.gg/wrYsKqx4",
+        "websiteURL": ""
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 170976445,
+        "NumberOfArchives": 451,
+        "SizeOfArchives": 54384604715,
+        "NumberOfInstalledFiles": 142114,
+        "SizeOfInstalledFiles": 91782833662,
+        "TotalSize": 146167438377
+      },
+      "version": "1.0.1",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "2025-07-15T02:15:56.4984966Z",
+      "repositoryName": "SkyGround_Chronicles"
+    }
+  },
+  "TheMidnightRide_TheMidnightRide": {
+    "9.8.25": {
+      "title": "The Midnight Ride",
+      "description": "The Midnight Ride is a modlist for Fallout 4 that will give you a perfectly stable, smooth and enjoyable experience.",
+      "author": "Ungeziefi",
+      "maintainers": [
+        "github/Ungeziefi",
+        "github/WallSoGB"
+      ],
+      "game": "Fallout4",
+      "official": false,
+      "tags": [],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/ModdingLinked/TMR-Wabbajack/main/Image.webp",
+        "readme": "https://themidnightride.moddinglinked.com/wabbajack.html",
+        "download": "https://authored-files.wabbajack.org/The Midnight Ride.wabbajack_6dddcf3d-779a-4cd2-a32b-2e1d8cbf0216",
+        "machineURL": "TheMidnightRide",
+        "discordURL": "https://discord.gg/S99Ary5eba",
+        "websiteURL": ""
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 4213460,
+        "NumberOfArchives": 107,
+        "SizeOfArchives": 6346090933,
+        "NumberOfInstalledFiles": 11749,
+        "SizeOfInstalledFiles": 8279310138,
+        "TotalSize": 14625401071
+      },
+      "version": "9.8.25",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "2025-08-09T17:58:54.5161052Z",
+      "repositoryName": "TheMidnightRide"
+    }
+  },
+  "TNE_tne": {
+    "1.8.0.1": {
+      "title": "The Northern Experience",
+      "description": "Mod list that will provide a unique, Gothic-esque adventure.",
+      "author": "mnikjom",
+      "maintainers": [
+        "github/mnikjom"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": true,
+      "tags": [
+        "Featured"
+      ],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://staticdelivery.nexusmods.com/mods/1704/images/23894/23894-1578511882-321812591.jpeg",
+        "readme": "https://www.nexusmods.com/skyrimspecialedition/mods/69147",
+        "download": "https://authored-files.wabbajack.org/The%20Northern%20Experience.wabbajack_74373a93-c7b3-416c-8aa7-ef570511b2b3",
+        "machineURL": "tne",
+        "discordURL": "https://discord.gg/fuhsnph",
+        "websiteURL": "",
+        "nexusCollection": null
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 490524861,
+        "NumberOfArchives": 3578,
+        "SizeOfArchives": 170677238033,
+        "NumberOfInstalledFiles": 215942,
+        "SizeOfInstalledFiles": 264969281799,
+        "TotalSize": 435646519832
+      },
+      "version": "1.8.0.1",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "0001-01-01T00:00:00",
+      "repositoryName": "TNE"
+    }
+  },
+  "WakingDreams_ANVIL": {
+    "3.1.1": {
+      "title": "Anvil",
+      "description": "Anvil is a visuals-only modlist for Skyrim Special Edition (1.6.1170) built around Community Shaders and designed as a foundation for users to customize and expand upon.",
+      "author": "Bingus and Althro",
+      "maintainers": [
+        "github/Althro",
+        "github/Styyx1",
+        "github/Abandoned-1248",
+        "github/bingusthecatto"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": true,
+      "tags": [
+        "Featured",
+        "SFW",
+        "Steam",
+        "Utility"
+      ],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/Oghma-Infinium/Anvil/main/Media/Anvil%20Banner%20WEBP.webp",
+        "readme": "https://github.com/Oghma-Infinium/Anvil",
+        "download": "https://authored-files.wabbajack.org/Anvil.wabbajack_7e8cdc71-a35d-4c4b-aeb8-569c93be7bc7",
+        "machineURL": "ANVIL",
+        "discordURL": "https://discord.gg/4WwqfK5yHg",
+        "websiteURL": "https://www.nexusmods.com/skyrimspecialedition/mods/147302"
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 1629082425,
+        "NumberOfArchives": 1055,
+        "SizeOfArchives": 96789701634,
+        "NumberOfInstalledFiles": 124506,
+        "SizeOfInstalledFiles": 105629025387,
+        "TotalSize": 202418727021
+      },
+      "version": "3.1.1",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "2025-06-29T21:59:24.2725266Z",
+      "repositoryName": "WakingDreams"
+    }
+  },
+  "Odyssey_SkyrimOdyssey": {
+    "1.1.3": {
+      "title": "Skyrim Odyssey",
+      "description": "Odyssey is a vanilla+ modlist that focusses on remastering Skyrim without losing the soul of the original game. Featuring just over 1,000 mods, Odyssey offers both a fresh gameplay experience and a solid foundation to build from.",
+      "author": "Soft",
+      "maintainers": [
+        "github/SoftSkyrim"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": false,
+      "tags": [
+        "SFW",
+        "Combat Overhaul",
+        "Total Overhaul",
+        "Steam",
+        "Vanilla+"
+      ],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/SoftSkyrim/Odyssey/main/Thumbnail.webp",
+        "readme": "https://github.com/SoftSkyrim/Odyssey",
+        "download": "https://authored-files.wabbajack.org/Odyssey.wabbajack_abe2332d-6447-4de5-b849-288733e83f78",
+        "machineURL": "SkyrimOdyssey",
+        "discordURL": "https://discord.gg/HHxNnZyEGt",
+        "websiteURL": "",
+        "nexusCollection": null
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 47162477,
+        "NumberOfArchives": 1346,
+        "SizeOfArchives": 135720487793,
+        "NumberOfInstalledFiles": 159964,
+        "SizeOfInstalledFiles": 178384593944,
+        "TotalSize": 314105081737
+      },
+      "version": "1.1.3",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "0001-01-01T00:00:00",
+      "repositoryName": "Odyssey"
+    }
+  },
+  "SkyFurry_NG-Otherkin_SkyFurry-NG---Otherkin": {
+    "2.0.3": {
+      "title": "SkyFurry NG - Otherkin",
+      "description": "A SFW Wabbajack modlist for those wishing a variation of races and challenging gameplay. Races are various anthropomorphic animals with a mix of humanoid. Option for full furry included.",
+      "author": "Chardero the Lupe",
+      "maintainers": [
+        "github/CharderotheLupe"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": false,
+      "tags": [],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/CharderotheLupe/SkyFurry-NG---Otherkin/main/Assets/splash.png",
+        "readme": "https://github.com/CharderotheLupe/SkyFurry-NG---Otherkin/blob/main/README.md",
+        "download": "https://authored-files.wabbajack.org/SkyFurry%20NG%20-%20Otherkin.wabbajack_2aa7f019-ebda-406d-a7cd-a6196f1aedc7",
+        "machineURL": "SkyFurry-NG---Otherkin",
+        "discordURL": "https://discord.gg/skyfurryng",
+        "websiteURL": ""
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 592023609,
+        "NumberOfArchives": 1222,
+        "SizeOfArchives": 89455471989,
+        "NumberOfInstalledFiles": 135676,
+        "SizeOfInstalledFiles": 121262904222,
+        "TotalSize": 210718376211
+      },
+      "version": "2.0.3",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "0001-01-01T00:00:00",
+      "repositoryName": "SkyFurry_NG-Otherkin"
+    }
+  },
+  "Tuxborn_Tuxborn": {
+    "1.1.3": {
+      "title": "Tuxborn",
+      "description": "Tuxborn is a performance & content-focused Wabbajack modlist, with profiles tailored for both handheld devices and laptops/desktop PCs. Using a combination of mods from Enairim and Simonrim with optional modern combat based on BFCO.",
+      "author": "Omni and Ouroboros",
+      "maintainers": [
+        "github/Ouruboros"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": false,
+      "tags": [
+        "DLC Required",
+        "SFW",
+        "Steam Deck",
+        "Steam"
+      ],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/Omni-guides/Tuxborn/main/images/Splash.png",
+        "readme": "https://github.com/Omni-guides/Tuxborn/blob/main/README.md",
+        "download": "https://authored-files.wabbajack.org/Tuxborn.wabbajack_b49465c4-f49a-4f3e-9e3d-ddfe8dbac5e2",
+        "machineURL": "Tuxborn",
+        "discordURL": "https://discord.com/invite/xRrHRsb5e9",
+        "websiteURL": ""
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 2041738451,
+        "NumberOfArchives": 1788,
+        "SizeOfArchives": 146506648306,
+        "NumberOfInstalledFiles": 380933,
+        "SizeOfInstalledFiles": 218892955417,
+        "TotalSize": 365399603723
+      },
+      "version": "1.1.3",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "2025-07-31T07:01:30.6931158Z",
+      "repositoryName": "Tuxborn"
+    }
+  },
+  "WakingDreams_fahluaan": {
+    "2.3.4": {
+      "title": "Fahluaan",
+      "description": "Fahluaan is a comprehensive modlist for Skyrim Anniversary Edition that focuses on bringing the combat and gameplay of Skyrim to the modern age, without compromising on the original lore and vision of the Elder Scrolls Series. Meticulously balanced and full of handpicked content, new gear, spells, and quest mods that are designed to integrate seamlessly into the game.",
+      "author": "aljo",
+      "maintainers": [
+        "github/aljoxo",
+        "github/bingusthecatto"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": true,
+      "tags": [
+        "Featured",
+        "DLC Required",
+        "SFW",
+        "Steam",
+        "Survival"
+      ],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": false,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/Oghma-Infinium/Fahluaan/main/images/Bannernew.webp",
+        "readme": "https://raw.githubusercontent.com/Oghma-Infinium/Fahluaan/main/README.md",
+        "download": "https://authored-files.wabbajack.org/Fahluaan.wabbajack_8dff1adc-16a7-4294-8436-a7880cefeebe",
+        "machineURL": "fahluaan",
+        "discordURL": "https://discord.gg/4WwqfK5yHg",
+        "websiteURL": ""
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 629161467,
+        "NumberOfArchives": 2850,
+        "SizeOfArchives": 210581720733,
+        "NumberOfInstalledFiles": 279087,
+        "SizeOfInstalledFiles": 279232576970,
+        "TotalSize": 489814297703
+      },
+      "version": "2.3.4",
+      "dateCreated": "2023-07-24T00:00:00",
+      "dateUpdated": "2024-12-04T15:52:31.5953092Z",
+      "repositoryName": "WakingDreams"
+    }
+  },
+  "The_Nico_Experience_The_Nico_Experience": {
+    "2.7.6": {
+      "title": "The Nico Experience",
+      "description": "This is a power fantasy list with Enairim base which features additions to immersion, details, LOD, complex material, parallax, higher poly models, MCO combat, survival, new creatures, new worldspaces, stunning visuals, lighting, weather, and fast paced fun game play.",
+      "author": "nicoroshi",
+      "maintainers": [
+        "github/therealnicoroshi"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": false,
+      "tags": [],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/therealnicoroshi/modlist/main/NewCoverArtNE.jpg",
+        "readme": "https://github.com/therealnicoroshi/modlist/blob/main/README.md",
+        "download": "https://authored-files.wabbajack.org/The Nico Experience.wabbajack_3f33b990-cf2e-4058-998e-8e48391b6ec5",
+        "machineURL": "The_Nico_Experience",
+        "discordURL": "https://discord.gg/kHehbzuFZ4",
+        "websiteURL": "",
+        "nexusCollection": null
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 1598158403,
+        "NumberOfArchives": 2455,
+        "SizeOfArchives": 208589907723,
+        "NumberOfInstalledFiles": 657360,
+        "SizeOfInstalledFiles": 365430711118,
+        "TotalSize": 574020618841
+      },
+      "version": "2.7.6",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "2026-04-02T01:48:10.4460546Z",
+      "repositoryName": "The_Nico_Experience"
+    }
+  },
+  "WakingDreams_apostasy": {
+    "3.2.1": {
+      "title": "Apostasy",
+      "description": "Apostasy is a modlist for Skyrim SE that offers a modern, action-oriented combat system, custom tailored gameplay, and a consistent, high-fidelity graphics overhaul. Apostasy aims to deliver a cohesive and refined experience, enhancing both visuals and mechanics.",
+      "author": "aljo",
+      "maintainers": [
+        "github/aljoxo",
+        "github/ylikollikas"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": true,
+      "tags": [
+        "Featured",
+        "Combat Overhaul",
+        "SFW",
+        "Steam",
+        "Total Overhaul"
+      ],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/Oghma-Infinium/Apostasy/main/images/banner.webp",
+        "readme": "https://raw.githubusercontent.com/Oghma-Infinium/Apostasy/main/README.md",
+        "download": "https://authored-files.wabbajack.org/Apostasy.wabbajack_a1a42a4c-dd91-4f53-92fa-662dc0a79a68",
+        "machineURL": "apostasy",
+        "discordURL": "https://discord.gg/4WwqfK5yHg",
+        "websiteURL": "",
+        "nexusCollection": null
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 1618290102,
+        "NumberOfArchives": 3441,
+        "SizeOfArchives": 192554181096,
+        "NumberOfInstalledFiles": 303800,
+        "SizeOfInstalledFiles": 292066138525,
+        "TotalSize": 484620319621
+      },
+      "version": "3.2.1",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "2026-04-06T17:44:48.0753608Z",
+      "repositoryName": "WakingDreams"
+    }
+  },
+  "WakingDreams_TwistedSkyrim": {
+    "1.3.2.1": {
+      "title": "Twisted Skyrim",
+      "description": "A personal modlist I've worked on for almost 4 years now, finally in a Wabbajack list! I give you my magnum opus. Features BFCO, DMCO\ufeff, Precision, Maxsu's Block Overhaul\ufeff\ufeff, Maxsu's Poise\ufeff, Maxsu's Stagger Lock\ufeff, SCARv2\ufeff, & Ultimate NPC Dodging\ufeff. A completely new experience from the Skyrim you used to know.",
+      "author": "TwistedModding",
+      "maintainers": [
+        "github/TwistedModding"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": true,
+      "tags": [
+        "Featured",
+        "NSFW",
+        "Combat Overhaul"
+      ],
+      "nsfw": true,
+      "utility_list": false,
+      "image_contains_title": false,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/Oghma-Infinium/Twisted-Skyrim/refs/heads/main/Twisted%20Skyrim%20Logo%20(1).webp",
+        "readme": "https://github.com/Oghma-Infinium/Twisted-Skyrim/blob/main/README.md",
+        "download": "https://authored-files.wabbajack.org/Twisted Skyrim.wabbajack_16b02ee2-526c-4b4f-9e35-a3ee06376b22",
+        "machineURL": "TwistedSkyrim",
+        "discordURL": "https://discord.gg/4WwqfK5yHg",
+        "websiteURL": ""
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 1564036781,
+        "NumberOfArchives": 4789,
+        "SizeOfArchives": 412806005620,
+        "NumberOfInstalledFiles": 538429,
+        "SizeOfInstalledFiles": 645526697064,
+        "TotalSize": 1058332702684
+      },
+      "version": "1.3.2.1",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "2025-07-27T20:15:50.0687503Z",
+      "repositoryName": "WakingDreams"
+    }
+  },
+  "WastelandReborn_wasteland_reborn": {
+    "2.2.3": {
+      "title": "Wasteland Reborn",
+      "description": "A full, bottom up redesign of Fallout 4. Over 800 handpicked mods to transform Fallout 4 into the game it could have been. A whole new leveling system, new quests and locations, and hundreds of new weapons and armor to bring the design of Fallout 3 and New Vegas into the Commonwealth.",
+      "author": "Camora",
+      "maintainers": [
+        "github/Camora0"
+      ],
+      "game": "Fallout4",
+      "official": true,
+      "tags": [
+        "Featured"
+      ],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/Camora0/Wasteland-Reborn/refs/heads/main/79923-1711389646-1753700373.png",
+        "readme": "https://github.com/Camora0/Wasteland-Reborn/blob/main/README.md",
+        "download": "https://authored-files.wabbajack.org/Wasteland Reborn.wabbajack_322e86b1-5369-4fbd-a095-fac2af83a91d",
+        "machineURL": "wasteland_reborn",
+        "discordURL": "https://discord.gg/HVmH8q4nfx",
+        "websiteURL": ""
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 456568158,
+        "NumberOfArchives": 1000,
+        "SizeOfArchives": 122657518409,
+        "NumberOfInstalledFiles": 138615,
+        "SizeOfInstalledFiles": 188649391081,
+        "TotalSize": 311306909490
+      },
+      "version": "2.2.3",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "2025-05-27T01:13:36.3121254Z",
+      "repositoryName": "WastelandReborn"
+    }
+  },
+  "WastelandReborn_Dragonbreak": {
+    "0.41": {
+      "title": "Dragonbreak",
+      "description": "Dragonbreak is a modlist that fundamentally re-envisions Skyrim with old-school styled RPG Mechanics. In active development!",
+      "author": "Camora",
+      "maintainers": [
+        "github/Camora0"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": false,
+      "tags": [],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/Camora0/Wasteland-Reborn/refs/heads/main/Dragonbreaklogofull.png",
+        "readme": "https://github.com/Camora0/Wasteland-Reborn/blob/main/DragonbreakREADME.md",
+        "download": "https://authored-files.wabbajack.org/Dragonbreak.wabbajack_7f344f7a-9296-49f6-9aa8-c7839e502919",
+        "machineURL": "Dragonbreak",
+        "discordURL": "https://discord.gg/HVmH8q4nfx",
+        "websiteURL": ""
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 612905088,
+        "NumberOfArchives": 1924,
+        "SizeOfArchives": 181899763642,
+        "NumberOfInstalledFiles": 200547,
+        "SizeOfInstalledFiles": 215931526722,
+        "TotalSize": 397831290364
+      },
+      "version": "0.41",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "2025-07-12T23:03:55.3407946Z",
+      "repositoryName": "WastelandReborn"
+    }
+  },
+  "Wildlander_wildlander": {
+    "1.1.12": {
+      "title": "Wildlander",
+      "description": "The ultimate fantasy life simulator, built for Skyrim Special Edition. Explore a reactive world full of beauty and brutality. Live your life as you see fit.",
+      "author": "Dylan Perry & Wildlander Team",
+      "maintainers": [
+        "github/dylan-perry",
+        "github/Wildlander-mod"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": true,
+      "tags": [
+        "Featured",
+        "Survival",
+        "Hardcore"
+      ],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/Dylan-Perry/dp-modlists/main/wj_thumbnail-web.webp",
+        "readme": "https://www.wildlandermod.com/download",
+        "download": "https://authored-files.wabbajack.org/Wildlander.wabbajack_f8b123b3-07d7-48cf-a299-9f303ac53b7a",
+        "machineURL": "wildlander",
+        "discordURL": "https://discord.gg/Gs3z7z3Buq",
+        "websiteURL": ""
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 537534987,
+        "NumberOfArchives": 567,
+        "SizeOfArchives": 58801830488,
+        "NumberOfInstalledFiles": 155323,
+        "SizeOfInstalledFiles": 78436486958,
+        "TotalSize": 137238317446
+      },
+      "version": "1.1.12",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "2024-05-17T23:08:46.0924834Z",
+      "repositoryName": "Wildlander"
+    }
+  },
+  "wj-featured_aldrnari": {
+    "2.2.5": {
+      "title": "Aldrnari",
+      "description": "Folk/Nordic/Souls Games inspired, visually focused 2200+ Modlist centered around Yggdrasil Music and Sound FX Overhaul aswell as Celtic Music. Uses the EnaiRim overhauls as well as a ADXP | MCO based combat system for a refreshing and challenging take on Skyrim. Hundreds of high quality assets are handplaced to remove the need of LOTD. (6GB+ of VRAM Required, check readme.)",
+      "author": "Sovn",
+      "maintainers": [
+        "sovn",
+        "github/SovnSkyrim"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": true,
+      "tags": [
+        "Featured"
+      ],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/SovnSkyrim/Aldrnari/main/Banner-Top-Down.webp",
+        "readme": "https://raw.githubusercontent.com/SovnSkyrim/Aldrnari/main/README.md",
+        "download": "https://authored-files.wabbajack.org/Aldrnari.wabbajack_9d36c461-e040-448c-9656-3b013fbf2b12",
+        "machineURL": "aldrnari",
+        "discordURL": "https://discord.gg/FAfPb9T",
+        "websiteURL": ""
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 2105767040,
+        "NumberOfArchives": 2665,
+        "SizeOfArchives": 216669002472,
+        "NumberOfInstalledFiles": 424261,
+        "SizeOfInstalledFiles": 434094140495,
+        "TotalSize": 650763142967
+      },
+      "version": "2.2.5",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "2025-04-20T08:52:17.6598834Z",
+      "repositoryName": "wj-featured"
+    }
+  },
+  "wj-featured_life_in_the_ruins": {
+    "7.1.0.2": {
+      "title": "Life in the Ruins",
+      "description": "An overhauled and finely tuned Fallout 4 experience. Designed to rebalance the game into a true RPG, while staying faithful to the vanilla aesthetic.",
+      "author": "WhiskyTangoFox",
+      "maintainers": [
+        "whisky-tango-fox",
+        "github/WhiskyTangoFawks"
+      ],
+      "game": "Fallout4",
+      "official": true,
+      "tags": [
+        "Featured",
+        "Steam Deck",
+        "Survival"
+      ],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": false,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/WhiskyTangoFawks/LunarFalloutPlus/main/LifeInTheRuins.png",
+        "readme": "https://raw.githubusercontent.com/WhiskyTangoFawks/LunarFalloutPlus/main/README.md",
+        "download": "https://authored-files.wabbajack.org/Life in the Ruins.wabbajack_12ede59a-1b21-4afd-bae3-0412e6b83784",
+        "machineURL": "life_in_the_ruins",
+        "discordURL": "https://discord.gg/HUNWVBjZPg",
+        "websiteURL": ""
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 573645569,
+        "NumberOfArchives": 883,
+        "SizeOfArchives": 130803832084,
+        "NumberOfInstalledFiles": 91838,
+        "SizeOfInstalledFiles": 148161072854,
+        "TotalSize": 278964904938
+      },
+      "version": "7.1.0.2",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "2025-06-03T10:05:35.7501395Z",
+      "repositoryName": "wj-featured"
+    },
+    "8.0.0.5": {
+      "title": "Life in the Ruins",
+      "description": "An overhauled and finely tuned Fallout 4 experience. Designed to rebalance the game into a true RPG, while staying faithful to the vanilla aesthetic.",
+      "author": "WhiskyTangoFox",
+      "maintainers": [
+        "whisky-tango-fox",
+        "github/WhiskyTangoFawks"
+      ],
+      "game": "Fallout4",
+      "official": true,
+      "tags": [
+        "Featured",
+        "Steam Deck",
+        "Survival"
+      ],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": false,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/WhiskyTangoFawks/LunarFalloutPlus/main/LifeInTheRuins.png",
+        "readme": "https://raw.githubusercontent.com/WhiskyTangoFawks/LunarFalloutPlus/main/README.md",
+        "download": "https://authored-files.wabbajack.org/Life in the Ruins.wabbajack_df4c4f01-92b4-4f20-ab30-14f5ea2afe1a",
+        "machineURL": "life_in_the_ruins",
+        "discordURL": "https://discord.gg/HUNWVBjZPg",
+        "websiteURL": "",
+        "nexusCollection": null
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 703037432,
+        "NumberOfArchives": 802,
+        "SizeOfArchives": 132367626395,
+        "NumberOfInstalledFiles": 130395,
+        "SizeOfInstalledFiles": 140847960158,
+        "TotalSize": 273215586553
+      },
+      "version": "8.0.0.5",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "2026-02-03T08:26:40.5841826Z",
+      "repositoryName": "wj-featured"
+    }
+  },
+  "wj-featured_arkayscommandment": {
+    "1.1.2": {
+      "title": "Wanderlust",
+      "description": "Skyrim reimagined: explore the vast wilderness, delve into new dungeons, experience roleplaying elements focused on pushing you to your limits. Wanderlust.",
+      "author": "fornication",
+      "maintainers": [
+        "fornication",
+        "github/Fornication"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": true,
+      "tags": [
+        "Featured"
+      ],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/Fornication/Wanderlust/refs/heads/main/Wanderlust.webp",
+        "readme": "https://raw.githubusercontent.com/Fornication/Wanderlust/main/README.md",
+        "download": "https://authored-files.wabbajack.org/Wanderlust.wabbajack_c9697363-bebb-4f06-9018-52e9636281cb",
+        "machineURL": "arkayscommandment",
+        "discordURL": "https://discord.gg/JycmyqzZz7",
+        "websiteURL": "",
+        "nexusCollection": null
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 744027784,
+        "NumberOfArchives": 2880,
+        "SizeOfArchives": 118075272239,
+        "NumberOfInstalledFiles": 239672,
+        "SizeOfInstalledFiles": 159369499397,
+        "TotalSize": 277444771636
+      },
+      "version": "1.1.2",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "2026-03-23T04:10:23.8724789Z",
+      "repositoryName": "wj-featured"
+    }
+  },
+  "SkyGround_Chronicles_SkyGround": {
+    "3.2.5": {
+      "title": "SkyGround Chronicles",
+      "description": "SkyGround Chronicles is a Wabbajack modlist featuring Survival-focused Modern Gameplay with Requiem, and BFCO with its full stances system. Built with cutting-edge graphics in mind.",
+      "author": "Ivy",
+      "maintainers": [
+        "github/ItzIvy05"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": true,
+      "tags": [
+        "Featured",
+        "SFW",
+        "High Fantasy",
+        "Steam"
+      ],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/ItzIvy05/SkyGround-Chronicles/main/Resources/Main.png",
+        "readme": "https://itzivy05.github.io/IvysWorkshop/readme.html",
+        "download": "https://authored-files.wabbajack.org/SkyGround Chronicles.wabbajack_d444c5aa-c08a-43f0-bc19-960a7c2a02e4",
+        "machineURL": "SkyGround",
+        "discordURL": "https://discord.gg/FB62v6whbh",
+        "websiteURL": "",
+        "nexusCollection": {
+          "collectionId": "425888",
+          "slug": "v8h3xx",
+          "domainName": "skyrimspecialedition",
+          "lastRevisionNumber": 1
+        }
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 3030819704,
+        "NumberOfArchives": 2873,
+        "SizeOfArchives": 199486811347,
+        "NumberOfInstalledFiles": 325181,
+        "SizeOfInstalledFiles": 270504330912,
+        "TotalSize": 469991142259
+      },
+      "version": "3.2.5",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "2026-04-10T17:55:31.4062111Z",
+      "repositoryName": "SkyGround_Chronicles"
+    }
+  },
+  "wj-featured_librum_se": {
+    "3.1.0.1": {
+      "title": "Librum SE",
+      "description": "A gritty, low-magic, hardcore survival-adventure experience with an uncompromising vision. Hundreds of new quests and locations, a total mechanics overhaul, and a complete makeover of the graphics and atmosphere. The path to your destiny as the Dragonborn will be long and treacherous. Welcome to Librum.",
+      "author": "Scenic Route Games",
+      "maintainers": [
+        "apoapse"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": true,
+      "tags": [
+        "Featured",
+        "Survival"
+      ],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/apoapse1/Librum-for-Skyrim-VR/main/Resources/LibSE_logo.webp",
+        "readme": "https://www.scenicroute.games/projects/librum-se",
+        "download": "https://github.com/apoapse1/Librum-for-Skyrim-VR/releases/latest/download/Librum.SE.wabbajack",
+        "machineURL": "librum_se",
+        "discordURL": "https://discord.gg/esGVnCjWpJ",
+        "websiteURL": ""
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 492850132,
+        "NumberOfArchives": 1230,
+        "SizeOfArchives": 76719356588,
+        "NumberOfInstalledFiles": 203517,
+        "SizeOfInstalledFiles": 137823323274,
+        "TotalSize": 214542679862
+      },
+      "version": "3.1.0.1",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "0001-01-01T00:00:00",
+      "repositoryName": "wj-featured"
+    }
+  },
+  "wj-featured_living_skyrim": {
+    "4.3.0.1": {
+      "title": "Living Skyrim",
+      "description": "ForgottenGlory's flagship modlist, Living Skyrim, is a full-featured overhaul of Skyrim SE with the intent to breathe life into the often empty areas of the world. NPCs, quests, new worldspaces, and interactive content are the focus of this modlist. All of this on top of a beautiful graphics package.",
+      "author": "ForgottenGlory",
+      "maintainers": [
+        "github/ForgottenGlory",
+        "github/Dace617"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": true,
+      "tags": [
+        "Featured"
+      ],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://i.imgur.com/MWjZgug.png",
+        "readme": "https://www.fgsmodlists.com/docs/living-skyrim/",
+        "download": "https://authored-files.wabbajack.org/Living%20Skyrim%204.wabbajack_df920123-3cde-4cae-9528-8e914899d4cc",
+        "machineURL": "living_skyrim",
+        "discordURL": "https://discord.gg/WKZgPuxvHS",
+        "websiteURL": "https://www.fgsmodlists.com/",
+        "nexusCollection": null
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 889919950,
+        "NumberOfArchives": 1439,
+        "SizeOfArchives": 138561203169,
+        "NumberOfInstalledFiles": 311178,
+        "SizeOfInstalledFiles": 294047472993,
+        "TotalSize": 432608676162
+      },
+      "version": "4.3.0.1",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "2025-04-25T00:43:28.5512693Z",
+      "repositoryName": "wj-featured"
+    }
+  },
+  "wj-featured_lotf": {
+    "3.3.4": {
+      "title": "Legends of the Frost",
+      "description": "Legends of the Frost is Skyrim, but better. Textures are sharper, trees are more lush, weathers are more diverse, and water no longer looks like oil. A collection of around 300 mods fixes a plethora of bugs and annoyances in addition to bringing some light improvements to visuals, combat, and balancing. LOTF also features seamless blending of distant terrain and trees as well as high quality facegen. Now with optional PERFORMANCE PROFILE and CREATION CLUB support.",
+      "author": "Phoenix",
+      "maintainers": [
+        "github/foreverphoenix",
+        "phoenix"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": true,
+      "tags": [
+        "Featured"
+      ],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/foreverphoenix/the-phoenix-flavour/master/legends-of-the-frost.webp",
+        "readme": "https://raw.githubusercontent.com/foreverphoenix/the-phoenix-flavour/master/WABBAJACK-LOTF.md",
+        "download": "https://authored-files.wabbajack.org/Legends%20of%20the%20Frost.wabbajack_0547b088-116d-441e-a2d4-46c075368e90",
+        "machineURL": "lotf",
+        "discordURL": "https://discord.gg/xRrHRsb5e9",
+        "websiteURL": ""
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 475344149,
+        "NumberOfArchives": 616,
+        "SizeOfArchives": 46253661857,
+        "NumberOfInstalledFiles": 168860,
+        "SizeOfInstalledFiles": 65396485611,
+        "TotalSize": 111650147468
+      },
+      "version": "3.3.4",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "2024-01-20T09:40:28.1475907Z",
+      "repositoryName": "wj-featured"
+    }
+  },
+  "wj-featured_tpf": {
+    "4.20": {
+      "title": "The Phoenix Flavour",
+      "description": "The Phoenix Flavour for Skyrim SE is a visuals and gameplay-focused modding guide and mod list, featuring around 700 mods carefully selected and patched for a coherent and stable experience. Originally released in 2017, it has gone through many iterations and continues to be updated frequently.",
+      "author": "Phoenix & Umgak, maintained by Codygits",
+      "maintainers": [
+        "github/Codygits",
+        "codygits"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": true,
+      "tags": [
+        "Featured"
+      ],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/Codygits/TPF-Updates/main/images/Standing_Stones_TPF_Logo.webp",
+        "readme": "https://raw.githubusercontent.com/Codygits/TPF-Updates/main/Wabbajack.md",
+        "download": "https://authored-files.wabbajack.org/The Phoenix Flavour v4.20.wabbajack_1c670b9c-64c5-410b-a45d-ecdbaa349b72",
+        "machineURL": "tpf",
+        "discordURL": "https://discord.gg/xRrHRsb5e9",
+        "websiteURL": ""
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 281739933,
+        "NumberOfArchives": 901,
+        "SizeOfArchives": 65668771393,
+        "NumberOfInstalledFiles": 96001,
+        "SizeOfInstalledFiles": 80407376571,
+        "TotalSize": 146076147964
+      },
+      "version": "4.20",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "2025-03-20T15:04:49.0087306Z",
+      "repositoryName": "wj-featured"
+    }
+  },
+  "wj-featured_magnum_opus": {
+    "9.2.6": {
+      "title": "Magnum Opus",
+      "description": "The premiere modlist for Fallout 4! As one of the oldest lists on Wabbajack, Magnum Opus has only gotten better with age. This list is a perfect blend of challenge and fun, with a suite of expanded quests, NPCs, locations, weapons - all topped off with exquisite visuals. Experience the Commonwealth like never before: spend hundreds of hours building your empire with Sim Settlements 2, discover hidden worlds in the Glowing Sea, create peace between all the factions (or none of them), and so much more - Magnum Opus awaits your command!",
+      "author": "Lively",
+      "maintainers": [
+        "github/LivelyDismay",
+        "lively"
+      ],
+      "game": "Fallout4",
+      "official": true,
+      "tags": [
+        "Featured"
+      ],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": false,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/LivelyDismay/Learn-To-Mod/main/wabbajack-stuff/neat.webp",
+        "readme": "https://raw.githubusercontent.com/LivelyDismay/magnum-opus/main/README.md",
+        "download": "https://authored-files.wabbajack.org/Magnum Opus.wabbajack_4f0d688e-38bd-4483-8ca3-285f162f3c6d",
+        "machineURL": "magnum_opus",
+        "discordURL": "https://discord.gg/yABEjwB",
+        "websiteURL": "",
+        "nexusCollection": null
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 455317464,
+        "NumberOfArchives": 1155,
+        "SizeOfArchives": 148439507182,
+        "NumberOfInstalledFiles": 148237,
+        "SizeOfInstalledFiles": 192225963354,
+        "TotalSize": 340665470536
+      },
+      "version": "9.2.6",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "2026-02-20T23:23:13.8790253Z",
+      "repositoryName": "wj-featured"
+    }
+  },
+  "wj-featured_sss": {
+    "5.0.0": {
+      "title": "Slidikins' Strenuous Skyrim",
+      "description": "Originally an extension of The Phoenix Flavour. As implied by its name, this modlist offers a more challenging approach featuring Survival Mode, a reduced HUD, and a harsher economy among other changes intended to better engage you, the player.",
+      "author": "Slidikins",
+      "maintainers": [
+        "github/Amigoliath",
+        "slidikins"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": true,
+      "tags": [
+        "Featured",
+        "Survival"
+      ],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/Amigoliath/Slidikins-Strenuous-Skyrim/main/sss.webp",
+        "readme": "https://raw.githubusercontent.com/Amigoliath/Slidikins-Strenuous-Skyrim/main/README.md",
+        "download": "https://authored-files.wabbajack.org/Slidikins Strenuous Skyrim.wabbajack_adfe4d1b-7d50-4ac1-a842-5c735ba12ef7",
+        "machineURL": "sss",
+        "discordURL": "https://discord.gg/xRrHRsb5e9",
+        "websiteURL": ""
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 405429134,
+        "NumberOfArchives": 1623,
+        "SizeOfArchives": 91455797489,
+        "NumberOfInstalledFiles": 173633,
+        "SizeOfInstalledFiles": 127057974206,
+        "TotalSize": 218513771695
+      },
+      "version": "5.0.0",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "2024-07-09T15:16:20.0334145Z",
+      "repositoryName": "wj-featured"
+    }
+  },
+  "Wunduniik_Wunduniik": {
+    "6.8.1.0": {
+      "title": "Wunduniik",
+      "description": "This modlist is a heavy +3000 mods list based on my personnal preferences. It improves almost everything from the vanilla game to make it looks more like a 2025 game than a 2011 game. Keep in mind that the list is more like a vanilla rework than a list adding new quests, new lands... Wunduniik is a draconic word meaning Traveler. I chose this one as I think that when you travel, you discover new cultures, architectures... things can look a lot different. I think this modlist will provide you the same feeling, because you will almost discover a new game.",
+      "author": "Alaxouche",
+      "maintainers": [
+        "github/Alaxouche"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": true,
+      "tags": [
+        "Featured"
+      ],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://staticdelivery.nexusmods.com/mods/1704/images/89632/89632-1772114072-694182756.png",
+        "readme": "https://theastralforge.com/wunduniik/installation-guide/index",
+        "download": "https://authored-files.wabbajack.org/Wunduniik.wabbajack_52647dc7-15d7-4675-9ce3-ddb719e41a9d",
+        "machineURL": "Wunduniik",
+        "discordURL": "https://discord.gg/vKuB7nazBk",
+        "websiteURL": "https://theastralforge.com",
+        "nexusCollection": null
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 749267943,
+        "NumberOfArchives": 4696,
+        "SizeOfArchives": 209604979754,
+        "NumberOfInstalledFiles": 383164,
+        "SizeOfInstalledFiles": 365673439921,
+        "TotalSize": 575278419675
+      },
+      "version": "6.8.1.0",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "2026-01-14T11:07:59.4999093Z",
+      "repositoryName": "Wunduniik"
+    }
+  },
+  "Yagisan_RtC": {
+    "0.0.3": {
+      "title": "Rebuilding the Commonwealth",
+      "description": "Rebuilding the Commonwealth is a curated modlist that is focused on settlement building in survival mode.",
+      "author": "Yagisan",
+      "maintainers": [
+        "github/Yagisan"
+      ],
+      "game": "Fallout4",
+      "official": false,
+      "tags": [
+        "Steam"
+      ],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/Yagisan/Rebuilding-the-Commonwealth/refs/heads/main/assets/images/RtC_Hero_20250411.webp",
+        "readme": "https://www.patreon.com/posts/rebuilding-alpha-125191875",
+        "download": "https://authored-files.wabbajack.org/Rebuilding the Commonwealth.wabbajack_2e936ff8-ad59-449d-9994-4e8f89fd49bf",
+        "machineURL": "RtC",
+        "discordURL": "https://discord.gg/rB5RFgHhUD",
+        "websiteURL": ""
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 356489533,
+        "NumberOfArchives": 844,
+        "SizeOfArchives": 162155983429,
+        "NumberOfInstalledFiles": 122489,
+        "SizeOfInstalledFiles": 187650211915,
+        "TotalSize": 349806195344
+      },
+      "version": "0.0.3",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "2025-04-13T03:06:44.0340728Z",
+      "repositoryName": "Yagisan"
+    }
+  },
+  "Wunduniik_Krentoraan": {
+    "1.3.0": {
+      "title": "Krentoraan",
+      "description": "Krentoraan is a visual only Next-gen list based off the visual of my other list Wunduniik. It offers a graphical base for users to modify upon.",
+      "author": "Alaxouche",
+      "maintainers": [
+        "github/Alaxouche"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": false,
+      "tags": [],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/Alaxouche/Wunduniik/main/Krentoraan.webp",
+        "readme": "https://theastralforge.com/krentoraan/k_installation-guide",
+        "download": "https://authored-files.wabbajack.org/Krentoraan.wabbajack_470e211a-362f-4084-802a-69700142e4c8",
+        "machineURL": "Krentoraan",
+        "discordURL": "https://discord.gg/vKuB7nazBk",
+        "websiteURL": "https://theastralforge.com",
+        "nexusCollection": null
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 542912999,
+        "NumberOfArchives": 1739,
+        "SizeOfArchives": 115182211225,
+        "NumberOfInstalledFiles": 129113,
+        "SizeOfInstalledFiles": 152251724709,
+        "TotalSize": 267433935934
+      },
+      "version": "1.3.0",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "2025-11-16T11:39:43.53445Z",
+      "repositoryName": "Wunduniik"
+    }
+  },
+  "Yagisan_SS2CPC": {
+    "4.17.0": {
+      "title": "Sim Settlements 2 City Plan Contest Helper",
+      "description": "Sim Settlements 2 City Plan Contest Helper is a list where city plan builders can produce stunning city plans.",
+      "author": "Yagisan",
+      "maintainers": [
+        "github/Yagisan"
+      ],
+      "game": "Fallout4",
+      "official": false,
+      "tags": [
+        "Steam"
+      ],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/Yagisan/SS2-City-Plan-Contest-Helper/main/assets/images/SS2_CPC_Hero_20240516.webp",
+        "readme": "https://raw.githubusercontent.com/Yagisan/SS2-City-Plan-Contest-Helper/main/README.md",
+        "download": "https://authored-files.wabbajack.org/Sim Settlements 2 City Plan Contest Helper.wabbajack_b5b7a563-1892-485d-b674-da079fe4530e",
+        "machineURL": "SS2CPC",
+        "discordURL": "https://discord.gg/rB5RFgHhUD",
+        "websiteURL": ""
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 279124420,
+        "NumberOfArchives": 341,
+        "SizeOfArchives": 53870348258,
+        "NumberOfInstalledFiles": 102007,
+        "SizeOfInstalledFiles": 69660645555,
+        "TotalSize": 123530993813
+      },
+      "version": "4.17.0",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "2025-07-28T10:13:15.7270304Z",
+      "repositoryName": "Yagisan"
+    }
+  },
+  "Yagisan_SS2PAP": {
+    "1.3.3": {
+      "title": "Plotaplaooza Contest Helper",
+      "description": "Plotaplaooza Contest Helper is a list where Sim Settlements 2 plot builders can build plots in game.",
+      "author": "Yagisan",
+      "maintainers": [
+        "github/Yagisan"
+      ],
+      "game": "Fallout4",
+      "official": false,
+      "tags": [
+        "Steam"
+      ],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/Yagisan/SS2-Plotapalooza-Helper/main/assets/images/SS2_PAP_Hero_20250123.webp",
+        "readme": "https://raw.githubusercontent.com/Yagisan/SS2-Plotapalooza-Helper/main/README.md",
+        "download": "https://authored-files.wabbajack.org/Plotapalooza Helper.wabbajack_53fa6ea0-134d-4133-b0a2-91a678a9f4a2",
+        "machineURL": "SS2PAP",
+        "discordURL": "https://discord.gg/rB5RFgHhUD",
+        "websiteURL": ""
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 343431389,
+        "NumberOfArchives": 911,
+        "SizeOfArchives": 45380093953,
+        "NumberOfInstalledFiles": 135757,
+        "SizeOfInstalledFiles": 57803897054,
+        "TotalSize": 103183991007
+      },
+      "version": "1.3.3",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "2025-08-06T08:38:44.9173312Z",
+      "repositoryName": "Yagisan"
+    }
+  },
+  "wj-featured_tempus_maledictum": {
+    "8.0.6": {
+      "title": "Tempus Maledictum",
+      "description": "From the creator of Magnum Opus comes Tempus Maledictum! What this is: An extremely stable Enairim power fantasy centered around Legacy of the Dragonborn and over two dozen quest mods for you to conquer and explore. What this isn't: A punishing Souls-like with real-life survival mechanics. I'm here to have fun. Are you?",
+      "author": "Lively",
+      "maintainers": [
+        "github/LivelyDismay"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": true,
+      "tags": [
+        "Featured"
+      ],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/LivelyDismay/tempus-maledictum/main/tempusv7galleryimage.webp",
+        "readme": "https://raw.githubusercontent.com/LivelyDismay/tempus-maledictum/main/README.md",
+        "download": "https://authored-files.wabbajack.org/Tempus Maledictum.wabbajack_c52ec8de-9f39-49b6-8942-a98a8b77c379",
+        "machineURL": "tempus_maledictum",
+        "discordURL": "https://discord.gg/yABEjwB",
+        "websiteURL": ""
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 1038170815,
+        "NumberOfArchives": 2140,
+        "SizeOfArchives": 175039359596,
+        "NumberOfInstalledFiles": 285637,
+        "SizeOfInstalledFiles": 296272587539,
+        "TotalSize": 471311947135
+      },
+      "version": "8.0.6",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "2025-04-26T10:24:48.7697902Z",
+      "repositoryName": "wj-featured"
+    }
+  },
+  "Zediious_aurbaesence": {
+    "1.1.4": {
+      "title": "Aurbaesence",
+      "description": "A content-filled and game-changing list, curated extensively to provide a modern gaming experience in Skyrim.\r\n\r\nFeatures include massively overhauled animations and modern combat, various new and reworked mechanics, a multitude of new and improved quests, locations, and creatures to find in the world, a complete settlement overhaul with every settlement covered along with custom equipment leveled lists utilizing a very large amount of mod-added equipment.\r\n\r\nBreathe life into the world with a variety of new content and mechanics!",
+      "author": "Zediious",
+      "maintainers": [
+        "github/zediious"
+      ],
+      "game": "SkyrimSpecialEdition",
+      "official": true,
+      "tags": [
+        "Featured",
+        "Steam",
+        "SFW"
+      ],
+      "nsfw": false,
+      "utility_list": false,
+      "image_contains_title": true,
+      "DisplayVersionOnlyInInstallerView": false,
+      "force_down": false,
+      "links": {
+        "image": "https://raw.githubusercontent.com/zediious/modlists/main/banner1080withBackground.webp",
+        "readme": "https://aurbaesence.info/docs/",
+        "download": "https://authored-files.wabbajack.org/Aurbaesence.wabbajack_1eb1b968-e0a7-42e9-be5f-66bde33dfc6e",
+        "machineURL": "aurbaesence",
+        "discordURL": "https://discord.gg/CvhTeavrcW",
+        "websiteURL": ""
+      },
+      "download_metadata": {
+        "Hash": {},
+        "Size": 560589772,
+        "NumberOfArchives": 2536,
+        "SizeOfArchives": 172924462072,
+        "NumberOfInstalledFiles": 394151,
+        "SizeOfInstalledFiles": 308508031278,
+        "TotalSize": 481432493350
+      },
+      "version": "1.1.4",
+      "dateCreated": "1970-01-01T00:00:00Z",
+      "dateUpdated": "0001-01-01T00:00:00",
+      "repositoryName": "Zediious"
+    }
+  }
+}

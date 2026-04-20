@@ -1,0 +1,655 @@
+{
+  "Fallout4": {
+    "Atomic Warfare": {
+      "": {
+        "Modlist": "Atomic Warfare",
+        "Installed Version": "",
+        "MO2 Version": "2.4.4",
+        "Product Version": "",
+        "Folder": "Fallout 4",
+        "Profile": [
+          "Default"
+        ]
+      }
+    },
+    "Begin Again": {
+      "": {
+        "Modlist": "Begin Again",
+        "Installed Version": "",
+        "MO2 Version": "2.5.2",
+        "Product Version": "",
+        "Folder": "Fallout New Vegas",
+        "Profile": [
+          "Begin Again",
+          "Debug Mode (Base TTW and req mods)"
+        ]
+      }
+    },
+    "Capital Commonwealth": {
+      "1.1.0": {
+        "Modlist": "Capital Commonwealth",
+        "Installed Version": "1.1.0",
+        "MO2 Version": "2.5.2",
+        "Product Version": "1.10.163.0",
+        "Folder": "Stock Game",
+        "Profile": [
+          "Default"
+        ]
+      }
+    },
+    "DyingBreath": {
+      "1.2": {
+        "Modlist": "DyingBreath",
+        "Installed Version": "1.2",
+        "MO2 Version": "2.5.0",
+        "Product Version": "1.10.163.0",
+        "Folder": "Stock Game",
+        "Profile": [
+          "Dying Breath - Open World",
+          "DyingBreath - Survival Test"
+        ]
+      }
+    },
+    "Fallout 4 NG Curated2": {
+      "": {
+        "Modlist": "Fallout 4 NG Curated2",
+        "Installed Version": "",
+        "MO2 Version": "2.5.2",
+        "Product Version": "1.10.984.0",
+        "Folder": "Stock FO4",
+        "Profile": [
+          "Nexar's Curated Mods 2025"
+        ]
+      }
+    },
+    "Horizon": {
+      "1.4.3": {
+        "Modlist": "Horizon",
+        "Installed Version": "1.4.3",
+        "MO2 Version": "2.5.2",
+        "Product Version": "",
+        "Folder": "Fallout4_Hz",
+        "Profile": [
+          "Horizon - GOG",
+          "Horizon - Steam"
+        ]
+      }
+    },
+    "Life in the Ruins": {
+      "7.1.0.2": {
+        "Modlist": "Life in the Ruins",
+        "Installed Version": "7.1.0.2",
+        "MO2 Version": "2.5.0",
+        "Product Version": "1.10.163.0",
+        "Folder": "Stock Game Folder",
+        "Profile": [
+          "Life in the Ruins"
+        ]
+      },
+      "8.0.0.5": {
+        "Modlist": "Life in the Ruins",
+        "Installed Version": "8.0.0.5",
+        "MO2 Version": "2.5.2",
+        "Product Version": "1.10.163.0",
+        "Folder": "Stock Game Folder",
+        "Profile": [
+          "Life in the Ruins"
+        ]
+      }
+    },
+    "LoreOut": {
+      "": {
+        "Modlist": "LoreOut",
+        "Installed Version": "",
+        "MO2 Version": "2.5.0",
+        "Product Version": "1.10.163.0",
+        "Folder": "Stock Game",
+        "Profile": [
+          "LoreOut"
+        ]
+      }
+    },
+    "Magnum Opus": {
+      "9.2.3": {
+        "Modlist": "Magnum Opus",
+        "Installed Version": "9.2.3",
+        "MO2 Version": "2.4.4",
+        "Product Version": "1.10.163.0",
+        "Folder": "Stock Game",
+        "Profile": [
+          "Magnum Opus",
+          "Magnum Opus - Livelier Perks"
+        ]
+      }
+    },
+    "Sandland": {
+      "1.3": {
+        "Modlist": "Sandland",
+        "Installed Version": "1.3",
+        "MO2 Version": "2.5.2",
+        "Product Version": "1.10.163.0",
+        "Folder": "Stock Game",
+        "Profile": [
+          "Sandland Remake"
+        ]
+      }
+    },
+    "Sim Settlement 2": {
+      "4.17.0": {
+        "Modlist": "Sim Settlement 2",
+        "Installed Version": "4.17.0",
+        "MO2 Version": "2.5.2",
+        "Product Version": "1.10.163.0",
+        "Folder": "Fallout_4_163",
+        "Profile": [
+          "SS2 City Plan Contest Helper"
+        ]
+      }
+    },
+    "The Midnight Ride": {
+      "9.8.25": {
+        "Modlist": "The Midnight Ride",
+        "Installed Version": "9.8.25",
+        "MO2 Version": "2.5.2",
+        "Product Version": "1.10.163.0",
+        "Folder": "Stock Game",
+        "Profile": [
+          "The Midnight Ride",
+          "The Midnight Ride Extended"
+        ]
+      }
+    },
+    "Wasteland Reborn": {
+      "2.2.3": {
+        "Modlist": "Wasteland Reborn",
+        "Installed Version": "2.2.3",
+        "MO2 Version": "2.5.0",
+        "Product Version": "1.10.163.0",
+        "Folder": "Stock Game",
+        "Profile": [
+          "Wasteland Reborn"
+        ]
+      }
+    },
+    "Welcome to Paradise": {
+      "": {
+        "Modlist": "Welcome to Paradise",
+        "Installed Version": "",
+        "MO2 Version": "2.4.4",
+        "Product Version": "1.10.163.0",
+        "Folder": "Stock Game Folder",
+        "Profile": [
+          "Welcome to Paradise"
+        ]
+      }
+    }
+  },
+  "SkyrimSE": {
+    "Aldrnari": {
+      "2.2.5": {
+        "Modlist": "Aldrnari",
+        "Installed Version": "2.2.5",
+        "MO2 Version": "",
+        "Product Version": "",
+        "Folder": "Stock Game",
+        "Profile": [
+          "Aldrnari"
+        ]
+      }
+    },
+    "Alpyne": {
+      "1.5.1": {
+        "Modlist": "Alpyne",
+        "Installed Version": "1.5.1",
+        "MO2 Version": "2.5.2",
+        "Product Version": "1.6.1170.0",
+        "Folder": "game",
+        "Profile": [
+          "Alpyne"
+        ]
+      }
+    },
+    "Anvil": {
+      "3.1.1": {
+        "Modlist": "Anvil",
+        "Installed Version": "3.1.1",
+        "MO2 Version": "2.5.2",
+        "Product Version": "1.6.1170.0",
+        "Folder": "Stock Game",
+        "Profile": [
+          "Anvil - Main Profile"
+        ]
+      }
+    },
+    "Arcanaeum": {
+      "1.2.1": {
+        "Modlist": "Arcanaeum",
+        "Installed Version": "1.2.1",
+        "MO2 Version": "2.5.0",
+        "Product Version": "",
+        "Folder": "Skyrim Special Edition",
+        "Profile": [
+          "Arcanaeum - A Lightweight Modlist"
+        ]
+      }
+    },
+    "Aurbaesence": {
+      "1.1.4": {
+        "Modlist": "Aurbaesence",
+        "Installed Version": "1.1.4",
+        "MO2 Version": "2.5.2",
+        "Product Version": "1.6.1170.0",
+        "Folder": "Stock Game",
+        "Profile": [
+          "Refined",
+          "Refined - Performance",
+          "Refined - Ultra"
+        ]
+      }
+    },
+    "Auriel's Dream - AE": {
+      "1.0.4": {
+        "Modlist": "Auriel's Dream - AE",
+        "Installed Version": "1.0.4",
+        "MO2 Version": "2.5.1",
+        "Product Version": "",
+        "Folder": "Skyrim Special Edition",
+        "Profile": [
+          "Auriel's Dream"
+        ]
+      }
+    },
+    "Aurora - A Visual Overhaul": {
+      "1.5.6": {
+        "Modlist": "Aurora - A Visual Overhaul",
+        "Installed Version": "1.5.6",
+        "MO2 Version": "2.4.4",
+        "Product Version": "1.6.640.0",
+        "Folder": "Game Root",
+        "Profile": [
+          "Aurora"
+        ]
+      }
+    },
+    "BottleRim": {
+      "2.6.0": {
+        "Modlist": "BottleRim",
+        "Installed Version": "2.6.0",
+        "MO2 Version": "2.5.2",
+        "Product Version": "1.6.1170.0",
+        "Folder": "Game Root",
+        "Profile": [
+          "BottleRim"
+        ]
+      }
+    },
+    "CSVO": {
+      "2.1.1": {
+        "Modlist": "CSVO",
+        "Installed Version": "2.1.1",
+        "MO2 Version": "2.5.2",
+        "Product Version": "1.6.1170.0",
+        "Folder": "Game Root",
+        "Profile": [
+          "BottleRim"
+        ]
+      },
+      "2.2.0": {
+        "Modlist": "CSVO",
+        "Installed Version": "2.2.0",
+        "MO2 Version": "2.5.2",
+        "Product Version": "1.6.1170.0",
+        "Folder": "Game Root",
+        "Profile": [
+          "BottleRim"
+        ]
+      }
+    },
+    "CSVP Vanilla": {
+      "2.8.1": {
+        "Modlist": "CSVP Vanilla",
+        "Installed Version": "2.8.1",
+        "MO2 Version": "2.5.0",
+        "Product Version": "1.6.1170.0",
+        "Folder": "Stock Game",
+        "Profile": [
+          "CSVP - Main"
+        ]
+      }
+    },
+    "Eldergleam Next-Gen": {
+      "4.0.2": {
+        "Modlist": "Eldergleam Next-Gen",
+        "Installed Version": "4.0.2",
+        "MO2 Version": "2.5.2",
+        "Product Version": "1.5.97.0",
+        "Folder": "Game Root",
+        "Profile": [
+          "Eldergleam NG",
+          "Eldergleam NG (Normal)",
+          "Eldergleam NG (Performance)",
+          "Grass Cache"
+        ]
+      }
+    },
+    "Elysium Remastered": {
+      "3.3.1": {
+        "Modlist": "Elysium Remastered",
+        "Installed Version": "3.3.1",
+        "MO2 Version": "2.4.4",
+        "Product Version": "1.5.97.0",
+        "Folder": "Game Root",
+        "Profile": [
+          "Elysium Remastered",
+          "Elysium Remastered - DLAA Support"
+        ]
+      }
+    },
+    "Gate to Sovngarde": {
+      "0.101.0": {
+        "Modlist": "Gate to Sovngarde",
+        "Installed Version": "0.101.0",
+        "MO2 Version": "2.5.2",
+        "Product Version": "1.6.1170.0",
+        "Folder": "Game Root",
+        "Profile": [
+          "Gate to Sovngarde Anniversary Edition Upgrade"
+        ]
+      }
+    },
+    "Ilinalta": {
+      "1.3.0": {
+        "Modlist": "Ilinalta",
+        "Installed Version": "1.3.0",
+        "MO2 Version": "2.5.2",
+        "Product Version": "1.6.1170.0",
+        "Folder": "Stock Game",
+        "Profile": [
+          "Ilinalta",
+          "Ilinalta Skyrim Together"
+        ]
+      }
+    },
+    "Legends of the Frost": {
+      "3.2.1": {
+        "Modlist": "Legends of the Frost",
+        "Installed Version": "3.2.1",
+        "MO2 Version": "2.4.4",
+        "Product Version": "",
+        "Folder": "Skyrim Special Edition",
+        "Profile": [
+          "Legends of the Frost"
+        ]
+      }
+    },
+    "Living Skyrim": {
+      "4.2.0.3": {
+        "Modlist": "Living Skyrim",
+        "Installed Version": "4.2.0.3",
+        "MO2 Version": "2.4.4",
+        "Product Version": "1.5.97.0",
+        "Folder": "Stock Game",
+        "Profile": [
+          "Living Skyrim 4",
+          "LS4 - Performance"
+        ]
+      }
+    },
+    "LoreRim": {
+      "4.0.35": {
+        "Modlist": "LoreRim",
+        "Installed Version": "4.0.35",
+        "MO2 Version": "2.5.2",
+        "Product Version": "1.5.97.0",
+        "Folder": "Stock Game",
+        "Profile": [
+          "Default",
+          "Ultra"
+        ]
+      }
+    },
+    "Lost Legacy": {
+      "1.2.1": {
+        "Modlist": "Lost Legacy",
+        "Installed Version": "1.2.1",
+        "MO2 Version": "2.4.4",
+        "Product Version": "1.5.97.0",
+        "Folder": "Stock Game",
+        "Profile": [
+          "Lost Legacy"
+        ]
+      }
+    },
+    "Mages & Vikings": {
+      "1.9.0": {
+        "Modlist": "Mages & Vikings",
+        "Installed Version": "1.9.0",
+        "MO2 Version": "2.5.2",
+        "Product Version": "1.5.97.0",
+        "Folder": "Stock Game",
+        "Profile": [
+          "Default"
+        ]
+      }
+    },
+    "NGVO": {
+      "6.0.2": {
+        "Modlist": "NGVO",
+        "Installed Version": "6.0.2",
+        "MO2 Version": "2.5.2",
+        "Product Version": "1.6.1170.0",
+        "Folder": "Stock Game",
+        "Profile": [
+          "Default"
+        ]
+      }
+    },
+    "Nolvus": {
+      "6.0.20": {
+        "Modlist": "Nolvus",
+        "Installed Version": "6.0.20",
+        "MO2 Version": "2.4.4",
+        "Product Version": "1.5.97.0",
+        "Folder": "STOCK GAME",
+        "Profile": [
+          "Nolvus Awakening"
+        ]
+      }
+    },
+    "Nordic Souls": {
+      "2.4.1.1": {
+        "Modlist": "Nordic Souls",
+        "Installed Version": "2.4.1.1",
+        "MO2 Version": "2.5.0",
+        "Product Version": "1.5.97.0",
+        "Folder": "Game Root",
+        "Profile": [
+          "Nordic Souls"
+        ]
+      },
+      "3.0.1": {
+        "Modlist": "Nordic Souls",
+        "Installed Version": "3.0.1",
+        "MO2 Version": "2.5.2",
+        "Product Version": "1.6.1170.0",
+        "Folder": "Game Root",
+        "Profile": [
+          "Nordic Souls - Community Shaders",
+          "Nordic Souls - ENB"
+        ]
+      }
+    },
+    "Ro": {
+      "": {
+        "Modlist": "Ro",
+        "Installed Version": "",
+        "MO2 Version": "2.4.4",
+        "Product Version": "",
+        "Folder": "Skyrim Special Edition",
+        "Profile": [
+          "Ro"
+        ]
+      }
+    },
+    "Septimus": {
+      "": {
+        "Modlist": "Septimus",
+        "Installed Version": "",
+        "MO2 Version": "2.4.4",
+        "Product Version": "",
+        "Folder": "Skyrim Special Edition",
+        "Profile": [
+          "Septimus - Anniversary Edition Extended"
+        ]
+      }
+    },
+    "Skyrim Modding Essentials": {
+      "2.7.1": {
+        "Modlist": "Skyrim Modding Essentials",
+        "Installed Version": "2.7.1",
+        "MO2 Version": "2.5.2",
+        "Product Version": "1.6.1170.0",
+        "Folder": "Stock Game",
+        "Profile": [
+          "Skyrim Modding Essentials"
+        ]
+      }
+    },
+    "Slidikins' Strenuous Skyrim": {
+      "5.0.0": {
+        "Modlist": "Slidikins' Strenuous Skyrim",
+        "Installed Version": "5.0.0",
+        "MO2 Version": "2.5.1",
+        "Product Version": "1.6.1170.0",
+        "Folder": "Stock Game",
+        "Profile": [
+          "Slidikins' Strenuous Skyrim",
+          "Slidikins' Strenuous Skyrim (Performance)"
+        ]
+      }
+    },
+    "Tempus Maledictum": {
+      "8.0.6": {
+        "Modlist": "Tempus Maledictum",
+        "Installed Version": "8.0.6",
+        "MO2 Version": "2.5.2",
+        "Product Version": "1.6.1170.0",
+        "Folder": "Stock Game",
+        "Profile": [
+          "Tempus Maledictum - CS Profile"
+        ]
+      }
+    },
+    "The Old North": {
+      "2.0.3": {
+        "Modlist": "The Old North",
+        "Installed Version": "2.0.3",
+        "MO2 Version": "2.5.2",
+        "Product Version": "1.6.1170.0",
+        "Folder": "Stock Game",
+        "Profile": [
+          "The Old North"
+        ]
+      }
+    },
+    "The Phoenix Flavour": {
+      "4.20": {
+        "Modlist": "The Phoenix Flavour",
+        "Installed Version": "4.20",
+        "MO2 Version": "2.4.2",
+        "Product Version": "1.5.97.0",
+        "Folder": "Stock Game",
+        "Profile": [
+          "The Phoenix Flavour",
+          "The Phoenix Flavour - Performance Profile"
+        ]
+      }
+    },
+    "Tomes of Talos": {
+      "1.1.0": {
+        "Modlist": "Tomes of Talos",
+        "Installed Version": "1.1.0",
+        "MO2 Version": "",
+        "Product Version": "",
+        "Folder": "Stock Game",
+        "Profile": [
+          "Tomes of Talos - Lord's Vision",
+          "Tomes of Talos - Performance"
+        ]
+      }
+    },
+    "Tuxborn": {
+      "1.1.3": {
+        "Modlist": "Tuxborn",
+        "Installed Version": "1.1.3",
+        "MO2 Version": "2.5.2",
+        "Product Version": "1.6.1170.0",
+        "Folder": "Game Root",
+        "Profile": [
+          "TuxBFCO - Deck",
+          "TuxBFCO - Desktop",
+          "TuxBFCO - Handheld",
+          "Tuxborn - Deck",
+          "Tuxborn - Desktop",
+          "Tuxborn - Handheld"
+        ]
+      }
+    },
+    "Twisted Skyrim": {
+      "1.3.2.1": {
+        "Modlist": "Twisted Skyrim",
+        "Installed Version": "1.3.2.1",
+        "MO2 Version": "2.5.2",
+        "Product Version": "1.6.1170.0",
+        "Folder": "Stock Game",
+        "Profile": [
+          "Twisted Skyrim",
+          "Twisted Skyrim SFW"
+        ]
+      }
+    },
+    "Wildlander": {
+      "1.1.12": {
+        "Modlist": "Wildlander",
+        "Installed Version": "1.1.12",
+        "MO2 Version": "2.4.4",
+        "Product Version": "1.5.97.0",
+        "Folder": "Stock Game",
+        "Profile": [
+          "0_Wildlander-PERFORMANCE",
+          "0_Wildlander-STANDARD",
+          "1_Wildlander-ULTRA",
+          "2_Wildlander-HIGH",
+          "3_Wildlander-MEDIUM",
+          "4_Wildlander-LOW",
+          "5_Wildlander-POTATO"
+        ]
+      }
+    },
+    "Winds of the North": {
+      "2.0.9": {
+        "Modlist": "Winds of the North",
+        "Installed Version": "2.0.9",
+        "MO2 Version": "2.5.0",
+        "Product Version": "1.6.1170.0",
+        "Folder": "Game Root",
+        "Profile": [
+          "Default"
+        ]
+      }
+    },
+    "Wunduniik": {
+      "6.8.1.0": {
+        "Modlist": "Wunduniik",
+        "Installed Version": "6.8.1.0",
+        "MO2 Version": "2.5.2",
+        "Product Version": "1.6.1170.0",
+        "Folder": "Game Root",
+        "Profile": [
+          "Wunduniik - Path of the Adventurers",
+          "Wunduniik - Path of the Legends"
+        ]
+      }
+    }
+  }
+}

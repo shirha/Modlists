@@ -1,0 +1,20 @@
+2026-04-20 09:54:41,975 - INFO - Streamed all metadata files 89
+2026-04-20 09:54:42,000 - INFO - Total json files 95
+2026-04-20 09:54:42,000 - INFO - Filter w/ max_common_version()
+2026-04-20 09:54:42,674 - INFO - Streamed filtered json files 76
+2026-04-20 09:54:42,879 - INFO - Note missing meta 'Vagabond Remastered'
+2026-04-20 09:54:42,879 - INFO - Streamed all notes files 42
+2026-04-20 09:54:51,196 - INFO - find_game_versions: Fallout4 15
+2026-04-20 09:55:02,587 - INFO - find_game_versions: SkyrimSE 37
+2026-04-20 09:55:02,596 - INFO - w/ profiles, game.exe versions
+2026-04-20 09:55:02,728 - INFO - * json archives [33mw/o[0m modids *
+2026-04-20 09:55:02,728 - INFO - 'esl': 2077
+2026-04-20 09:55:02,728 - INFO - 'esm': 710
+2026-04-20 09:55:02,728 - INFO - 'zip': 32
+2026-04-20 09:55:02,745 - INFO - build json detail
+2026-04-20 09:55:02,749 - INFO - build meta summary
+2026-04-20 09:55:02,749 - INFO - w/ profiles, game.exe versions
+2026-04-20 09:55:02,749 - INFO - Initialization completed successfully
+2026-04-20 09:55:02,816 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2026-04-20 09:55:02,816 - INFO - [33mPress CTRL+C to quit[0m

@@ -1,0 +1,8 @@
+"Please act as an expert Skyrim modding enthusiast. I need a detailed review of the 'Lorerim' modlist. Please break down your review into the following categories:
+  1. Core Gameplay Philosophy: Is this built on EnaiRim, SimonRim, Requiem, or a custom combination?
+  2. Combat System: Is it hack-and-slash, Souls-like, or tactical? What mods are used (e.g., MCO, SCAR, True Directional Movement)?
+  3. Visuals & Performance: What ENB is used, and what is the expected performance on modern hardware?
+  4. Quests & Content: Does it add new quests (e.g., Legacy of the Dragonborn, Beyond Skyrim) or stick to vanilla?
+  5. Cities & World: Does it use JK's Skyrim, Great Cities, or a lighter overhaul?
+  6. Stability & Difficulty: Is it known to be stable, and is it designed for hardcore players or a casual playthrough?
+Finally, give me a 'Verdict' on who this list is best suited for. Show the review as a markdown code block."
