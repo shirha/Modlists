@@ -1,0 +1,40 @@
+{
+  "title": "Nordic Souls",
+  "description": "Nordic Souls is a comprehensive visual and gameplay overhaul designed to modernize Skyrim while staying true to the game's Nordic theme. It provides a perfect balance between plenty of new content, a complete SimonRim gameplay overhaul, and beautiful yet performance-friendly visuals.",
+  "author": "Geborgen",
+  "maintainers": [
+    "github/Geborgen"
+  ],
+  "game": "SkyrimSpecialEdition",
+  "official": true,
+  "tags": [
+    "Featured"
+  ],
+  "nsfw": false,
+  "utility_list": false,
+  "image_contains_title": true,
+  "DisplayVersionOnlyInInstallerView": false,
+  "force_down": false,
+  "links": {
+    "image": "https://raw.githubusercontent.com/Geborgen/nordic-souls/main/.github/NordicSoulsBanner.png",
+    "readme": "https://github.com/Geborgen/nordic-souls/blob/main/README.md",
+    "download": "https://authored-files.wabbajack.org/Nordic Souls.wabbajack_818e396a-d108-40e4-86a5-d7c2fd0803c5",
+    "machineURL": "nordic-souls",
+    "discordURL": "https://discord.gg/9cRs3KPyuW",
+    "websiteURL": "https://www.nexusmods.com/skyrimspecialedition/mods/77497",
+    "nexusCollection": null
+  },
+  "download_metadata": {
+    "Hash": {},
+    "Size": 1415851178,
+    "NumberOfArchives": 1695,
+    "SizeOfArchives": 124296671102,
+    "NumberOfInstalledFiles": 244061,
+    "SizeOfInstalledFiles": 186828085902,
+    "TotalSize": 311124757004
+  },
+  "version": "3.0.1",
+  "dateCreated": "1970-01-01T00:00:00Z",
+  "dateUpdated": "2025-08-24T22:30:08.9770476Z",
+  "repositoryName": "Geborgen"
+}

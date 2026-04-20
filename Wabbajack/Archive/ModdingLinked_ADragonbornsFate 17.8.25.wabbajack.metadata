@@ -1,0 +1,38 @@
+{
+  "title": "A Dragonborn's Fate",
+  "description": "A Dragonborn's Fate is a modlist for Skyrim Special Edition that will give you a perfectly stable, smooth and enjoyable experience.",
+  "author": "ModdingLinked",
+  "maintainers": [
+    "github/Ungeziefi",
+    "github/WallSoGB"
+  ],
+  "game": "SkyrimSpecialEdition",
+  "official": false,
+  "tags": [],
+  "nsfw": false,
+  "utility_list": false,
+  "image_contains_title": true,
+  "DisplayVersionOnlyInInstallerView": false,
+  "force_down": false,
+  "links": {
+    "image": "https://raw.githubusercontent.com/ModdingLinked/ML-Wabbajack/main/DBF Image.webp",
+    "readme": "https://dragonbornsfate.moddinglinked.com/wabbajack.html",
+    "download": "https://authored-files.wabbajack.org/A Dragonborn's Fate.wabbajack_cb25a86f-0359-4012-b47b-3c00179b1908",
+    "machineURL": "ADragonbornsFate",
+    "discordURL": "https://discord.gg/S99Ary5eba",
+    "websiteURL": ""
+  },
+  "download_metadata": {
+    "Hash": {},
+    "Size": 34263904,
+    "NumberOfArchives": 145,
+    "SizeOfArchives": 5438317654,
+    "NumberOfInstalledFiles": 16351,
+    "SizeOfInstalledFiles": 8230449382,
+    "TotalSize": 13668767036
+  },
+  "version": "17.8.25",
+  "dateCreated": "1970-01-01T00:00:00Z",
+  "dateUpdated": "2025-08-17T02:22:50.2802799Z",
+  "repositoryName": "ModdingLinked"
+}

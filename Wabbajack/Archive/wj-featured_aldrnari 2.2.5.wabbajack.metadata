@@ -1,0 +1,40 @@
+{
+  "title": "Aldrnari",
+  "description": "Folk/Nordic/Souls Games inspired, visually focused 2200+ Modlist centered around Yggdrasil Music and Sound FX Overhaul aswell as Celtic Music. Uses the EnaiRim overhauls as well as a ADXP | MCO based combat system for a refreshing and challenging take on Skyrim. Hundreds of high quality assets are handplaced to remove the need of LOTD. (6GB+ of VRAM Required, check readme.)",
+  "author": "Sovn",
+  "maintainers": [
+    "sovn",
+    "github/SovnSkyrim"
+  ],
+  "game": "SkyrimSpecialEdition",
+  "official": true,
+  "tags": [
+    "Featured"
+  ],
+  "nsfw": false,
+  "utility_list": false,
+  "image_contains_title": true,
+  "DisplayVersionOnlyInInstallerView": false,
+  "force_down": false,
+  "links": {
+    "image": "https://raw.githubusercontent.com/SovnSkyrim/Aldrnari/main/Banner-Top-Down.webp",
+    "readme": "https://raw.githubusercontent.com/SovnSkyrim/Aldrnari/main/README.md",
+    "download": "https://authored-files.wabbajack.org/Aldrnari.wabbajack_9d36c461-e040-448c-9656-3b013fbf2b12",
+    "machineURL": "aldrnari",
+    "discordURL": "https://discord.gg/FAfPb9T",
+    "websiteURL": ""
+  },
+  "download_metadata": {
+    "Hash": {},
+    "Size": 2105767040,
+    "NumberOfArchives": 2665,
+    "SizeOfArchives": 216669002472,
+    "NumberOfInstalledFiles": 424261,
+    "SizeOfInstalledFiles": 434094140495,
+    "TotalSize": 650763142967
+  },
+  "version": "2.2.5",
+  "dateCreated": "1970-01-01T00:00:00Z",
+  "dateUpdated": "2025-04-20T08:52:17.6598834Z",
+  "repositoryName": "wj-featured"
+}

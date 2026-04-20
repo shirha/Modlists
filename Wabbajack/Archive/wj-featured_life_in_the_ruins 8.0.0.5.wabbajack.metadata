@@ -1,0 +1,43 @@
+{
+  "title": "Life in the Ruins",
+  "description": "An overhauled and finely tuned Fallout 4 experience. Designed to rebalance the game into a true RPG, while staying faithful to the vanilla aesthetic.",
+  "author": "WhiskyTangoFox",
+  "maintainers": [
+    "whisky-tango-fox",
+    "github/WhiskyTangoFawks"
+  ],
+  "game": "Fallout4",
+  "official": true,
+  "tags": [
+    "Featured",
+    "Steam Deck",
+    "Survival"
+  ],
+  "nsfw": false,
+  "utility_list": false,
+  "image_contains_title": false,
+  "DisplayVersionOnlyInInstallerView": false,
+  "force_down": false,
+  "links": {
+    "image": "https://raw.githubusercontent.com/WhiskyTangoFawks/LunarFalloutPlus/main/LifeInTheRuins.png",
+    "readme": "https://raw.githubusercontent.com/WhiskyTangoFawks/LunarFalloutPlus/main/README.md",
+    "download": "https://authored-files.wabbajack.org/Life in the Ruins.wabbajack_df4c4f01-92b4-4f20-ab30-14f5ea2afe1a",
+    "machineURL": "life_in_the_ruins",
+    "discordURL": "https://discord.gg/HUNWVBjZPg",
+    "websiteURL": "",
+    "nexusCollection": null
+  },
+  "download_metadata": {
+    "Hash": {},
+    "Size": 703037432,
+    "NumberOfArchives": 802,
+    "SizeOfArchives": 132367626395,
+    "NumberOfInstalledFiles": 130395,
+    "SizeOfInstalledFiles": 140847960158,
+    "TotalSize": 273215586553
+  },
+  "version": "8.0.0.5",
+  "dateCreated": "1970-01-01T00:00:00Z",
+  "dateUpdated": "2026-02-03T08:26:40.5841826Z",
+  "repositoryName": "wj-featured"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Librum SE",
+  "description": "A gritty, low-magic, hardcore survival-adventure experience with an uncompromising vision. Hundreds of new quests and locations, a total mechanics overhaul, and a complete makeover of the graphics and atmosphere. The path to your destiny as the Dragonborn will be long and treacherous. Welcome to Librum.",
+  "author": "Scenic Route Games",
+  "maintainers": [
+    "apoapse"
+  ],
+  "game": "SkyrimSpecialEdition",
+  "official": true,
+  "tags": [
+    "Featured",
+    "Survival"
+  ],
+  "nsfw": false,
+  "utility_list": false,
+  "image_contains_title": true,
+  "DisplayVersionOnlyInInstallerView": false,
+  "force_down": false,
+  "links": {
+    "image": "https://raw.githubusercontent.com/apoapse1/Librum-for-Skyrim-VR/main/Resources/LibSE_logo.webp",
+    "readme": "https://www.scenicroute.games/projects/librum-se",
+    "download": "https://github.com/apoapse1/Librum-for-Skyrim-VR/releases/latest/download/Librum.SE.wabbajack",
+    "machineURL": "librum_se",
+    "discordURL": "https://discord.gg/esGVnCjWpJ",
+    "websiteURL": ""
+  },
+  "download_metadata": {
+    "Hash": {},
+    "Size": 492850132,
+    "NumberOfArchives": 1230,
+    "SizeOfArchives": 76719356588,
+    "NumberOfInstalledFiles": 203517,
+    "SizeOfInstalledFiles": 137823323274,
+    "TotalSize": 214542679862
+  },
+  "version": "3.1.0.1",
+  "dateCreated": "1970-01-01T00:00:00Z",
+  "dateUpdated": "0001-01-01T00:00:00",
+  "repositoryName": "wj-featured"
+}

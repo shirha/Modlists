@@ -1,0 +1,44 @@
+{
+  "title": "CSVO - Community Shaders Visual Overhaul",
+  "description": "A full Community Shaders PBR Visual Overhaul baseline",
+  "author": "Bottle",
+  "maintainers": [
+    "github/InTheBottle"
+  ],
+  "game": "SkyrimSpecialEdition",
+  "official": true,
+  "tags": [
+    "Featured",
+    "SFW",
+    "Steam",
+    "Vanilla+",
+    "Utility"
+  ],
+  "nsfw": false,
+  "utility_list": false,
+  "image_contains_title": true,
+  "DisplayVersionOnlyInInstallerView": false,
+  "force_down": false,
+  "links": {
+    "image": "https://raw.githubusercontent.com/InTheBottle/CSVO/main/Resources/csvo.png",
+    "readme": "https://github.com/InTheBottle/CSVO/blob/main/README.md",
+    "download": "https://authored-files.wabbajack.org/CSVO.wabbajack_0f353bba-da8c-489b-9eeb-76e0c31a78fc",
+    "machineURL": "CSVO",
+    "discordURL": "https://discord.gg/WF66mMu",
+    "websiteURL": "",
+    "nexusCollection": null
+  },
+  "download_metadata": {
+    "Hash": {},
+    "Size": 765442290,
+    "NumberOfArchives": 460,
+    "SizeOfArchives": 78280698755,
+    "NumberOfInstalledFiles": 81709,
+    "SizeOfInstalledFiles": 110046100719,
+    "TotalSize": 188326799474
+  },
+  "version": "2.2.0",
+  "dateCreated": "1970-01-01T00:00:00Z",
+  "dateUpdated": "2026-04-04T21:31:22.5987761Z",
+  "repositoryName": "Cistern"
+}

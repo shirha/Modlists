@@ -1,0 +1,37 @@
+{
+  "title": "ElmoRim",
+  "description": "ElmoRim is for players who want enhanced visuals & combat with solid performance and minimal content additions.",
+  "author": "Elmo",
+  "maintainers": [
+    "github/elmoDFGD"
+  ],
+  "game": "SkyrimSpecialEdition",
+  "official": false,
+  "tags": [],
+  "nsfw": false,
+  "utility_list": false,
+  "image_contains_title": false,
+  "DisplayVersionOnlyInInstallerView": false,
+  "force_down": false,
+  "links": {
+    "image": "https://raw.githubusercontent.com/ElmoDFGD/ElmoRim/main/media/ElmoRim_Sak_edit.png",
+    "readme": "https://github.com/ElmoDFGD/ElmoRim",
+    "download": "https://authored-files.wabbajack.org/ElmoRim%202.wabbajack_0c7b273d-2b7a-4625-b6f3-7be2f7d70a32",
+    "machineURL": "ElmoRim",
+    "discordURL": "https://discord.gg/6gGVgDYnBW",
+    "websiteURL": ""
+  },
+  "download_metadata": {
+    "Hash": {},
+    "Size": 500938882,
+    "NumberOfArchives": 404,
+    "SizeOfArchives": 60115704422,
+    "NumberOfInstalledFiles": 44315,
+    "SizeOfInstalledFiles": 79964339789,
+    "TotalSize": 140080044211
+  },
+  "version": "2.1.1",
+  "dateCreated": "1970-01-01T00:00:00Z",
+  "dateUpdated": "0001-01-01T00:00:00",
+  "repositoryName": "ElmoRim"
+}

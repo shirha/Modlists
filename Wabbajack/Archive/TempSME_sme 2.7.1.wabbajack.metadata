@@ -1,0 +1,43 @@
+{
+  "title": "Skyrim Modding Essentials",
+  "description": "Skyrim Modding Essentials is a lean utility Wabbajack list for Skyrim Special Edition, intended to jumpstart a new mod setup with all the required tools and basic mods.",
+  "author": "Phoenix",
+  "maintainers": [
+    "github/foreverphoenix",
+    "phoenix",
+    "github/Styyx1",
+    "github/TDarkShadow"
+  ],
+  "game": "SkyrimSpecialEdition",
+  "official": true,
+  "tags": [
+    "Featured",
+    "Utility"
+  ],
+  "nsfw": false,
+  "utility_list": true,
+  "image_contains_title": true,
+  "DisplayVersionOnlyInInstallerView": false,
+  "force_down": false,
+  "links": {
+    "image": "https://raw.githubusercontent.com/foreverphoenix/the-phoenix-flavour/master/skyrim-modding-essentials.webp",
+    "readme": "https://raw.githubusercontent.com/foreverphoenix/the-phoenix-flavour/master/WABBAJACK-SME.md",
+    "download": "https://authored-files.wabbajack.org/Skyrim Modding Essentials.wabbajack_7c422547-564e-47ad-b165-59be964a3abc",
+    "machineURL": "sme",
+    "discordURL": "https://discord.gg/xRrHRsb5e9",
+    "websiteURL": ""
+  },
+  "download_metadata": {
+    "Hash": {},
+    "Size": 30404713,
+    "NumberOfArchives": 301,
+    "SizeOfArchives": 17875141558,
+    "NumberOfInstalledFiles": 21541,
+    "SizeOfInstalledFiles": 20490781737,
+    "TotalSize": 38365923295
+  },
+  "version": "2.7.1",
+  "dateCreated": "1970-01-01T00:00:00Z",
+  "dateUpdated": "2025-03-09T17:23:25.1125444Z",
+  "repositoryName": "TempSME"
+}

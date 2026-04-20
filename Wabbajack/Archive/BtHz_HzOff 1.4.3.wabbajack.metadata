@@ -1,0 +1,38 @@
+{
+  "title": "Horizon - Official Modlist",
+  "description": "The official modlist for the Horizon overhaul mod.",
+  "author": "Greb751 and Zawinul",
+  "maintainers": [
+    "github/nemal34"
+  ],
+  "game": "Fallout4",
+  "official": false,
+  "tags": [],
+  "nsfw": false,
+  "utility_list": false,
+  "image_contains_title": false,
+  "DisplayVersionOnlyInInstallerView": false,
+  "force_down": false,
+  "links": {
+    "image": "https://raw.githubusercontent.com/nemal34/beyondthehorizon_wj/main/horizon_official.webp",
+    "readme": "https://nemal34.github.io/beyondthehorizon_wj/README_official.html",
+    "download": "https://authored-files.wabbajack.org/Horizon_Official_1431.wabbajack_3f8e10e3-088a-4a6c-a7c7-a0d1ca7bad86",
+    "machineURL": "HzOff",
+    "discordURL": "https://discord.gg/gW2xdaH",
+    "websiteURL": "",
+    "nexusCollection": null
+  },
+  "download_metadata": {
+    "Hash": {},
+    "Size": 1094492,
+    "NumberOfArchives": 24,
+    "SizeOfArchives": 5284915835,
+    "NumberOfInstalledFiles": 2310,
+    "SizeOfInstalledFiles": 6238831396,
+    "TotalSize": 11523747231
+  },
+  "version": "1.4.3",
+  "dateCreated": "1970-01-01T00:00:00Z",
+  "dateUpdated": "0001-01-01T00:00:00",
+  "repositoryName": "BtHz"
+}

@@ -1,0 +1,39 @@
+{
+  "title": "SICKnasty",
+  "description": "Over 1k handpicked & carefully patched mods that combine via Wabbajack to make your Fallout 4 survival mode playthrough more fun, challenging, & packed with content!",
+  "author": "KCisSICKnasty",
+  "maintainers": [
+    "github/KCisSICKnasty"
+  ],
+  "game": "Fallout4",
+  "official": false,
+  "tags": [
+    "Survival"
+  ],
+  "nsfw": false,
+  "utility_list": false,
+  "image_contains_title": true,
+  "DisplayVersionOnlyInInstallerView": false,
+  "force_down": false,
+  "links": {
+    "image": "https://raw.githubusercontent.com/KCisSICKnasty/SICKnasty-FO4/refs/heads/main/resized%20word.webp",
+    "readme": "https://github.com/KCisSICKnasty/SICKnasty-FO4/blob/main/README.md",
+    "download": "https://authored-files.wabbajack.org/SICKnasty - FO4.wabbajack_126f65ea-5685-41b8-8e66-54c9cd1a7690",
+    "machineURL": "sicknastyfo4",
+    "discordURL": "https://discord.gg/W9HRjDFVzX",
+    "websiteURL": ""
+  },
+  "download_metadata": {
+    "Hash": {},
+    "Size": 3984713907,
+    "NumberOfArchives": 2031,
+    "SizeOfArchives": 204996565458,
+    "NumberOfInstalledFiles": 153510,
+    "SizeOfInstalledFiles": 255080388518,
+    "TotalSize": 460076953976
+  },
+  "version": "3.0.0",
+  "dateCreated": "1970-01-01T00:00:00Z",
+  "dateUpdated": "2025-04-25T22:04:59.8987269Z",
+  "repositoryName": "SICKnasty-FO4"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Halls of Sovngarde",
+  "description": "Halls of Sovngarde is a requiem based list which seeks to fully overhaul most elements of Skyrim entirely. With respects to Vanilla Skyrim, many of the old and beloved features of the game we all enjoy have been kept the same. On the other hand, areas which require updating and modernization have been put under the microscope, each minute detail modified to ensure the most modern and cohesive experience possible. This is not a vanilla list, nor is it a list which seeks to completely remove the original feel Skyrim gave us 12 years ago. This list will pay homage to the things we all grew to love while improving the look and overall feel.",
+  "author": "Camboi BYC",
+  "maintainers": [
+    "github/CamIce2002"
+  ],
+  "game": "SkyrimSpecialEdition",
+  "official": true,
+  "tags": [
+    "Featured",
+    "Survival"
+  ],
+  "nsfw": false,
+  "utility_list": false,
+  "image_contains_title": true,
+  "DisplayVersionOnlyInInstallerView": false,
+  "force_down": false,
+  "links": {
+    "image": "https://raw.githubusercontent.com/camice2002/HallsofSovngarde/main/HOS%20(1).png",
+    "readme": "https://www.modlists.net/docs/4hos/Install",
+    "download": "https://authored-files.wabbajack.org/Halls of Sovngarde.wabbajack_02943789-6027-4674-a069-251d9551cd20",
+    "machineURL": "HoS",
+    "discordURL": "https://discord.gg/43EhRjU",
+    "websiteURL": ""
+  },
+  "download_metadata": {
+    "Hash": {},
+    "Size": 202294136,
+    "NumberOfArchives": 2227,
+    "SizeOfArchives": 111905751600,
+    "NumberOfInstalledFiles": 241763,
+    "SizeOfInstalledFiles": 169577601059,
+    "TotalSize": 281483352659
+  },
+  "version": "1.3.4",
+  "dateCreated": "1970-01-01T00:00:00Z",
+  "dateUpdated": "2025-02-22T16:17:16.6211238Z",
+  "repositoryName": "HoS"
+}

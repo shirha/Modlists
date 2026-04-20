@@ -1,0 +1,41 @@
+{
+  "title": "Capital Commonwealth",
+  "description": "Capital Commonwealth is a modlist inspired by Fallout 3's Capital Wasteland, with some bits of New Vegas sprinkled in, it's a harder list, but not to the point of being a chore to play. It maintains a gritty, unsafe, and dark atmosphere, without sacrificing fun, and playability.",
+  "author": "MT4L",
+  "maintainers": [
+    "github/McTiddies4Lunch"
+  ],
+  "game": "Fallout4",
+  "official": false,
+  "tags": [
+    "Steam",
+    "Survival",
+    "DLC Required"
+  ],
+  "nsfw": false,
+  "utility_list": false,
+  "image_contains_title": true,
+  "DisplayVersionOnlyInInstallerView": false,
+  "force_down": false,
+  "links": {
+    "image": "https://raw.githubusercontent.com/TheMrNewVegas/TheMrNewVegas.github.io/refs/heads/main/Resources/capcom/ccwjimage.png",
+    "readme": "https://www.modlists.net/docs/2capcom/Home",
+    "download": "https://authored-files.wabbajack.org/Capital Commonwealth.wabbajack_5735cfcf-0ab0-425d-9869-c02f6a49e556",
+    "machineURL": "mt4lcapitalcommonwealth",
+    "discordURL": "https://discord.gg/myc6aSEPFe",
+    "websiteURL": ""
+  },
+  "download_metadata": {
+    "Hash": {},
+    "Size": 139176147,
+    "NumberOfArchives": 548,
+    "SizeOfArchives": 84384105758,
+    "NumberOfInstalledFiles": 42246,
+    "SizeOfInstalledFiles": 97707186504,
+    "TotalSize": 182091292262
+  },
+  "version": "1.1.0",
+  "dateCreated": "1970-01-01T00:00:00Z",
+  "dateUpdated": "2025-06-10T01:19:52.6281642Z",
+  "repositoryName": "CapitalCommonwealth"
+}

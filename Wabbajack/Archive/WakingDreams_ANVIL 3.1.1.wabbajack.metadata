@@ -1,0 +1,45 @@
+{
+  "title": "Anvil",
+  "description": "Anvil is a visuals-only modlist for Skyrim Special Edition (1.6.1170) built around Community Shaders and designed as a foundation for users to customize and expand upon.",
+  "author": "Bingus and Althro",
+  "maintainers": [
+    "github/Althro",
+    "github/Styyx1",
+    "github/Abandoned-1248",
+    "github/bingusthecatto"
+  ],
+  "game": "SkyrimSpecialEdition",
+  "official": true,
+  "tags": [
+    "Featured",
+    "SFW",
+    "Steam",
+    "Utility"
+  ],
+  "nsfw": false,
+  "utility_list": false,
+  "image_contains_title": true,
+  "DisplayVersionOnlyInInstallerView": false,
+  "force_down": false,
+  "links": {
+    "image": "https://raw.githubusercontent.com/Oghma-Infinium/Anvil/main/Media/Anvil%20Banner%20WEBP.webp",
+    "readme": "https://github.com/Oghma-Infinium/Anvil",
+    "download": "https://authored-files.wabbajack.org/Anvil.wabbajack_7e8cdc71-a35d-4c4b-aeb8-569c93be7bc7",
+    "machineURL": "ANVIL",
+    "discordURL": "https://discord.gg/4WwqfK5yHg",
+    "websiteURL": "https://www.nexusmods.com/skyrimspecialedition/mods/147302"
+  },
+  "download_metadata": {
+    "Hash": {},
+    "Size": 1629082425,
+    "NumberOfArchives": 1055,
+    "SizeOfArchives": 96789701634,
+    "NumberOfInstalledFiles": 124506,
+    "SizeOfInstalledFiles": 105629025387,
+    "TotalSize": 202418727021
+  },
+  "version": "3.1.1",
+  "dateCreated": "1970-01-01T00:00:00Z",
+  "dateUpdated": "2025-06-29T21:59:24.2725266Z",
+  "repositoryName": "WakingDreams"
+}

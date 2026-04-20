@@ -1,0 +1,41 @@
+{
+  "title": "The Old North",
+  "description": "The Old North is vanilla Skyrim, perfected. Just under 300 mods have been chosen to polish the BGS jankiness and focus on the game's strengths. Upscaled textures, improved NPCs, and more tactical combat come together to create the ultimate vanilla plus experience.",
+  "author": "granfdad",
+  "maintainers": [
+    "github/granfdad"
+  ],
+  "game": "SkyrimSpecialEdition",
+  "official": false,
+  "tags": [
+    "SFW",
+    "Steam",
+    "Vanilla+"
+  ],
+  "nsfw": false,
+  "utility_list": false,
+  "image_contains_title": true,
+  "DisplayVersionOnlyInInstallerView": false,
+  "force_down": false,
+  "links": {
+    "image": "https://raw.githubusercontent.com/granfdad/the-old-north/refs/heads/main/theoldnorthbanner.png",
+    "readme": "https://www.nexusmods.com/skyrimspecialedition/mods/121712",
+    "download": "https://authored-files.wabbajack.org/The Old North.wabbajack_b3d79af6-2682-4550-a1ab-7d9fcacefa7d",
+    "machineURL": "theoldnorth",
+    "discordURL": "https://discord.gg/xRrHRsb5e9",
+    "websiteURL": ""
+  },
+  "download_metadata": {
+    "Hash": {},
+    "Size": 21406686,
+    "NumberOfArchives": 407,
+    "SizeOfArchives": 48813384332,
+    "NumberOfInstalledFiles": 45488,
+    "SizeOfInstalledFiles": 61634687816,
+    "TotalSize": 110448072148
+  },
+  "version": "2.0.3",
+  "dateCreated": "1970-01-01T00:00:00Z",
+  "dateUpdated": "2025-06-02T01:30:12.2621548Z",
+  "repositoryName": "theoldnorth"
+}

@@ -1,0 +1,38 @@
+{
+  "title": "CharGrinn",
+  "description": "Visceral & Grim.  Combat Style is Fast & Brutal",
+  "author": "NotSafeForAdults64",
+  "maintainers": [
+    "github/notsafeforadults64"
+  ],
+  "game": "SkyrimSpecialEdition",
+  "official": false,
+  "tags": [],
+  "nsfw": false,
+  "utility_list": false,
+  "image_contains_title": false,
+  "DisplayVersionOnlyInInstallerView": false,
+  "force_down": false,
+  "links": {
+    "image": "https://raw.githubusercontent.com/notsafeadults64/CharGrinn_Modlist/main/CharGrinn_1.webp",
+    "readme": "https://github.com/notsafeadults64/CharGrinn_Modlist/blob/main/README.md",
+    "download": "https://authored-files.wabbajack.org/Char%20Grinn.wabbajack_7f33cf35-e964-474d-b4af-df7fca19714e",
+    "machineURL": "CharGrinn",
+    "discordURL": "https://discord.gg/XBQSxJeDAc",
+    "websiteURL": "",
+    "nexusCollection": null
+  },
+  "download_metadata": {
+    "Hash": {},
+    "Size": 356632460,
+    "NumberOfArchives": 2574,
+    "SizeOfArchives": 220923572728,
+    "NumberOfInstalledFiles": 347974,
+    "SizeOfInstalledFiles": 335880526979,
+    "TotalSize": 556804099707
+  },
+  "version": "1.5.0.0",
+  "dateCreated": "2025-08-17T12:18:15Z",
+  "dateUpdated": "2025-08-17T12:18:15Z",
+  "repositoryName": "CharGrinn"
+}

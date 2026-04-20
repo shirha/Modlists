@@ -1,0 +1,41 @@
+{
+  "title": "Tomes of Talos",
+  "description": "Tomes of Talos (TOT) is a lore-rich, SFW Skyrim modlist from The Modding Bordello, spun from the foundations of Journals of Jyggalag and designed to deliver a stable, immersive, and cohesive experience focused on storytelling, exploration, and visual fidelity. Every addition has been hand-picked to enhance Skyrim\u2019s atmosphere without breaking its lore or tone.",
+  "author": "Herr Schtevie",
+  "maintainers": [
+    "github/HerrSchtevie"
+  ],
+  "game": "SkyrimSpecialEdition",
+  "official": false,
+  "tags": [
+    "DLC Required",
+    "SFW"
+  ],
+  "nsfw": false,
+  "utility_list": false,
+  "image_contains_title": false,
+  "DisplayVersionOnlyInInstallerView": false,
+  "force_down": false,
+  "links": {
+    "image": "https://raw.githubusercontent.com/HerrSchtevie/Scrolls-of-Schtevie/refs/heads/main/assets/TOT%20Wallpaper.webp",
+    "readme": "https://github.com/HerrSchtevie/Scrolls-of-Schtevie/wiki/Tomes-of-Talos-ReadMe",
+    "download": "https://authored-files.wabbajack.org/Tomes%20of%20Talos.wabbajack_0642a4ea-82ce-4c4d-8bcb-3dcd355bd909",
+    "machineURL": "TomesOfTalos",
+    "discordURL": "https://discord.gg/themoddingbordello",
+    "websiteURL": "",
+    "nexusCollection": null
+  },
+  "download_metadata": {
+    "Hash": {},
+    "Size": 846321754,
+    "NumberOfArchives": 3426,
+    "SizeOfArchives": 274897053397,
+    "NumberOfInstalledFiles": 632254,
+    "SizeOfInstalledFiles": 503019915446,
+    "TotalSize": 777916968843
+  },
+  "version": "4.1.1",
+  "dateCreated": "1970-01-01T00:00:00Z",
+  "dateUpdated": "0001-01-01T00:00:00",
+  "repositoryName": "Scrolls_of_Schtevie"
+}

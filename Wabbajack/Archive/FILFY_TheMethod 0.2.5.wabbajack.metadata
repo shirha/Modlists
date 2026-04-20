@@ -1,0 +1,39 @@
+{
+  "title": "The Method to Madness",
+  "description": "This is a modlist focussed on gameplay and functionality with a minimal performance impact, intended to play on all modern devices. It will start very small and get larger with time and requests.",
+  "author": "Aleksandr",
+  "maintainers": [
+    "github/AllstaRawR"
+  ],
+  "game": "SkyrimSpecialEdition",
+  "official": false,
+  "tags": [
+    "Survival"
+  ],
+  "nsfw": false,
+  "utility_list": false,
+  "image_contains_title": false,
+  "DisplayVersionOnlyInInstallerView": false,
+  "force_down": false,
+  "links": {
+    "image": "https://raw.githubusercontent.com/AllstaRawR/TheMethod/refs/heads/main/TheMethod_WabbajackGallery.JPG",
+    "readme": "https://github.com/AllstaRawR/TheMethod/blob/main/README.md",
+    "download": "https://authored-files.wabbajack.org/The Method to Madness.wabbajack_4286e82e-32cc-4323-bc65-c7ecccab1174",
+    "machineURL": "TheMethod",
+    "discordURL": "https://discord.gg/ag6FSESCK6",
+    "websiteURL": ""
+  },
+  "download_metadata": {
+    "Hash": {},
+    "Size": 143591074,
+    "NumberOfArchives": 367,
+    "SizeOfArchives": 29699492605,
+    "NumberOfInstalledFiles": 14405,
+    "SizeOfInstalledFiles": 33579099460,
+    "TotalSize": 63278592065
+  },
+  "version": "0.2.5",
+  "dateCreated": "2024-10-11T00:29:21.3353955Z",
+  "dateUpdated": "2024-10-14T20:30:48.4622796Z",
+  "repositoryName": "FILFY"
+}

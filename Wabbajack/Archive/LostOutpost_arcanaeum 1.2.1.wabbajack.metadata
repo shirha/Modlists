@@ -1,0 +1,37 @@
+{
+  "title": "Arcanaeum",
+  "description": "Arcanaeum is a lightweight and elegant modlist containing carefully chosen bug fixes, gameplay balance changes and new content. It contains full anniversary edition content and rebalancing as well as the absolute best community quests and new items fully custom integrated.",
+  "author": "guitarninja",
+  "maintainers": [
+    "github/guitarninja2"
+  ],
+  "game": "SkyrimSpecialEdition",
+  "official": false,
+  "tags": [],
+  "nsfw": false,
+  "utility_list": false,
+  "image_contains_title": true,
+  "DisplayVersionOnlyInInstallerView": false,
+  "force_down": false,
+  "links": {
+    "image": "https://staticdelivery.nexusmods.com/mods/1704/images/125198/125198-1721927884-77198350.png",
+    "readme": "https://github.com/Lost-Outpost/arcanaeum/blob/main/README.md",
+    "download": "https://authored-files.wabbajack.org/Arcanaeum.wabbajack_eda5fa40-67a4-4763-aee8-94799ef273bc",
+    "machineURL": "arcanaeum",
+    "discordURL": "https://discord.gg/WF66mMu",
+    "websiteURL": ""
+  },
+  "download_metadata": {
+    "Hash": {},
+    "Size": 251455394,
+    "NumberOfArchives": 265,
+    "SizeOfArchives": 31112773079,
+    "NumberOfInstalledFiles": 66381,
+    "SizeOfInstalledFiles": 56164759704,
+    "TotalSize": 87277532783
+  },
+  "version": "1.2.1",
+  "dateCreated": "1970-01-01T00:00:00Z",
+  "dateUpdated": "2025-04-04T14:36:11.244094Z",
+  "repositoryName": "LostOutpost"
+}

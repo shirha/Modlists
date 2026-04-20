@@ -1,0 +1,37 @@
+{
+  "title": "SkyFurry NG - Otherkin",
+  "description": "A SFW Wabbajack modlist for those wishing a variation of races and challenging gameplay. Races are various anthropomorphic animals with a mix of humanoid. Option for full furry included.",
+  "author": "Chardero the Lupe",
+  "maintainers": [
+    "github/CharderotheLupe"
+  ],
+  "game": "SkyrimSpecialEdition",
+  "official": false,
+  "tags": [],
+  "nsfw": false,
+  "utility_list": false,
+  "image_contains_title": true,
+  "DisplayVersionOnlyInInstallerView": false,
+  "force_down": false,
+  "links": {
+    "image": "https://raw.githubusercontent.com/CharderotheLupe/SkyFurry-NG---Otherkin/main/Assets/splash.png",
+    "readme": "https://github.com/CharderotheLupe/SkyFurry-NG---Otherkin/blob/main/README.md",
+    "download": "https://authored-files.wabbajack.org/SkyFurry%20NG%20-%20Otherkin.wabbajack_2aa7f019-ebda-406d-a7cd-a6196f1aedc7",
+    "machineURL": "SkyFurry-NG---Otherkin",
+    "discordURL": "https://discord.gg/skyfurryng",
+    "websiteURL": ""
+  },
+  "download_metadata": {
+    "Hash": {},
+    "Size": 592023609,
+    "NumberOfArchives": 1222,
+    "SizeOfArchives": 89455471989,
+    "NumberOfInstalledFiles": 135676,
+    "SizeOfInstalledFiles": 121262904222,
+    "TotalSize": 210718376211
+  },
+  "version": "2.0.3",
+  "dateCreated": "1970-01-01T00:00:00Z",
+  "dateUpdated": "0001-01-01T00:00:00",
+  "repositoryName": "SkyFurry_NG-Otherkin"
+}

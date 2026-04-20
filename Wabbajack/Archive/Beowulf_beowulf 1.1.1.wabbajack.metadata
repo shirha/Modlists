@@ -1,0 +1,39 @@
+{
+  "title": "Beowulf",
+  "description": "Beowulf ist eine von Grund auf neu erstellte DEUTSCHE Modliste f\u00fcr Mid- und High-End PCs mit Fokus auf grafischer Aufwertung, Immersion und etwas Gameplay-Verbesserungen.",
+  "author": "Nexusbla18",
+  "maintainers": [
+    "Nexusbla18"
+  ],
+  "game": "SkyrimSpecialEdition",
+  "official": false,
+  "tags": [
+    "Vanilla+"
+  ],
+  "nsfw": false,
+  "utility_list": false,
+  "image_contains_title": true,
+  "DisplayVersionOnlyInInstallerView": false,
+  "force_down": false,
+  "links": {
+    "image": "https://raw.githubusercontent.com/Nexusbla18/Beowulf/main/Beowulf_flag.jpg",
+    "readme": "https://www.nexusmods.com/skyrimspecialedition/mods/112952",
+    "download": "https://authored-files.wabbajack.org/Beowulf.wabbajack_5f63193a-814a-481e-8e3d-1edd882fc1ed",
+    "machineURL": "beowulf",
+    "discordURL": "None",
+    "websiteURL": ""
+  },
+  "download_metadata": {
+    "Hash": {},
+    "Size": 564565122,
+    "NumberOfArchives": 2193,
+    "SizeOfArchives": 172623308651,
+    "NumberOfInstalledFiles": 134033,
+    "SizeOfInstalledFiles": 229785520084,
+    "TotalSize": 402408828735
+  },
+  "version": "1.1.1",
+  "dateCreated": "1970-01-01T00:00:00Z",
+  "dateUpdated": "0001-01-01T00:00:00",
+  "repositoryName": "Beowulf"
+}

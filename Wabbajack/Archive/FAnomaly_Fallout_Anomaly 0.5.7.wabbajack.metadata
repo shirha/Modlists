@@ -1,0 +1,41 @@
+{
+  "title": "Fallout Anomaly",
+  "description": "Fallout Anomaly delivers a true hardcore survival experience, pushing realism to the limit with mods like Damn Apocalypse, MAIM, and more. Face brutal new challenges with an expanded arsenal of weapons and armor, encounter dangerous enemy types, explore new quests, and build with enhanced settlement options. A full texture overhaul brings the game up to modern visual standards, making every moment feel more immersive and unforgiving.",
+  "author": "Fallout Anomaly Team",
+  "maintainers": [
+    "github/NomadsReach",
+    "github/StreikEizer"
+  ],
+  "game": "Fallout4",
+  "official": true,
+  "tags": [
+    "Featured",
+    "Survival"
+  ],
+  "nsfw": false,
+  "utility_list": false,
+  "image_contains_title": false,
+  "DisplayVersionOnlyInInstallerView": false,
+  "force_down": false,
+  "links": {
+    "image": "https://raw.githubusercontent.com/NomadsReach/Fallout-Anomaly/refs/heads/master/images/Logo011_0.png",
+    "readme": "https://falloutanomaly.guildtag.com/readme/",
+    "download": "https://authored-files.wabbajack.org/Fallout%20Anomaly%20Beta%20Fixed.wabbajack_34d80996-8a2f-4127-9344-1e0ddc0ffbc5",
+    "machineURL": "Fallout_Anomaly",
+    "discordURL": "https://discord.gg/TAueAV8Utk",
+    "websiteURL": "https://fallout-anomaly.github.io/websitedev/index.html"
+  },
+  "download_metadata": {
+    "Hash": {},
+    "Size": 169536456,
+    "NumberOfArchives": 997,
+    "SizeOfArchives": 180993605139,
+    "NumberOfInstalledFiles": 43732,
+    "SizeOfInstalledFiles": 195787978073,
+    "TotalSize": 376781583212
+  },
+  "version": "0.5.7",
+  "dateCreated": "1970-01-01T00:00:00Z",
+  "dateUpdated": "2025-07-03T02:06:30.0254719Z",
+  "repositoryName": "FAnomaly"
+}

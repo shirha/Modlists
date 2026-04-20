@@ -1,0 +1,40 @@
+{
+  "title": "Winds of the North",
+  "description": "Winds of the North is a lightweight modlist that focuses on improving Skyrim\u2019s gameplay and adding new content to experience, while also preserving the aesthetic of the original game.",
+  "author": "colinswrath",
+  "maintainers": [
+    "github/colinswrath"
+  ],
+  "game": "SkyrimSpecialEdition",
+  "official": true,
+  "tags": [
+    "Featured"
+  ],
+  "nsfw": false,
+  "utility_list": false,
+  "image_contains_title": true,
+  "DisplayVersionOnlyInInstallerView": false,
+  "force_down": false,
+  "links": {
+    "image": "https://raw.githubusercontent.com/colinswrath/WindsOfTheNorth/main/images/WindsofTheNorthLogo2k.png",
+    "readme": "https://colinswrath.github.io/WindsOfTheNorth/",
+    "download": "https://authored-files.wabbajack.org/WindsoftheNorth.wabbajack_6e41a6ef-d286-491a-bbfa-363bcc8099da",
+    "machineURL": "windsofthenorth",
+    "discordURL": "https://discord.gg/WF66mMu",
+    "websiteURL": "https://colinswrath.github.io/WindsOfTheNorth/",
+    "nexusCollection": null
+  },
+  "download_metadata": {
+    "Hash": {},
+    "Size": 148222532,
+    "NumberOfArchives": 714,
+    "SizeOfArchives": 52443276453,
+    "NumberOfInstalledFiles": 93760,
+    "SizeOfInstalledFiles": 63055417822,
+    "TotalSize": 115498694275
+  },
+  "version": "3.0.3",
+  "dateCreated": "1970-01-01T00:00:00Z",
+  "dateUpdated": "2025-12-10T14:44:21.254778Z",
+  "repositoryName": "LostOutpost"
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Legends of the Frost",
+  "description": "Legends of the Frost is Skyrim, but better. Textures are sharper, trees are more lush, weathers are more diverse, and water no longer looks like oil. A collection of around 300 mods fixes a plethora of bugs and annoyances in addition to bringing some light improvements to visuals, combat, and balancing. LOTF also features seamless blending of distant terrain and trees as well as high quality facegen. Now with optional PERFORMANCE PROFILE and CREATION CLUB support.",
+  "author": "Phoenix",
+  "maintainers": [
+    "github/foreverphoenix",
+    "phoenix"
+  ],
+  "game": "SkyrimSpecialEdition",
+  "official": true,
+  "tags": [
+    "Featured"
+  ],
+  "nsfw": false,
+  "utility_list": false,
+  "image_contains_title": true,
+  "DisplayVersionOnlyInInstallerView": false,
+  "force_down": false,
+  "links": {
+    "image": "https://raw.githubusercontent.com/foreverphoenix/the-phoenix-flavour/master/legends-of-the-frost.webp",
+    "readme": "https://raw.githubusercontent.com/foreverphoenix/the-phoenix-flavour/master/WABBAJACK-LOTF.md",
+    "download": "https://authored-files.wabbajack.org/Legends%20of%20the%20Frost.wabbajack_0547b088-116d-441e-a2d4-46c075368e90",
+    "machineURL": "lotf",
+    "discordURL": "https://discord.gg/xRrHRsb5e9",
+    "websiteURL": ""
+  },
+  "download_metadata": {
+    "Hash": {},
+    "Size": 475344149,
+    "NumberOfArchives": 616,
+    "SizeOfArchives": 46253661857,
+    "NumberOfInstalledFiles": 168860,
+    "SizeOfInstalledFiles": 65396485611,
+    "TotalSize": 111650147468
+  },
+  "version": "3.3.4",
+  "dateCreated": "1970-01-01T00:00:00Z",
+  "dateUpdated": "2024-01-20T09:40:28.1475907Z",
+  "repositoryName": "wj-featured"
+}

@@ -1,0 +1,37 @@
+{
+  "title": "Dinoksetiid",
+  "description": "Dinoksetiid is a stylized dark fantasy modlist built around the Shattered Skyrim series of mods. Traverse a broken world decimated by the World Eater, and uncover the truth of what really happened. Become a hero of your own making in this post-apocalyptic Skyrim.",
+  "author": "Geborgen",
+  "maintainers": [
+    "github/Geborgen"
+  ],
+  "game": "SkyrimSpecialEdition",
+  "official": false,
+  "tags": [],
+  "nsfw": false,
+  "utility_list": false,
+  "image_contains_title": true,
+  "DisplayVersionOnlyInInstallerView": false,
+  "force_down": false,
+  "links": {
+    "image": "https://raw.githubusercontent.com/Geborgen/dinoksetiid/main/.github/DinoksetiidBanner.png",
+    "readme": "https://github.com/Geborgen/dinoksetiid/blob/main/README.md",
+    "download": "https://authored-files.wabbajack.org/Dinoksetiid.wabbajack_ed23fea6-7af7-45b5-a7dd-029674c66266",
+    "machineURL": "dinoksetiid",
+    "discordURL": "https://discord.com/invite/9cRs3KPyuW",
+    "websiteURL": ""
+  },
+  "download_metadata": {
+    "Hash": {},
+    "Size": 186550713,
+    "NumberOfArchives": 743,
+    "SizeOfArchives": 60207103913,
+    "NumberOfInstalledFiles": 174028,
+    "SizeOfInstalledFiles": 88765329902,
+    "TotalSize": 148972433815
+  },
+  "version": "1.0.1",
+  "dateCreated": "1970-01-01T00:00:00Z",
+  "dateUpdated": "2024-08-20T21:32:36.9241257Z",
+  "repositoryName": "Geborgen"
+}

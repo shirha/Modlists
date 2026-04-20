@@ -1,0 +1,43 @@
+{
+  "title": "Ash Lotus",
+  "description": "Ash Lotus is a cinematic, story-driven Fallout 4 modlist built around gameplay enhancement, immersive faction conflict, and atmospheric realism. Explore a reimagined Commonwealth shaped by darkness, danger, and dynamic storytelling.",
+  "author": "CuongT.Modwork",
+  "maintainers": [
+    "github/CuongMe"
+  ],
+  "game": "Fallout4",
+  "official": false,
+  "tags": [
+    "Hardcore",
+    "Survival",
+    "SFW",
+    "Vanilla+",
+    "DLC Required"
+  ],
+  "nsfw": false,
+  "utility_list": false,
+  "image_contains_title": true,
+  "DisplayVersionOnlyInInstallerView": false,
+  "force_down": false,
+  "links": {
+    "image": "https://raw.githubusercontent.com/CuongMe/ash-lotus-modlist/main/ashlotus-banner.png",
+    "readme": "https://github.com/CuongMe/ash-lotus-modlist/blob/main/README.md",
+    "download": "https://authored-files.wabbajack.org/Ash%20Lotus%20V1.2.3.wabbajack_77c00b25-969e-4f78-bae8-454c73416b07",
+    "machineURL": "AshLotus",
+    "discordURL": "https://discord.gg/tbS9VAEchj",
+    "websiteURL": ""
+  },
+  "download_metadata": {
+    "Hash": {},
+    "Size": 7849375,
+    "NumberOfArchives": 618,
+    "SizeOfArchives": 111819369797,
+    "NumberOfInstalledFiles": 54342,
+    "SizeOfInstalledFiles": 132400039842,
+    "TotalSize": 244219409639
+  },
+  "version": "1.2.3",
+  "dateCreated": "1970-01-01T00:00:00Z",
+  "dateUpdated": "0001-01-01T00:00:00",
+  "repositoryName": "Ash_Lotus"
+}

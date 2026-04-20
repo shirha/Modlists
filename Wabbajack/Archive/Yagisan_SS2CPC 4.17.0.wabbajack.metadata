@@ -1,0 +1,39 @@
+{
+  "title": "Sim Settlements 2 City Plan Contest Helper",
+  "description": "Sim Settlements 2 City Plan Contest Helper is a list where city plan builders can produce stunning city plans.",
+  "author": "Yagisan",
+  "maintainers": [
+    "github/Yagisan"
+  ],
+  "game": "Fallout4",
+  "official": false,
+  "tags": [
+    "Steam"
+  ],
+  "nsfw": false,
+  "utility_list": false,
+  "image_contains_title": true,
+  "DisplayVersionOnlyInInstallerView": false,
+  "force_down": false,
+  "links": {
+    "image": "https://raw.githubusercontent.com/Yagisan/SS2-City-Plan-Contest-Helper/main/assets/images/SS2_CPC_Hero_20240516.webp",
+    "readme": "https://raw.githubusercontent.com/Yagisan/SS2-City-Plan-Contest-Helper/main/README.md",
+    "download": "https://authored-files.wabbajack.org/Sim Settlements 2 City Plan Contest Helper.wabbajack_b5b7a563-1892-485d-b674-da079fe4530e",
+    "machineURL": "SS2CPC",
+    "discordURL": "https://discord.gg/rB5RFgHhUD",
+    "websiteURL": ""
+  },
+  "download_metadata": {
+    "Hash": {},
+    "Size": 279124420,
+    "NumberOfArchives": 341,
+    "SizeOfArchives": 53870348258,
+    "NumberOfInstalledFiles": 102007,
+    "SizeOfInstalledFiles": 69660645555,
+    "TotalSize": 123530993813
+  },
+  "version": "4.17.0",
+  "dateCreated": "1970-01-01T00:00:00Z",
+  "dateUpdated": "2025-07-28T10:13:15.7270304Z",
+  "repositoryName": "Yagisan"
+}

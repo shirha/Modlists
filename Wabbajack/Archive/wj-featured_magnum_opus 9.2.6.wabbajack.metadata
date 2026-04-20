@@ -1,0 +1,41 @@
+{
+  "title": "Magnum Opus",
+  "description": "The premiere modlist for Fallout 4! As one of the oldest lists on Wabbajack, Magnum Opus has only gotten better with age. This list is a perfect blend of challenge and fun, with a suite of expanded quests, NPCs, locations, weapons - all topped off with exquisite visuals. Experience the Commonwealth like never before: spend hundreds of hours building your empire with Sim Settlements 2, discover hidden worlds in the Glowing Sea, create peace between all the factions (or none of them), and so much more - Magnum Opus awaits your command!",
+  "author": "Lively",
+  "maintainers": [
+    "github/LivelyDismay",
+    "lively"
+  ],
+  "game": "Fallout4",
+  "official": true,
+  "tags": [
+    "Featured"
+  ],
+  "nsfw": false,
+  "utility_list": false,
+  "image_contains_title": false,
+  "DisplayVersionOnlyInInstallerView": false,
+  "force_down": false,
+  "links": {
+    "image": "https://raw.githubusercontent.com/LivelyDismay/Learn-To-Mod/main/wabbajack-stuff/neat.webp",
+    "readme": "https://raw.githubusercontent.com/LivelyDismay/magnum-opus/main/README.md",
+    "download": "https://authored-files.wabbajack.org/Magnum Opus.wabbajack_4f0d688e-38bd-4483-8ca3-285f162f3c6d",
+    "machineURL": "magnum_opus",
+    "discordURL": "https://discord.gg/yABEjwB",
+    "websiteURL": "",
+    "nexusCollection": null
+  },
+  "download_metadata": {
+    "Hash": {},
+    "Size": 455317464,
+    "NumberOfArchives": 1155,
+    "SizeOfArchives": 148439507182,
+    "NumberOfInstalledFiles": 148237,
+    "SizeOfInstalledFiles": 192225963354,
+    "TotalSize": 340665470536
+  },
+  "version": "9.2.6",
+  "dateCreated": "1970-01-01T00:00:00Z",
+  "dateUpdated": "2026-02-20T23:23:13.8790253Z",
+  "repositoryName": "wj-featured"
+}

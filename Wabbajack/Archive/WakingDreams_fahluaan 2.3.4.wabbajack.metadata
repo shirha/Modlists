@@ -1,0 +1,44 @@
+{
+  "title": "Fahluaan",
+  "description": "Fahluaan is a comprehensive modlist for Skyrim Anniversary Edition that focuses on bringing the combat and gameplay of Skyrim to the modern age, without compromising on the original lore and vision of the Elder Scrolls Series. Meticulously balanced and full of handpicked content, new gear, spells, and quest mods that are designed to integrate seamlessly into the game.",
+  "author": "aljo",
+  "maintainers": [
+    "github/aljoxo",
+    "github/bingusthecatto"
+  ],
+  "game": "SkyrimSpecialEdition",
+  "official": true,
+  "tags": [
+    "Featured",
+    "DLC Required",
+    "SFW",
+    "Steam",
+    "Survival"
+  ],
+  "nsfw": false,
+  "utility_list": false,
+  "image_contains_title": false,
+  "DisplayVersionOnlyInInstallerView": false,
+  "force_down": false,
+  "links": {
+    "image": "https://raw.githubusercontent.com/Oghma-Infinium/Fahluaan/main/images/Bannernew.webp",
+    "readme": "https://raw.githubusercontent.com/Oghma-Infinium/Fahluaan/main/README.md",
+    "download": "https://authored-files.wabbajack.org/Fahluaan.wabbajack_8dff1adc-16a7-4294-8436-a7880cefeebe",
+    "machineURL": "fahluaan",
+    "discordURL": "https://discord.gg/4WwqfK5yHg",
+    "websiteURL": ""
+  },
+  "download_metadata": {
+    "Hash": {},
+    "Size": 629161467,
+    "NumberOfArchives": 2850,
+    "SizeOfArchives": 210581720733,
+    "NumberOfInstalledFiles": 279087,
+    "SizeOfInstalledFiles": 279232576970,
+    "TotalSize": 489814297703
+  },
+  "version": "2.3.4",
+  "dateCreated": "2023-07-24T00:00:00",
+  "dateUpdated": "2024-12-04T15:52:31.5953092Z",
+  "repositoryName": "WakingDreams"
+}

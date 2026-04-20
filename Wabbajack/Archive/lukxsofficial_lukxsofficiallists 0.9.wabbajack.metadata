@@ -1,0 +1,42 @@
+{
+  "title": "Ashveil - Eine Deutsche Modliste",
+  "description": "Ashveil ist eine d\u00fcstere Fantasy-\u00dcberarbeitung von Skyrim, die Soulslike-Kampfmechanik, kompromissloses \u00dcberleben und beeindruckende Atmosph\u00e4re vereint.",
+  "author": "lukxsofficial",
+  "maintainers": [
+    "github/lukxsofficial"
+  ],
+  "game": "SkyrimSpecialEdition",
+  "official": false,
+  "tags": [
+    "SFW",
+    "Steam",
+    "Vanilla+",
+    "Combat Overhaul"
+  ],
+  "nsfw": false,
+  "utility_list": false,
+  "image_contains_title": true,
+  "DisplayVersionOnlyInInstallerView": false,
+  "force_down": false,
+  "links": {
+    "image": "https://raw.githubusercontent.com/lukxsofficial/modlists/main/AshveilTitle.webp",
+    "readme": "https://www.nexusmods.com/skyrimspecialedition/mods/150110",
+    "download": "https://authored-files.wabbajack.org/Ashveil - Eine Deutsche Modliste.wabbajack_97d6244f-ee6c-4400-9a87-3c5a999afdd8",
+    "machineURL": "lukxsofficiallists",
+    "discordURL": "https://discord.gg/tamriel",
+    "websiteURL": ""
+  },
+  "download_metadata": {
+    "Hash": {},
+    "Size": 433922778,
+    "NumberOfArchives": 1056,
+    "SizeOfArchives": 108630357049,
+    "NumberOfInstalledFiles": 111019,
+    "SizeOfInstalledFiles": 156479763062,
+    "TotalSize": 265110120111
+  },
+  "version": "0.9",
+  "dateCreated": "1970-01-01T00:00:00Z",
+  "dateUpdated": "2025-07-29T17:17:14.0877176Z",
+  "repositoryName": "lukxsofficial"
+}

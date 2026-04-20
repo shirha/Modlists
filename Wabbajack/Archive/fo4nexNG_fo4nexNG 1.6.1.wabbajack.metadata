@@ -1,0 +1,37 @@
+{
+  "title": "Fallout 4 NG Curated",
+  "description": "Nexar's Curated Fallout 4 Next-Gen Modlist 2025",
+  "author": "N3xar",
+  "maintainers": [
+    "github/N3xar"
+  ],
+  "game": "Fallout4",
+  "official": false,
+  "tags": [],
+  "nsfw": false,
+  "utility_list": false,
+  "image_contains_title": true,
+  "DisplayVersionOnlyInInstallerView": false,
+  "force_down": false,
+  "links": {
+    "image": "https://nexarplays.co.za/wp-content/uploads/2025/01/Main-Image.webp",
+    "readme": "https://nexarplays.co.za/fallout4/",
+    "download": "https://authored-files.wabbajack.org/Nexar's Curated Mods 2025.wabbajack_9b82fc6b-26f2-4d6a-b733-e9148ec2d1f8",
+    "machineURL": "fo4nexNG",
+    "discordURL": "https://discord.gg/dhWM6qSbDC",
+    "websiteURL": "https://nexarplays.co.za/fallout4"
+  },
+  "download_metadata": {
+    "Hash": {},
+    "Size": 2369648035,
+    "NumberOfArchives": 1350,
+    "SizeOfArchives": 158707316316,
+    "NumberOfInstalledFiles": 61424,
+    "SizeOfInstalledFiles": 233105445121,
+    "TotalSize": 391812761437
+  },
+  "version": "1.6.1",
+  "dateCreated": "2025-01-09T19:30:00Z",
+  "dateUpdated": "2025-06-18T15:47:41.9145421Z",
+  "repositoryName": "fo4nexNG"
+}

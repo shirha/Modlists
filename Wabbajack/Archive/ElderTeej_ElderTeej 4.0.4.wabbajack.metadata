@@ -1,0 +1,43 @@
+{
+  "title": "ElderTeej",
+  "description": "BFCO combat, every official LOTD display on Nexus, Vokord perk overhaul with vanilla skill leveling?\n\nThis is a power fantasy. You're the Dragonborn, kick some butt and fill that museum!",
+  "author": "tpartridge89",
+  "maintainers": [
+    "github/tpartridge89"
+  ],
+  "game": "SkyrimSpecialEdition",
+  "official": false,
+  "tags": [
+    "Total Overhaul",
+    "Steam",
+    "Combat Overhaul",
+    "SFW"
+  ],
+  "nsfw": false,
+  "utility_list": false,
+  "image_contains_title": false,
+  "DisplayVersionOnlyInInstallerView": false,
+  "force_down": false,
+  "links": {
+    "image": "https://raw.githubusercontent.com/tpartridge89/ElderTeej/refs/heads/main/ElderTeej16x9.webp",
+    "readme": "https://github.com/tpartridge89/ElderTeej/blob/main/README.md",
+    "download": "https://authored-files.wabbajack.org/ElderTeej.wabbajack_7469d114-a14e-445a-9fd3-a3c5cd931bdd",
+    "machineURL": "ElderTeej",
+    "discordURL": "https://discord.gg/r4YnyqGBBA",
+    "websiteURL": "",
+    "nexusCollection": null
+  },
+  "download_metadata": {
+    "Hash": {},
+    "Size": 2990194134,
+    "NumberOfArchives": 2671,
+    "SizeOfArchives": 228197875159,
+    "NumberOfInstalledFiles": 454295,
+    "SizeOfInstalledFiles": 438259907511,
+    "TotalSize": 666457782670
+  },
+  "version": "4.0.4",
+  "dateCreated": "1970-01-01T00:00:00Z",
+  "dateUpdated": "2026-04-18T04:22:29.4814151Z",
+  "repositoryName": "ElderTeej"
+}

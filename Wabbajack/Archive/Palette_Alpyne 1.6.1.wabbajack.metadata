@@ -1,0 +1,40 @@
+{
+  "title": "Alpyne",
+  "description": "Alpyne is a heroic fantasy vanilla plus modlist. Leveraging the likes of Skyrim Redone and Skyrim Realistic Conquering, Alpyne seeks to create an experience that is as visceral as it is striking",
+  "author": "Ferroxius",
+  "maintainers": [
+    "github/Ferroxius"
+  ],
+  "game": "SkyrimSpecialEdition",
+  "official": true,
+  "tags": [
+    "Featured"
+  ],
+  "nsfw": false,
+  "utility_list": false,
+  "image_contains_title": true,
+  "DisplayVersionOnlyInInstallerView": false,
+  "force_down": false,
+  "links": {
+    "image": "https://raw.githubusercontent.com/Ferroxius/Palette/main/Alpyne.png",
+    "readme": "https://raw.githubusercontent.com/Ferroxius/Palette/main/Alpyne_Installation.md",
+    "download": "https://authored-files.wabbajack.org/Alpyne%20(1).wabbajack_9ac505b3-e547-4744-aef2-f9e8419c8a1b",
+    "machineURL": "Alpyne",
+    "discordURL": "https://discord.gg/xRrHRsb5e9",
+    "websiteURL": "",
+    "nexusCollection": null
+  },
+  "download_metadata": {
+    "Hash": {},
+    "Size": 1302640607,
+    "NumberOfArchives": 1442,
+    "SizeOfArchives": 91486578793,
+    "NumberOfInstalledFiles": 140678,
+    "SizeOfInstalledFiles": 112851750547,
+    "TotalSize": 204338329340
+  },
+  "version": "1.6.1",
+  "dateCreated": "1970-01-01T00:00:00Z",
+  "dateUpdated": "2025-06-13T16:42:43.847415Z",
+  "repositoryName": "Palette"
+}

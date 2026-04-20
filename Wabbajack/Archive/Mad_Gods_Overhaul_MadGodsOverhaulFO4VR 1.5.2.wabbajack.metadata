@@ -1,0 +1,39 @@
+{
+  "title": "Mad God Overhaul",
+  "description": "Every aspect of the Bethesda original was painstakingly remastered with the best mods from 2025. Supports latest weather, texture and lighting.  Loaded with high quality quest expansion contents for countless hours of gameplay.  Choose between Classic Fallout 4 VR experience and modern tactical experience from the same installation.  Come and find out what you have been missing.",
+  "author": "Moyse06",
+  "maintainers": [
+    "github/Moyse06"
+  ],
+  "game": "Fallout4VR",
+  "official": false,
+  "tags": [
+    "VR"
+  ],
+  "nsfw": false,
+  "utility_list": false,
+  "image_contains_title": true,
+  "DisplayVersionOnlyInInstallerView": false,
+  "force_down": false,
+  "links": {
+    "image": "https://raw.githubusercontent.com/Moyse06/MadGodsOverhaul/main/fallout4_splash.png",
+    "readme": "https://raw.githubusercontent.com/Moyse06/MadGodsOverhaul/main/README.md",
+    "download": "https://authored-files.wabbajack.org/Fallout 4 VR - Mad God Overhaul.wabbajack_e5a438f2-87d2-46b3-b3e1-d66ad9855f34",
+    "machineURL": "MadGodsOverhaulFO4VR",
+    "discordURL": "https://discord.com/invite/WjSUaSPaQZ",
+    "websiteURL": ""
+  },
+  "download_metadata": {
+    "Hash": {},
+    "Size": 153444042,
+    "NumberOfArchives": 309,
+    "SizeOfArchives": 92815057015,
+    "NumberOfInstalledFiles": 17958,
+    "SizeOfInstalledFiles": 107192705337,
+    "TotalSize": 200007762352
+  },
+  "version": "1.5.2",
+  "dateCreated": "2023-12-31T00:00:00Z",
+  "dateUpdated": "2025-06-02T00:00:00Z",
+  "repositoryName": "Mad_Gods_Overhaul"
+}

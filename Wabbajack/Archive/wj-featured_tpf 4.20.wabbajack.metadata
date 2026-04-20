@@ -1,0 +1,40 @@
+{
+  "title": "The Phoenix Flavour",
+  "description": "The Phoenix Flavour for Skyrim SE is a visuals and gameplay-focused modding guide and mod list, featuring around 700 mods carefully selected and patched for a coherent and stable experience. Originally released in 2017, it has gone through many iterations and continues to be updated frequently.",
+  "author": "Phoenix & Umgak, maintained by Codygits",
+  "maintainers": [
+    "github/Codygits",
+    "codygits"
+  ],
+  "game": "SkyrimSpecialEdition",
+  "official": true,
+  "tags": [
+    "Featured"
+  ],
+  "nsfw": false,
+  "utility_list": false,
+  "image_contains_title": true,
+  "DisplayVersionOnlyInInstallerView": false,
+  "force_down": false,
+  "links": {
+    "image": "https://raw.githubusercontent.com/Codygits/TPF-Updates/main/images/Standing_Stones_TPF_Logo.webp",
+    "readme": "https://raw.githubusercontent.com/Codygits/TPF-Updates/main/Wabbajack.md",
+    "download": "https://authored-files.wabbajack.org/The Phoenix Flavour v4.20.wabbajack_1c670b9c-64c5-410b-a45d-ecdbaa349b72",
+    "machineURL": "tpf",
+    "discordURL": "https://discord.gg/xRrHRsb5e9",
+    "websiteURL": ""
+  },
+  "download_metadata": {
+    "Hash": {},
+    "Size": 281739933,
+    "NumberOfArchives": 901,
+    "SizeOfArchives": 65668771393,
+    "NumberOfInstalledFiles": 96001,
+    "SizeOfInstalledFiles": 80407376571,
+    "TotalSize": 146076147964
+  },
+  "version": "4.20",
+  "dateCreated": "1970-01-01T00:00:00Z",
+  "dateUpdated": "2025-03-20T15:04:49.0087306Z",
+  "repositoryName": "wj-featured"
+}

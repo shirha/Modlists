@@ -1,0 +1,41 @@
+{
+  "title": "Auriel's Dream - AE",
+  "description": "Auriels Dream - a visually focused modlist. Colors are warmer and theme is high fantasy, complimented with Community Shader. No changes to perks, leveling, crating and so on by default. But optional mods are provided to add popular game changing mods. Also offers two game modes, hard mode and survival mode. Comes with complete LODs.",
+  "author": "Kvitekvist",
+  "maintainers": [
+    "github/Kvitekvist",
+    "Kvitekvist"
+  ],
+  "game": "SkyrimSpecialEdition",
+  "official": false,
+  "tags": [
+    "High Fantasy"
+  ],
+  "nsfw": false,
+  "utility_list": false,
+  "image_contains_title": false,
+  "DisplayVersionOnlyInInstallerView": false,
+  "force_down": false,
+  "links": {
+    "image": "https://raw.githubusercontent.com/Kvitekvist/auriels-dream-ae/master/images/AurielsDream.webp",
+    "readme": "https://github.com/Kvitekvist/auriels-dream-ae/blob/main/README.md",
+    "download": "https://authored-files.wabbajack.org/Auriel's Dream  - AE.wabbajack_1a766a5d-d1fc-4423-ae6e-813401dc18e3",
+    "machineURL": "auriels_dream_ae",
+    "discordURL": "https://discord.gg/mNPws3YTz7",
+    "websiteURL": "",
+    "nexusCollection": null
+  },
+  "download_metadata": {
+    "Hash": {},
+    "Size": 805189606,
+    "NumberOfArchives": 756,
+    "SizeOfArchives": 76596352191,
+    "NumberOfInstalledFiles": 154074,
+    "SizeOfInstalledFiles": 103286460324,
+    "TotalSize": 179882812515
+  },
+  "version": "1.0.4",
+  "dateCreated": "1970-01-01T00:00:00Z",
+  "dateUpdated": "2025-09-06T13:32:37.2625139Z",
+  "repositoryName": "AD"
+}

@@ -1,0 +1,38 @@
+{
+  "title": "Krentoraan",
+  "description": "Krentoraan is a visual only Next-gen list based off the visual of my other list Wunduniik. It offers a graphical base for users to modify upon.",
+  "author": "Alaxouche",
+  "maintainers": [
+    "github/Alaxouche"
+  ],
+  "game": "SkyrimSpecialEdition",
+  "official": false,
+  "tags": [],
+  "nsfw": false,
+  "utility_list": false,
+  "image_contains_title": true,
+  "DisplayVersionOnlyInInstallerView": false,
+  "force_down": false,
+  "links": {
+    "image": "https://raw.githubusercontent.com/Alaxouche/Wunduniik/main/Krentoraan.webp",
+    "readme": "https://theastralforge.com/krentoraan/k_installation-guide",
+    "download": "https://authored-files.wabbajack.org/Krentoraan.wabbajack_470e211a-362f-4084-802a-69700142e4c8",
+    "machineURL": "Krentoraan",
+    "discordURL": "https://discord.gg/vKuB7nazBk",
+    "websiteURL": "https://theastralforge.com",
+    "nexusCollection": null
+  },
+  "download_metadata": {
+    "Hash": {},
+    "Size": 542912999,
+    "NumberOfArchives": 1739,
+    "SizeOfArchives": 115182211225,
+    "NumberOfInstalledFiles": 129113,
+    "SizeOfInstalledFiles": 152251724709,
+    "TotalSize": 267433935934
+  },
+  "version": "1.3.0",
+  "dateCreated": "1970-01-01T00:00:00Z",
+  "dateUpdated": "2025-11-16T11:39:43.53445Z",
+  "repositoryName": "Wunduniik"
+}

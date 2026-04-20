@@ -1,0 +1,39 @@
+{
+  "title": "Keizaal",
+  "description": "Keizaal is a simple modlist that focuses on improving what is already presented to us in vanilla Skyrim without compromising Bethesda\u2019s original vision that we all fell in love with back in 2011.",
+  "author": "Tate Taylor",
+  "maintainers": [
+    "github/TateTaylorOH"
+  ],
+  "game": "SkyrimSpecialEdition",
+  "official": true,
+  "tags": [
+    "Featured"
+  ],
+  "nsfw": false,
+  "utility_list": false,
+  "image_contains_title": true,
+  "DisplayVersionOnlyInInstallerView": false,
+  "force_down": false,
+  "links": {
+    "image": "https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/8.0.1.png",
+    "readme": "https://keizaal.github.io/Keizaal/",
+    "download": "https://authored-files.wabbajack.org/Keizaal.wabbajack_255f8976-1f88-4f98-aa96-ceacd74a5c6a",
+    "machineURL": "keizaal",
+    "discordURL": "https://discord.gg/eYZJFP8",
+    "websiteURL": ""
+  },
+  "download_metadata": {
+    "Hash": {},
+    "Size": 13007956,
+    "NumberOfArchives": 1013,
+    "SizeOfArchives": 40639413851,
+    "NumberOfInstalledFiles": 195347,
+    "SizeOfInstalledFiles": 83020259157,
+    "TotalSize": 123659673008
+  },
+  "version": "8.0.1",
+  "dateCreated": "2020-02-16T00:00:00Z",
+  "dateUpdated": "2024-11-02T21:43:22.3329047Z",
+  "repositoryName": "Keizaal"
+}

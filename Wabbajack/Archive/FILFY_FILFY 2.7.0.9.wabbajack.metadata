@@ -1,0 +1,40 @@
+{
+  "title": "FILFY",
+  "description": "A one-click installation overhaul that touches all aspects of gameplay, with most of your favorite mods. It includes multiple magic, combat, weapon, armor, city, environment, fast travel, religious, quest, continent, body, animation, enemy, animal, texture, graphical, and audio overhauls. It even has seasons!",
+  "author": "AllstaRawR",
+  "maintainers": [
+    "github/AllstaRawR"
+  ],
+  "game": "SkyrimSpecialEdition",
+  "official": true,
+  "tags": [
+    "Featured"
+  ],
+  "nsfw": false,
+  "utility_list": false,
+  "image_contains_title": false,
+  "DisplayVersionOnlyInInstallerView": false,
+  "force_down": false,
+  "links": {
+    "image": "https://raw.githubusercontent.com/AllstaRawR/FILFY/refs/heads/main/screenshots/8PdLdGR.jpeg",
+    "readme": "https://github.com/AllstaRawR/FILFY/blob/main/README.md",
+    "download": "https://build.wabbajack.org/authored_files/download/FILFY.wabbajack_96bbf6d1-e509-4ad1-ade5-2251415fe2a3",
+    "machineURL": "FILFY",
+    "discordURL": "https://discord.gg/ag6FSESCK6",
+    "websiteURL": "",
+    "nexusCollection": null
+  },
+  "download_metadata": {
+    "Hash": {},
+    "Size": 1376491639,
+    "NumberOfArchives": 4163,
+    "SizeOfArchives": 263029844450,
+    "NumberOfInstalledFiles": 663869,
+    "SizeOfInstalledFiles": 494358957118,
+    "TotalSize": 757388801568
+  },
+  "version": "2.7.0.9",
+  "dateCreated": "2026-04-04T04:36:54.0906014Z",
+  "dateUpdated": "2026-04-04T04:36:54.0906014Z",
+  "repositoryName": "FILFY"
+}

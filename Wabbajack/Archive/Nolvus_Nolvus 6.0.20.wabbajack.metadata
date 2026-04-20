@@ -1,0 +1,18 @@
+{
+  "title": "Nolvus",
+  "description": "Nolvus 6 Awakening",
+  "author": "Vektor",
+  "game": "SkyrimSpecialEdition",
+  "links": {
+    "image": "/static/nolvus6-0.jpg",
+    "readme": "https://www.nolvus.net/",
+    "machineURL": "Nolvus",
+    "discordURL": "https://discord.gg/Zkh5PwD"
+  },
+  "download_metadata": {
+    "NumberOfArchives": 3727,
+    "SizeOfInstalledFiles": 435723607390
+  },
+  "version": "6.0.20",
+  "repositoryName": "Nolvus"
+}
