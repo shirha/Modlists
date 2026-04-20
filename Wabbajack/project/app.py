@@ -30,7 +30,7 @@ CURRENT_DATE_NOW = datetime.now().strftime('%y%m%d')
 OUTPUT_LOG_DIR = r"O:\Wabbajack\project\logs"
 ARCHIVE_DIR = r"O:\Wabbajack\Archive"
 ICON_DIR = r"static/icons"
-EXIFTOOL_PATH = r"C:\Users\shirha\miniforge3\envs\opencv\bin\exiftool.exe"
+EXIFTOOL_PATH = r"C:\Users\xxxxxx\miniforge3\envs\opencv\bin\exiftool.exe"
 
 parms = {
     'Fallout4': {'json': 'Fallout 4',              'nexus': 'fallout4'},
