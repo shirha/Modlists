@@ -1,0 +1,142 @@
+<style>.con{margin:20px;width:450px;}</style>
+<div class='con'><h1>Wabbajack Modlist Archive App</h1>
+<p>A Flask-based tool for indexing, analyzing, and browsing Wabbajack modlists using <code>.wabbajack.metadata</code> and <code>.json</code> files.</p>
+<hr />
+<h2>Features</h2>
+<ul>
+<li>Summary table of all modlist versions</li>
+<li>Archive-level detail view with search/filtering</li>
+<li>Automatic version matching between metadata and JSON</li>
+<li>Profile detection from local installs</li>
+<li>Game.exe version detection (Stock Game awareness)</li>
+<li>Nexus linking for mod archives</li>
+<li>Regex-based search across all views</li>
+</ul>
+<hr />
+<h2>Core Rules</h2>
+<h3>1. Metadata drives everything</h3>
+<ul>
+<li>Every <code>.wabbajack.metadata</code> file becomes <strong>one row</strong></li>
+<li>Each version is treated independently</li>
+</ul>
+<h3>2. Summary uses local version data</h3>
+<ul>
+<li>MO2 version</li>
+<li>Game.exe version</li>
+<li>Profiles</li>
+</ul>
+<h3>3. Only the most current matched JSON is used</h3>
+<ul>
+<li>JSON must exist in metadata</li>
+<li>Only the <strong>highest shared version</strong> is used</li>
+<li>Exactly <strong>one JSON per modlist</strong></li>
+</ul>
+<h3>4. Multiple backups must include version</h3>
+<ul>
+<li>Version must be preserved</li>
+<li>Prevents ambiguity</li>
+</ul>
+<hr />
+<h2>Important Behavior</h2>
+<h3>Stock Game Detection</h3>
+<p>If:
+- A profile exists<br />
+- But <strong>game.exe version is missing</strong></p>
+<p>➡️ The modlist is <strong>NOT using a Stock Game folder</strong></p>
+<hr />
+<h2>How I Use This (Workflow)</h2>
+<h3>Step 1 — Download</h3>
+<p>Copy from Wabbajack:</p>
+<pre><code>*.wabbajack
+*.wabbajack.metadata
+</code></pre>
+<p>To:</p>
+<pre><code>O:\Wabbajack\4.1.0.0\downloaded_mod_lists
+</code></pre>
+<hr />
+<h3>Step 2 — Run read_meta.py</h3>
+<pre><code>python read_meta.py
+</code></pre>
+<p>Choose:</p>
+<pre><code>m (move-metadata)
+</code></pre>
+<p>This will:
+- Fetch GitHub status.json
+- Save JSON
+- Move all files to Archive</p>
+<hr />
+<h3>Step 3 — Fix Version Mismatches</h3>
+<p>If versions don’t match:</p>
+<pre><code>metadata: 3.2.5
+json:     3.2.4  ❌
+</code></pre>
+<p>Rename JSON:</p>
+<pre><code>→ 3.2.5.json
+</code></pre>
+<p>Otherwise it will be ignored.</p>
+<hr />
+<h3>Step 4 — Archive Structure</h3>
+<p>Example:</p>
+<pre><code>Ash_Lotus_AshLotus 1.2.3.json
+Ash_Lotus_AshLotus 1.2.3.wabbajack
+Ash_Lotus_AshLotus 1.2.3.wabbajack.metadata
+</code></pre>
+<hr />
+<h3>Step 5 — Run App</h3>
+<pre><code>python app3.py
+</code></pre>
+<p>Open:</p>
+<pre><code>http://127.0.0.1:5000
+</code></pre>
+<hr />
+<h3>Step 6 — Interpret Results</h3>
+<p>Only matching versions are used.</p>
+<p>Example:</p>
+<pre><code>Alpyne 1.5.1 meta
+Alpyne 1.5.1 json
+Alpyne 1.6.1 json (ignored)
+</code></pre>
+<hr />
+<h2>UI Views</h2>
+<h3>Summary</h3>
+<ul>
+<li>One row per metadata version</li>
+</ul>
+<h3>Details</h3>
+<ul>
+<li>Archive-level view</li>
+</ul>
+<h3>Report</h3>
+<ul>
+<li>Validation output from simple_report</li>
+</ul>
+<hr />
+<h2>Routes</h2>
+<ul>
+<li><code>/</code> → main UI</li>
+<li><code>/toggle_game</code> → switch game</li>
+<li><code>/modlist/&lt;name&gt;</code> → details</li>
+<li><code>/json/&lt;name@version&gt;</code> → metadata</li>
+<li><code>/image/&lt;name@version&gt;</code> → banner</li>
+</ul>
+<hr />
+<h2>Output Files</h2>
+<ul>
+<li><code>bkup_scan.json</code></li>
+<li><code>simple_report.txt</code></li>
+<li><code>/logs/*.log</code></li>
+</ul>
+<hr />
+<h2>Design Philosophy</h2>
+<ul>
+<li>Metadata is the source of truth</li>
+<li>JSON must match metadata</li>
+<li>Deterministic behavior over convenience</li>
+</ul>
+<hr />
+<h2>Future Improvements</h2>
+<ul>
+<li>Caching</li>
+<li>Incremental updates</li>
+<li>Better filtering</li>
+</ul></div>

@@ -1,0 +1,8 @@
+Please act as an expert Fallout 4 modding enthusiast. I need a detailed review of the [INSERT MODLIST NAME HERE] modlist. Please break down your review into the following categories:
+Core Gameplay Philosophy: Is this built on a specific overhaul framework like Horizon, Lunar Fallout, or a custom "Vanilla Plus" combination?
+Combat & Survival: Is it a fast-paced "Tarkov-lite" shooter, a tactical survival experience, or a traditional RPG? What key mods drive the gunplay (e.g., Better Locational Damage, MAIM, Uneducated Shooter)?
+Visuals & Performance: What weather and lighting mods are used (e.g., NAC X, True Storms)? Does it rely on an ENB or a lighter "Community Shaders" approach, and what is the performance impact?
+Content & Factions: Does it include major quest expansions (e.g., Sim Settlements 2, Tales from the Commonwealth, or DLC-sized mods) or focus on the vanilla storyline?
+Settlements & World: Does it overhaul the settlement system significantly? How does it handle world-space changes (e.g., Desperados, ReGrowth, or urban density mods like PRP)?
+Stability & Difficulty: How is the "crash-to-desktop" (CTD) frequency, and is the difficulty tuned for hardcore permadeath runners or casual explorers? 
+Finally, give me a "Verdict" on who this list is best suited for. Show the review as a markdown code block.
