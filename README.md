@@ -1,4 +1,4 @@
-[SkyrimSE_Archive_Search](https://shirha.github.io/Modlists/SkyrimSE_Archive_Search.html)
+[SkyrimSE Archive Search](https://shirha.github.io/Modlists/SkyrimSE_Archive_Search.html)
 # Wabbajack Modlist Archive App
 
 A Flask-based tool for indexing, analyzing, and browsing Wabbajack modlists using `.wabbajack.metadata` and `.json` files.
