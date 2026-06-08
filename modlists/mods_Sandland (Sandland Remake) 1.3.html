@@ -1,0 +1,1302 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mods for Sandland (Sandland Remake) 1.3</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style> /* version 3.1.1 */
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        .list-group { max-height: 750px; overflow-y: auto; border: 1px solid #ccc; padding: 10px; margin-top: 10px; }
+        .list-group-item { word-break: break-all; }
+        img.icon { width: 20px; height: 20px; object-fit: contain; vertical-align: middle; margin-right: 5px; }
+        a { text-decoration: none; }
+    </style>
+</head>
+<body>
+    <h1>Mods for Sandland (Sandland Remake) 1.3</h1>
+    <ul id="archiveList" class="list-group">
+        <li class="list-group-item"><i>* Creation Club: ccSBJFO4003-Grenade</i></li>
+        <li class="list-group-item"><i>* Creation Club: ccOTMFO4001-Remnants</i></li>
+        <li class="list-group-item"><i>* Creation Club: ccFSVFO4007-Halloween</i></li>
+        <li class="list-group-item"><i>* Creation Club: ccBGSFO4116-HeavyFlamer</i></li>
+        <li class="list-group-item"><i>* Creation Club: ccBGSFO4115-X02</i></li>
+        <li class="list-group-item"><i>* Creation Club: ccBGSFO4110-WS_Enclave</i></li>
+        <li class="list-group-item"><i>* Creation Club: ccBGSFO4096-AS_Enclave</i></li>
+        <li class="list-group-item"><i>* Creation Club: ccBGSFO4046-TesCan</i></li>
+        <li class="list-group-item"><i>* Creation Club: ccBGSFO4044-HellfirePowerArmor</i></li>
+        <li class="list-group-item"><i>* DLC: Wasteland Workshop</i></li>
+        <li class="list-group-item"><i>* DLC: Vault-Tec Workshop</i></li>
+        <li class="list-group-item"><i>* DLC: Nuka-World</i></li>
+        <li class="list-group-item"><i>* DLC: Far Harbor</i></li>
+        <li class="list-group-item"><i>* DLC: Contraptions Workshop</i></li>
+        <li class="list-group-item"><i>* DLC: Automatron</i></li>
+        <li class="list-group-item list-group-item-secondary">&mdash; Operation Mosssturm ( Based on the Midnight Ride 10.10.2024 )</li>
+        <li class="list-group-item list-group-item-secondary">&mdash; Utilities</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/47327">Address Library for F4SE Plugins</a> 316412</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/81859">Backported Archive2 Support System</a> 313321</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/47328">Console Commands Extender</a> 210053</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/26582">Better Console - F4SE</a> 316511</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/44798">High FPS Physics Fix</a> 242328</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/84214">X-Cell Fallout 4</a> 335211</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/69798">RobCo Patcher</a> 323938</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/60074">Random Encounter Framework</a> 236353</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/71420">Lighthouse Papyrus Extender</a> 302397</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/74160">Garden of Eden Papyrus Script Extender</a> 352995</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/86222">Papyrus Common Library</a> 348757</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/86290">Console Autocomplete</a> 328666</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/27019">RAW INPUT - The Ultimate Mouse Sensitivity Fix</a> 139155</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/55419">SUP F4SE Plugin</a> 305956</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/66876">Intro Tweaks</a> 260063</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/48365">Spell Perk Item Distributor</a> 239601</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/43627">BakaFramework</a> 285026</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/63914">Leveled Item Fixes (LIF)</a> 327130</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/56604">Actor Velocity Framework</a> 225388</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/67528">Base Object Swapper</a> 295680</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/37599">Survival Configuration Menu</a> 273953</li>
+        <li class="list-group-item"><i>+ Fallout 4 Outfit System</i></li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/79394">REPUTATION</a> 351884</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/29905">Custom Camera</a> 154460</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/55016">Barber and Surgery Camera Fix</a> 219093</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/94705">MagNite Flashlight - HD - 1.0.1</a> 361432</li>
+        <li class="list-group-item list-group-item-secondary">&mdash; Bug Fixes</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/4598">Unofficial Fallout 4 Patch</a> 270951</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/56885">Ownership Fixes</a> 312061</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/74945">Community Fixes Merged</a> 336488</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/74949">The Midnight Ride - Glitchfinder All-In-One</a> 314414</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/53597">Misc anim tweaks and fixes</a> 316512</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/11130">Weapon Mod Fixes</a> 211338</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/74945">Community Fixes Merged - Weapon Mod Fixes Patch</a> 336489</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/64880">Buffout 4 NG with PDB support</a> 325686</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/47760">Sprint Stuttering Fix</a> 196371</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/36205">General Atomics Galleria Speaking Guard Gutsy Voice Fix</a> 147205</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/63391">GA Galleria Gutsy Voice Fix - UFO4P Patch</a> 326105</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/79726">Hostile NPC Respawn Fix - F4SE - Garden of Eden SE</a> 329089</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/80888">Companion Jump Fall Pose Fix - F4SE - Garden of Eden SE</a> 310875</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/81758">Companion Shoots At Player Fix - F4SE</a> 312947</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/83252">Empty Vendor List Bug Fix - F4SE</a> 318202</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/83433">Magic Effect and Spell Engine Fixes - F4SE</a> 318758</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/73849">Armor Penetration Bug Fix - F4SE</a> 286416</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/68931">Reload Fix</a> 277076</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/85053">Fixed Vanilla Sighted Additive Animations</a> 336001</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/85053">Weapon Behavior Ironsights movement direction lock fixes and tweaks (3rd person)</a> 336419</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/81727">Melee Sneak Locomotion Animation Blending Fix (Behavior Edit)</a> 329075</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/23389">Wetness Shader Fix</a> 317812</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/27445">Fixed Gobo Effects</a> 255106</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/79853">Flutter Flicker Fixer For Foliage</a> 310335</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/46403">PRP Plugins</a> 335767</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/46403">PRP Resources</a> 335766</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/48770">Jet Script Bugfix</a> 196281</li>
+        <li class="list-group-item"><i>+ Simple Puddle Reflection Flicker Fix (Water and Blood)</i></li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/68681">Long Save Bug Fix</a> 327680</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/93173">Fire Workaround - Main File</a> 354235</li>
+        <li class="list-group-item list-group-item-secondary">&mdash; NVidia Fixes</li>
+        <li class="list-group-item">- <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/48078">Weapon Debris Crash Fix</a> 194684</li>
+        <li class="list-group-item">- <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/80942">Godrays Performance Fix Redux - ESPless</a> 336020</li>
+        <li class="list-group-item list-group-item-secondary">&mdash; Extra Fixes</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/53980">NPC Drinking Fix</a> 215300</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/82222">Extended Fake Interiors - Commonwealth buildings fixes</a> 325091</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/82222">Extended Fake Interior DLC</a> 325092</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/82222">Extended Fake Interior - CC Enclave Remnants Patch</a> 325104</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/80005">Moon Rotation Fix</a> 308650</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/85746">Midnight Cult Fix</a> 326766</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/35661">Hair Specular Map Removal Thingy</a> 144981</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/27347">TextInputMenu</a> 172071</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/52723">Baka Wait Anywhere</a> 286263</li>
+        <li class="list-group-item list-group-item-secondary">&mdash; Main Gameplay Overhaul</li>
+        <li class="list-group-item list-group-item-secondary">&mdash; UI Mods</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/20309">HUDFramework 1.0f</a> 93183</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/32735">Active Effects on HUD</a> 242275</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/33383">VIS-G Item Sorting</a> 152844</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/60579">FallUI - Icon Library</a> 238079</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/68889">Extra Icons for FIS</a> 304811</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/48758">FallUI</a> 254844</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/51813">FallUI - HUD</a> 257220</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/49300">FallUI - Workbench</a> 255499</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/49920">FallUI - Map</a> 238011</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/8989">Coloured Version - 4k Resolution</a> 34142</li>
+        <li class="list-group-item"><i>+ Nuka-World Satellite Map - 4K</i></li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/30966">Far Harbor Satellite Map - 4K color (REMASTERED)</a> 278854</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/49070">FallUI - Sleep and Wait</a> 256778</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/48958">FallUI - Confirm Boxes</a> 255391</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/20310">Companion Status 1.0b</a> 84387</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/42925">CompanionStatus - UI Remastered - (Default Headpic-Nukacola)</a> 174029</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/88395">3039 x2 - FallUI HUD Preset</a> 336626</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/88494">FallUIHUD-S.T.A.L.K.E.R. GAMMA</a> 337126</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/20300">HoloTime 1.1b</a> 109788</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/56602">Condition Boy and Girl</a> 245202</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/67958">ConditionBoy_IMAXHUDReplacer</a> 264152</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/31">Alternate UI Fonts</a> 1752</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/56639">A StoryWealth FallUI HUD</a> 239869</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/36706">Fallout 4 Wheel Menu</a> 154619</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/44985">0_WheelMenu.UI Remastered</a> 310794</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/76347">CHALLENGES</a> 307050</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/73560">Baka Fullscren Pip-Boy and Quick-Boy</a> 286615</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/60580">FIS - The NEW FallUI Item Sorter</a> 239585</li>
+        <li class="list-group-item"><i>+ 4estGimp - M8r&#x27;s Complex Item Sorter Enhancements II</i></li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/56240">4estGimp - CR-ECO_SMR</a> 222895</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/56240">4estGimp - CR-ECO_VBP_ChurchOfAtom</a> 232269</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/48826">M8r98a4f2&#x27;s Complex Item Sorter</a> 287728</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/66607">Companion Status HUD - MCM Settings Menu</a> 258845</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/81811">m4 Total magazine loading screens</a> 331897</li>
+        <li class="list-group-item list-group-item-secondary">&mdash; Interiors</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87673">TG&#x27;z Fens Interiors</a> 336186</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/88278">TG&#x27;z Cambridge Interiors</a> 336178</li>
+        <li class="list-group-item list-group-item-secondary">&mdash; Overworld and Quests ( Do not Add Quests or Land Mods )</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/92701">Jurttu&#x27;s Mods Shared Assets</a> 352579</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/88283">TheHarborBee-Monorail</a> 336753</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/86999">Monorail To Spectacle Island Navmesh Patch</a> 331339</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/17291">Real Comics</a> 111594</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/68063">Real Comics - Base Object Swapper</a> 264597</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/19380">Wasteland Water Revival</a> 79095</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/33245">Less Annoying Water Rain Ripples</a> 135922</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/33245">Less Annoying Water Foam Circles</a> 167880</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/51787">Attack of The Lobotomites - High Quality Version</a> 311880</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/77897">XDI Bloody Negotiation 1.1</a> 301496</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/16808">David Hunter - A Brotherhood Story</a> 211100</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/75647">Caves Of The Commonwealth</a> 350099</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/61305">CSEP Commonwealth Killer</a> 241685</li>
+        <li class="list-group-item"><i>+ Heather Casdin - A Unique Companion Experience by llamaRCA</i></li>
+        <li class="list-group-item"><i>+ Heather Clothing Bodyslide Files</i></li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/22128">Hilda Hughes - An Institute Story</a> 112089</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/71752">Mechanist Omega - An Antagonist Quest Mod</a> 278899</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/71752">Mechanist Omega - Turretbot Companion</a> 279369</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/32175">Radium-Inc. Main File</a> 152329</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/60572">Resident Evil Saferoom</a> 296422</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/73192">The Rooftops</a> 307496</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/84389">Shady Motives</a> 329368</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/17475">Sparky&#x27;s Hideout 1.0.0</a> 70102</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/21527">Subways of the Commonwealth (SotC) - Standalone v.0.99g</a> 89803</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/45663">The Sewers</a> 299004</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/17206">Vault-Tec in Concord</a> 71279</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/86558">Climb the Commonwealth (ESL Loose)</a> 330493</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/67115">Minuteman Watchtowers (ESL)</a> 264033</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/90200">Minuteman Watchtowers - Survey Addon</a> 344422</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/74189">Accessible Bridges</a> 287945</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/64563">People Live in - Unmarked Raider Camps Pack 1 (Loose Files)</a> 264290</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/76096">People Live in - Unmarked Raider Camps Pack 2</a> 294315</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/83405">Subway Runner - Revival</a> 331564</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/21961">Atlas Summit Redux</a> 113103</li>
+        <li class="list-group-item"><i>+ Tales from the Commonwealth</i></li>
+        <li class="list-group-item"><i>+ Atomic Radio</i></li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/72111">Tales from the Commonwealth - eXoPatch</a> 334943</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/43974">Tales from the Commonwealth Visual Fixes</a> 185260</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/45148">Tales of the Commonwealth - Vanilla Sized Files</a> 182693</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/79981">Atom Cats Garage Settlement - with Immersive Repair</a> 308558</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/44599">Better Cambridge Police Station</a> 276701</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/54598">Cambridge Police Station Settlement</a> 324305</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/70378">Charlesview Amphitheater Settlement</a> 276887</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/77192">Dartmouth Professional Building Rooftop Settlement</a> 309525</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/36675">Eden Meadows Cinemas Settlement</a> 291734</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87220">Femsheppings Rocky Pond Revival</a> 336096</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/69785">Fiddler&#x27;s Green Settlement</a> 290497</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/58431">Gun For Hire - Main File</a> 288028</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/43979">Fourville</a> 310943</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/61080">Fourville - eXoPatch</a> 320980</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/37804">Huntress Island Settlement</a> 275062</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/79117">Waketak Ranger Station Settlement</a> 336533</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/72154">Lake Quannapowitt Settlement</a> 299681</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/29042">Lima Outpost</a> 233603</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/53837">Lima HotC Patch</a> 214756</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/23692">Vault-Tec Lux&#x27;O&#x27;Home</a> 96828</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/17496">N.E.S.T Survival Bunkers</a> 131911</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/75176">Northpoint Dam Settlement</a> 296928</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/75582">Old Pond House Settlement - with Immersive Repair</a> 305134</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/60329">People Live In - Dark Hollow Pond</a> 263852</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/59993">People Live In - USAF Satellite Station Olivia</a> 263286</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/60711">People Live in - Roadside Pines Motel</a> 264088</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/35869">Pra&#x27;s Fairline Hills Settlement</a> 286764</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/74968">Prospect Hill Diner and Park</a> 305931</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/56224">Mortal Youths</a> 223060</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/16586">Raider Children</a> 291321</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/67367">Raider Children - Big Al and Serum Changes</a> 291444</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/71747">Shovel Museum - Nuka-World Settlement</a> 306287</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/59643">Show No Mercy</a> 324441</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/63152">South of the Sea - Atom&#x27;s Storm</a> 330225</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/79565">Sunken Garage</a> 307150</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/79565">Fully Functional Fungus Farming</a> 306659</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/47846">The Death Tunnel</a> 192841</li>
+        <li class="list-group-item"><i>+ Far Harbor Story - Ug Qualtoth Keeps his Promise</i></li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/73042">University Point Settlement with Immersive Repair</a> 292225</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/72618">Vault 81 Trading Camp Settlement</a> 282472</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/69238">Nahant Red Rocket - Loose Files</a> 327985</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/72847">Poseidon Energy Turbine 18-F - Loose Files</a> 325313</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/63892">Rock Island Lighthouse - Loose Files</a> 325497</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/60367">01. InstantHero - Better Drumlin Diner</a> 251520</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/68276">The Fens Sheriff&#x27;s Department - Main and Plugin</a> 326475</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/68276">The Fens Sheriff&#x27;s Department - Textures</a> 324623</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/70536">Concord Resurrected ESL flagged ESP</a> 315951</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/27320">Inside Jobs</a> 225622</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/27320">Inside Jobs - UFO4P Patch ESL</a> 205648</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/68859">Concord Personified</a> 273590</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/64739">Sailboat Abode</a> 267528</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/70207">Nordic Europa Research facility</a> 284077</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/84454">Polaria Systems (Dungeon)</a> 322640</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/23651">Vault 494 - Vault Tec Story</a> 131142</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/78319">Better Vault 494 Navmesh</a> 302230</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/77948">Commonwealth Encounter Pack - Loose Files</a> 310313</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/77948">Commonwealth Encounter Pack X-Cell Face Patch</a> 329966</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/78628">In The Flesh (Loose Files)</a> 304228</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/65349">CSEP Presents Home Sick</a> 254778</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/70031">Loaded Bases 2.0</a> 327909</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/70031">FSD Patch</a> 272316</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/79022">The Experiment</a> 308592</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/68431">4estGimp - FSD FaceGen</a> 330799</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/67157">SOTS Atom&#x27;s Storm - IAF Patch</a> 261150</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/16423">Fusion City Rising v.1.0</a> 86749</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/21469">Outcasts and Remnants</a> 183254</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/35513">Depravity</a> 185741</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/75767">America Rising 2 - Legacy of the Enclave</a> 313507</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/76732">America Rising 2 - eXoCompat Patches - Depravity</a> 296783</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/77581">Lima Detachment - America Rising 2 Integration</a> 305745</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/77655">Depravity - eXoPatch</a> 323926</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/41128">Depravity - Keep Your Items</a> 166607</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/61767">eXofied Depravity - Fallon&#x27;s</a> 332450</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/28085">Project Valkyrie</a> 173915</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/76732">America Rising 2 - eXoCompat Patches</a> 318455</li>
+        <li class="list-group-item"><i>+ Diary of a Madman</i></li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/75795">America Rising 2 - The Remnants Patch</a> 314284</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/92517">AR2 Lima Detachment Vault 71 Patch</a> 351979</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/56876">Optimization and Tweaks for Thuggysmurf&#x27;s Quest Mods</a> 347968</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/86384">America Rising 2 FaceGen</a> 331421</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/86384">Atomic World FaceGen</a> 331660</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/86384">South of the Sea - Atoms Storm FaceGen</a> 331772</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/86384">Thuggysmurf&#x27;s Mods FaceGen</a> 331528</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/91989">CWMerchants</a> 351107</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/92733">Vanilla Locations Plus</a> 352941</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/92784">Boston Military Factory</a> 354137</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/92784">BMF Update Minor Fixes</a> 354964</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/88326">Drumlin Bunker by Cthuloot</a> 337333</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/78033">Ashland Station - Quest-Dungeon-Settlement</a> 322998</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/78033">Gritty Subway Textures - Ashland Station 2048x2048</a> 348709</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/78033">Karma - Ashland Station Integration</a> 315846</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/84449">Boon Island Loose Files</a> 330188</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/94048">Ashland Station-FaceGen</a> 357939</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/94048">Boon Island-FaceGen</a> 357941</li>
+        <li class="list-group-item list-group-item-secondary">&mdash; CRP Overhaul Setup</li>
+        <li class="list-group-item list-group-item-secondary">&mdash; Animation Mods</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/50555">Immersive Animation Framework</a> 261342</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/62410">Laser Reanimation</a> 244895</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/62410">One Handed Pistol Version</a> 244411</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/86278">Enhanced Movement</a> 341085</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/86278">Enhanced Movement - INI</a> 329408</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87519">Improved Hit VFX</a> 351961</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/85819">Slow Motion Dismemberment</a> 331707</li>
+        <li class="list-group-item list-group-item-secondary">&mdash; Level Up Systems</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/56984">Start Me Up Redux (Normal-XDI Dialogue)</a> 300285</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/3938">PPPL (F4 1.10.163)</a> 172080</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/29568">PipboyTabs</a> 172069</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/28822">LevelUpMenuEx</a> 172070</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/76739">You Are Exceptional</a> 360725</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/76739">YAE PBT Compatibility Patch</a> 334917</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/75680">You Are Exceptional Patch</a> 336562</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/77001">Perks Damage Removel YAE2</a> 329910</li>
+        <li class="list-group-item list-group-item-secondary">&mdash; Tweaks</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/84440">Assorted Modular Tweaks - ESPless</a> 348936</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/84440">Assorted Modular Tweaks - ESPless - TMR Config</a> 342605</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/26163">Unlimited Survival Mode - F4SE</a> 316517</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/41178">Bullet Counted Reload System (BCR)</a> 209407</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/41178">BCR- Lever Action Rifle v1.02</a> 167402</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/64426">Remove Ammo from Dropped Guns</a> 252499</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/42421">Remember Lockpick Angle - Updated</a> 172429</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/11838">Less Annoying Berry Mentats</a> 47037</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/73259">To Your Face FO4</a> 284450</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/57838">Deadeye Weapon Effect Fix</a> 228595</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/75292">Simple Offence Suppression F4</a> 291539</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/70013">Faster Workbench Exit</a> 272346</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/79543">Dogmeat Follow Behind</a> 306450</li>
+        <li class="list-group-item list-group-item-secondary">&mdash; User Interface</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/21497">Mod Configuration Menu</a> 172180</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/56195">MCM Settings Manager</a> 257096</li>
+        <li class="list-group-item"><i>+ Operation Mosssturm MCM Settings</i></li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/27479">Crafting Highlight Fix</a> 172411</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/83706">Workshop Highlight Fix</a> 329718</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/27216">Extended Dialogue Interface</a> 172181</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/75679">Dynamic Activation Key</a> 335568</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/75680">Alternative Activation Prompts</a> 346926</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/25699">Liga of my companions - English</a> 259885</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/66903">Liga of my Companions - MCM Settings Menu</a> 260123</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/10660">Visible Companion Affinity</a> 303552</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/66493">Visible Companion Affinity - MCM Settings Menu</a> 287776</li>
+        <li class="list-group-item list-group-item-secondary">&mdash; Gameplay</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/3815">Better Locational Damage</a> 286417</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/3815">BLD - IAF Patch</a> 266373</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/3815">Looks Menu Customization Compendium Patch</a> 175228</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87060">BLD - UFO4P - CFM</a> 331410</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/75439">Deadeye</a> 292896</li>
+        <li class="list-group-item"><i>+ Better Locational Damage Custom</i></li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/69804">No Projectile Patch</a> 309566</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/66047">ScreenArcherMenuFO</a> 357197</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/21366">Loot Logic and Reduction With optional Harvest Restrictions</a> 161137</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/74945">Loot Logic and Reduction - CFM Patch</a> 336490</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/47364">Complex Vendors</a> 283481</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/73333">Blocking Overhaul</a> 285200</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/73741">Chemfluence - AI Combat Dynamics</a> 303989</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/65983">SPARS - Simple Power Armor Reduction System</a> 307903</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/53057">DLC Timing</a> 336301</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/84393">Simple Creation Club Delayed NG</a> 331652</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/56089">Keep Radiants in the Commonwealth UFO4P Version</a> 260019</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/45674">Encounter Zone Recalculation (Continuous Level Scaling)</a> 184238</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/59019">Who&#x27;s The General - Minutemen Quest Cleanup</a> 329263</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/59019">Who&#x27;s The General - Keep Radiants in the Commonwealth Patch</a> 329267</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/61411">Legendaries They Can Use</a> 333558</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/75430">No Sneaking in Power Armor</a> 329353</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/85755">Hit Those Objects</a> 346362</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/82592">Hit Those Explosives</a> 335471</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/85105">Vault Dweller&#x27;s Survival Guide - BA2</a> 324423</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/81326">Mutant Menagerie - Magazine Retexture - Bestiary - Cook Book - Farming Guide</a> 312395</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/84878">Alexanders Mutant Menagerie Vault Mag. - Weathered</a> 324852</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/22105">Rename Anything 2.6.12</a> 172410</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/58259">Rename Anything Enhanced</a> 261170</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/31731">Ghoulish Ghouls</a> 129400</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/31731">Chance to Revive Options</a> 129876</li>
+        <li class="list-group-item">- <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/21636">Nameplates ( Optional )</a> 172313</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/67679">Equipment and Crafting Overhaul (ECO) - Redux</a> 327619</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/66900">Legendary Effect Overhaul (LEO)</a> 331504</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/65761">New Equipment Overhaul (NEO)</a> 323381</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/67679">ECO - Extensions</a> 318937</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/39850">Fallout 4 High Heels System</a> 334652</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/66165">Immersive Legendary Mutations</a> 309388</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/66355">Alias</a> 336672</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/76505">Alias Framework Expanded</a> 295951</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/88264">Collectibles Helper Loose Files</a> 336227</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/71056">Car Alarm</a> 276625</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/71176">Car Alarm - Extras &amp; Enhanced</a> 276784</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/85372">Food Sanitizer</a> 326093</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/80425">KARMA</a> 333652</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/80425">KARMA - Classic Fallout Icons</a> 310455</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/79843">Infiltrator - Lockpicking Overhaul</a> 307860</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/79662">Enemies Fear Power Armor</a> 332048</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/76561">Friendly Radstags - RobCo Patcher REDUX</a> 296152</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/77066">Invulnerable Peepers - RobCo Patcher</a> 297965</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/76398">Companion Affinity Pip-Boy Tab</a> 332094</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/69262">Universal Disassembler</a> 329826</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/75329">Low Profile Loader</a> 333889</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/73717">NPCs Use Items</a> 288795</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87665">Wade In Water</a> 333868</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/78179">Enhanced Creatures AI Overhaul</a> 320682</li>
+        <li class="list-group-item list-group-item-secondary">&mdash; Content Quests</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/76924">The Attachment Pack</a> 348066</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/76924">The Attachment Pack - Implementation Patch</a> 299655</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/63391">The Attachment Pack - Implementation WMF Patch</a> 311111</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/81018">Attachment Pack - Description Tweaks and Fixes</a> 335876</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/63929">Legendary Mutation Messages Fix - Cut Content Restored</a> 250281</li>
+        <li class="list-group-item list-group-item-secondary">&mdash; Visuals</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/82195">Lightweight Lighting - Radstorm Restored</a> 314438</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/62518">Gloomy Glass - All transparent materials revised</a> 244979</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/62958">Targeted Textures - Vanilla textures upscaled fixed and sized</a> 294035</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/68599">Fallout 4 Particle Patch - No More Glowing Objects</a> 324194</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/20775">WET - Water Enhancement Textures</a> 217851</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/41568">WAVE - Wave Animation Vanilla Enhanced</a> 179403</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/72546">Enhanced Vanilla Armor and Clothing - EVAC</a> 285666</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/64795">First-Person Swimming Animations Tweak</a> 252346</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/62240">First-Person Running with Hands Animations</a> 244135</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/29922">Sniper Scope Overlay And Reticle Replacement</a> 122365</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/29922">Sniper Scope Overlay And Reticle Replacement - DoF</a> 122471</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/71990">Diamond City Billboards</a> 279796</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/75054">Diamond City Supplements</a> 329335</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/63414">Universal decal pack</a> 247366</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/88860">HFs - Forgotten rusty trash - 4K</a> 338629</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/72021">Goodneighbor View</a> 279930</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/50837">Terrain Undersides - 2 Million Sunblock</a> 250407</li>
+        <li class="list-group-item list-group-item-secondary">&mdash; Settlement Mods</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/35004">Workshop Framework</a> 328647</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/35004">Workshop Framework Script Override</a> 306890</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/35005">Workshop Plus</a> 309160</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/24204">SettlementMenuManagerMainFile</a> 185417</li>
+        <li class="list-group-item"><i>+ Place Everywhere</i></li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87026">Settlement Defence Systems (Original version EN)</a> 331300</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/86526">VertiCall4Settlements-1.5.1</a> 331910</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/86818">AccessHatch-1.5-LF</a> 331278</li>
+        <li class="list-group-item"><i>+ Oppressor&#x27;s Wokrshop Category</i></li>
+        <li class="list-group-item"><i>+ Oppressor&#x27;s Military Workshop</i></li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/37531">F4MS - Fallout 4 Mining System</a> 298783</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/76579">NISTRONSmartHome-1.2</a> 299023</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/77361">NISTRONSmartHome-DLCWorkshop01-1.1</a> 299850</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/77168">NISTRONSmartHome_DLCWorkshop03-1.0</a> 300293</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/58723">NISTRON Live Settlement Maps</a> 249027</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/42123">BAM - Better Armory Mod</a> 260912</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/68542">MW2019 Vehicle Props</a> 266355</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/68473">MW2R Vehicle Props</a> 266118</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/55407">Dynamic Store Mats</a> 335688</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/55712">RB Dancyclopedia</a> 221589</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/88124">Funtime For Settlers</a> 335728</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/84343">Dynamic Furniture</a> 323889</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/84862">Concrete and Glass Extended (EN)</a> 325996</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/85485">Display Marker - Place Anything</a> 328368</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/84372">Settlement Fusebox Power Generators</a> 321983</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/66322">Even More Manufacturing</a> 322972</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/79612">AbsoluteZeros Weapon Case Pack Final</a> 313331</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/79074">A Better World - Cabin Workshop Pack (ESL Version)</a> 324646</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/82530">Invisible and Longer Power Lines</a> 315625</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/17168">Solar Power Version 1.3.1</a> 153725</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/57685">Attack Spawns Outside Settlement</a> 228100</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/37393">SKK Settlement Attack System</a> 188664</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/56558">SKK Settlement Attack System - MCM Settings Menu</a> 223850</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/76340">Trash Compactor</a> 295414</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/59944">Project Mojave Workshop Pack</a> 236343</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/66476">Snappable Covenant Walls - SMM - Standalone (Light ESP Version)</a> 258671</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/69043">Chuck Yufarley Collection</a> 268305</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/69144">Barracks Set</a> 268619</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/69342">Chuck Yufarley Collection - Security Wall Set</a> 269249</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/69094">Greenhouse Set</a> 268577</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/69246">Chuck Yufarley Collection - Log Building Set</a> 269224</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/58588">Smart Recruitment Radio Beacon ESL</a> 231317</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/22309">Colorful Bottle Lanterns</a> 336518</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/64360">Working Aquariums</a> 251108</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/60974">Placeable FX ESL</a> 239419</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/62911">New Lights ESL - Loose Files Version</a> 338252</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/66140">Modern Modulars - Fixed</a> 257375</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/49505">Workshop Power Pack</a> 199759</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/43068">Capital Wasteland Workshop Master Pack</a> 174570</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/50626">Capital Wasteland Workshop Pack II</a> 203175</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/54979">Nuka Cola Refigerated Display Case</a> 243320</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/70590">Workshop Planters For Crops</a> 275370</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/51436">Fishery</a> 205935</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/39252">Graf&#x27;s Security Fences</a> 229468</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/80606">The Rebuild Collection - Shared Resources</a> 316290</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/79618">The Rebuild Collection - AIO</a> 315179</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/79618">Rebuild AIO Compat - Desperados Overhaul</a> 314514</li>
+        <li class="list-group-item list-group-item-secondary">&mdash; General Sounds</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/35904">Project Reality Footsteps FO4 1.7 BA2</a> 156466</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/88680">MW Legendary Pickup Sound Replacer</a> 337897</li>
+        <li class="list-group-item list-group-item-secondary">&mdash; Character Visuals</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/15">Caliente&#x27;s Beautiful Bodies Enhancer -CBBE- ( Nude Optional )</a> 179786</li>
+        <li class="list-group-item">- <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/15">Caliente&#x27;s Beautiful Bodies Enhancer -CBBE- ( Nevernude Standart Option )</a> 179786</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/66232">Skeletal Adjustments for SAM</a> 257558</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/21331">Female Neck Tweaks</a> 159696</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/58950">HiPoly Faces REDUX - Seamless Kit (CBBE-TWB)</a> 330670</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/65707">Expressive Expressions - For Females</a> 258697</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/65707">Expressive Expressions - For Males</a> 258602</li>
+        <li class="list-group-item"><i>+ OCBP_</i></li>
+        <li class="list-group-item"><i>+ ZeX - ZaZ Extended Skeleton</i></li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/12631">LooksMenu</a> 194291</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/24830">Looks Menu Customization Compendium</a> 101255</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/24830">LMCC 2k Face Textures</a> 101547</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/25000">LooksMenu Body Tattoos (CBBE)(EVB or Vanilla)</a> 142642</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/25000">LooksMenu Body Tattoos ESL Version</a> 142644</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/13627">LooksMirror</a> 55424</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/39195">MTM OCBP - OCBPC Physics and Collision Preset</a> 189991</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/25">BodySlide and Outfit Studio -</a> 336173</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/25087">Extended Facial Sculpting - now with 90 percent less beta</a> 105015</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/11402">Commonwealth Cuts 2.5.1</a> 149695</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/29944">KS Hairdos - Addon(s) with Physics</a> 124946</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/45373">femshepping and radbeetle&#x27;s KS Hairdos Conversions</a> 209794</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/8126">Ponytail Hairstyles by Azar - Loose Files</a> 310000</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/73092">TBOS-AntoHairPack</a> 284556</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/20445">Real HD Main File</a> 83689</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/20445">Missing Files</a> 83893</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/20445">Real HD Faces Textures</a> 83688</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/50858">Unfair Skin AIO for 2K Face</a> 224284</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/73874">TeoB Fallout Remastered - Standalone Eyes 2k</a> 287019</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/7339">MeanMachine Eyes</a> 26345</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/50678">The K Makeup 2K</a> 204199</li>
+        <li class="list-group-item"><i>+ 512 Standalone Hair Colors (1 ESP)</i></li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/32200">Eyes of the Universe</a> 131215</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/32492">Vicky&#x27;s Ghoul Face Textures</a> 132611</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/1369">Wasteland Salon</a> 72551</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/7215">Fun Eyes Standalone</a> 28667</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/7593">SuperNaturalEyes</a> 27836</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/76404">H.U.E - Vanilla Replacer 2k</a> 295509</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/76587">H.U.E - Ghoul Replacer 2k</a> 296268</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/55267">Female Eyelash Retexture</a> 222848</li>
+        <li class="list-group-item"><i>+ Black Desert Online Hairs</i></li>
+        <li class="list-group-item"><i>+ KimHairstyle</i></li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/25536">ANiceOakTree&#x27;s Hairstyles</a> 158680</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/40321">Sleek Styles - A Hairstyle Pack</a> 175627</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/55537">Eyes Waterline Fix MALE AND FEMALE</a> 221222</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/819">Eye Normal Map Fix</a> 3599</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/10695">Lots More Male Hairstyles v. 1.21 - Fix</a> 43293</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/10543">Lots More Female Hairstyles v. 1.33</a> 43598</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/38571">Additional Hair Colors EN</a> 156734</li>
+        <li class="list-group-item"><i>+ Oppressor&#x27;s Tattoo - Vol 01 - CBBE - 4K</i></li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/43661">RutahTattooPack_FO4</a> 176775</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/30394">DNX Body Tattoos (LooksMenu Overlays)</a> 124757</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/29438">Tribal Body Tattoos CBBE Lighter Version (ESL version)</a> 133990</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/38574">Alysraza Tattoos (LooksMenu - CBBE - SHB - EN - FR)</a> 180013</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/84920">RJsTattoos</a> 324111</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/65902">GTattoo Mass Vol.1 (Skin set) Female CBBE 1.4</a> 309512</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/66608">GTattoo Mass Vol.2 (Skin set) Female CBBE</a> 309513</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/29291">LooksMenu Nail Salon Overlays</a> 123638</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/46854">LooksMenu - Pubes Forever (Fallout 4 Edition)</a> 189404</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/10746">Lots More Facial Hair v. 1.21</a> 43254</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/62872">LooksmenuPlayerRotation</a> 246345</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/49997">Photo Mode 1.0.3</a> 201941</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87358">CoT (for the girls) - 2k Upscale and Fixed Loose</a> 334298</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/11660">Asian Face</a> 66693</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/58950">HiPoly Faces REDUX - Asian Face Enhanced Patch</a> 233112</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/76029">EXTRA hair colors 1.1</a> 309844</li>
+        <li class="list-group-item list-group-item-secondary">&mdash; NPC Overhauls</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/59435">LKs Fallout Ladies - Nora (High Poly) Replacer</a> 263211</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/26975">Rugged Desdemona</a> 110141</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/58508">LKs Fallout Ladies - Magnolia (HiPoly) Replacer</a> 263870</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/58877">LKs_Irma_v2.0_esl</a> 241412</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/58748">LKs_DoctorAmari_v2.0_esl</a> 241408</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/59064">LKs Fallout Faces - NPC Overhaul (HiPoly for all females)</a> 301320</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/76454">Disable Companion Collision</a> 295697</li>
+        <li class="list-group-item"><i>+ THBrows 2.0</i></li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87358">PaTRaN Piper Replacer - Brat version</a> 332785</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/91198">Remove Piper&#x27;s cap and change her hairstyle and cl</a> 346790</li>
+        <li class="list-group-item"><i>+ PaTRaN Cait Replacer - Punk version</i></li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87556">PaTRaN Curie Replacer - Short Black Version</a> 334208</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87876">PaTRaN Heather Casdin Replacer</a> 334673</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/92950">PaTRaN Nakano Kasumi and Rei Replacers</a> 356723</li>
+        <li class="list-group-item list-group-item-secondary">&mdash; Character Presets</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/29844">Dread Cait Overhaul LooksMenu Preset</a> 122189</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87959">PaTRaN Ivy Looksmenu Presets</a> 336012</li>
+        <li class="list-group-item"><i>+ PaTRaN Cait Looksmenu Presets</i></li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87449">PaTRaN Ellen Looksmenu Presets</a> 336009</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87876">PaTRaN Heather Casdin Looksmenu Presets</a> 334676</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87556">PaTRaN Curie Looksmenu Presets</a> 336011</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/88229">PaTRaN Nora Looksmenu Presets</a> 336349</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/88765">PaTRaN Yukari and Daniela Looksmenu Presets</a> 341930</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/90428">PaTRaN Ashley Graham Looksmenu Presets</a> 344536</li>
+        <li class="list-group-item"><i>+ PaTRaN Lucia Marisol Yukiko Looksmenu Presets</i></li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/89095">PaTRaN Redguard and Nord Looksmenu Presets</a> 339270</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/92950">PaTRaN Nakano Kasumi and Rei Looksmenu Presets</a> 356725</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/89901">PaTRaN Natalia and Olga Looksmenu Presets</a> 342431</li>
+        <li class="list-group-item list-group-item-secondary">&mdash; Body Presets</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87693">Cherry BodySlide Preset</a> 333948</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/79619">BAY4792-CBBE Bodyslide</a> 306761</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/85018">Wasteland mommy CBBE bodyslide preset</a> 324117</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/81832">Vanilla Plus</a> 313270</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/15734">Josie Body 2 - CBBE Bodyslide Preset</a> 189397</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/53692">TropSweet Preset Face and Bodyslide</a> 214269</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/27247">FAPP version 1.3</a> 143487</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/30852">ShadGirl - Looksmenu and Bodyslide preset CBBE</a> 125804</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/24936">Avyvxii&#x27;s BodySlide Presets</a> 101980</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/23732">Lazmans Bodyslide Preset</a> 97318</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/39243">OxtonBodyV6</a> 306228</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/16579">xy - Type 3DCG (Pack)</a> 160448</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/30174">ShadGirl Bodyslide Preset</a> 123829</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/48341">THE ROCKET BOMB BODY - CBBE</a> 194656</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/30420">Jasmine Bodyslide Preset</a> 124270</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/60977">Wasteland Curves - TWB CBBE Preset</a> 239430</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/46112">Karma BodySlide</a> 186203</li>
+        <li class="list-group-item list-group-item-secondary">&mdash; Weapon Additions</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/81321">STOOGES&#x27;s Cod Modding Framework</a> 336212</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/9476">See-Through-Scopes</a> 328061</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/69157">Fake Through Scope</a> 288003</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/69157">Vanilla - FTS Patch</a> 285380</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/23780">CROSS_GoreCrits_91g</a> 114440</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/31841">GhoulishGhouls_GoreCrits_Patch</a> 129852</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/63739">M32 MGL - Burning Crit Effect for Incendiary rounds</a> 248658</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/76076">Manual Reload - F4SE</a> 303860</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/82812">Robco - Boss Chest Drop Legendary Microchip</a> 316624</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/12986">Weapons of Fate (Ballistics Overhaul)</a> 287844</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/73701">Weapons of Fate Redux (RobCo Patcher Edition)</a> 285942</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/32926">Double Action Revolver</a> 134362</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/88447">Put Ur Gun In</a> 337363</li>
+        <li class="list-group-item list-group-item-secondary">&mdash; Weapon Packs</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/50505">Combined Arms - 1.0</a> 211319</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/50505">Combined Arms - AMD PATCH</a> 209271</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/53000">Combined Arms Expansion Pack - 1.0 - MAIN</a> 227099</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/53000">Combined Arms Expansion Pack - AMD Patch</a> 222947</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/69026">Weapon Overhaul Project</a> 318033</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/26076">A Bundle of Tape</a> 109632</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/53660">Machineguns Rebirth</a> 224208</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/15469">Family Mauser</a> 62891</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/14786">MikeMoore&#x27;s MCAM - Melee Collectable and Adventure Mod (Weapon Pack)</a> 294828</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/49721">Miniguns Rebirth</a> 213500</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/61325">Rifles Rebirth</a> 241857</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/23932">Russian Recon Pack</a> 97770</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/41999">Springfield Armory M1A - 2K</a> 225308</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/46267">SREP Redux</a> 205767</li>
+        <li class="list-group-item"><i>+ Grenade Expansion Pack 2</i></li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/92935">Dak&#x27;s Throwables</a> 354468</li>
+        <li class="list-group-item list-group-item-secondary">&mdash; Melee</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/82917">Hunter&#x27;s Knife</a> 316958</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/48752">AnotherOne Kukri</a> 196160</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/49514">Auto Axe</a> 199436</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/49349">Balisong ESL</a> 326921</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/18910">The Gravity Fist - 1.0.0</a> 76838</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/9586">The Dadao - 2.0.0</a> 75860</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/12102">Murdering Chainsaw</a> 59727</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/37650">Zombie Slayer</a> 152940</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/59245">Classic Melee Pack</a> 233418</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/59714">Classic Unarmed Pack</a> 235099</li>
+        <li class="list-group-item"><i>+ VAKER</i></li>
+        <li class="list-group-item list-group-item-secondary">&mdash; Pistols and Revolvers</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87112">Navy Auto Pistol</a> 334427</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/88217">Deagle .50 AE - Main</a> 335931</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/88217">D50AE - No Tactical Reload</a> 335973</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/88302">Deagle .50 AE Additions and Fixes</a> 336350</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87531">MW2022_P890(P220)</a> 333338</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/82562">The Assault Pistol</a> 316945</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/38587">Webley</a> 156780</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/37535">Hunting Revolver and Ranger Sequoia (Far Harbor version)</a> 152816</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/86069">Handmade Pistol</a> 328430</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/61875">The Charger Pistol</a> 243349</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/61725">Radium Pistol 1.0</a> 241864</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/44634">That Gun</a> 180317</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/81098">Depth - Heavyjet Revolver</a> 335678</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/45131">PJAR Makeshift Pistol</a> 182240</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/23434">12.7mm Pistol (Sig Sauer P127)</a> 95888</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/79014">Varmint Revolver</a> 305374</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/52450">22LR Silenced Pistol</a> 209521</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/30075">CROSS_RugerMkV_092a</a> 124426</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/16332">FN Five-seveN V2.1c</a> 74297</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/24369">Jericho 941</a> 101787</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/14141">Mauser</a> 55957</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/42566">PL-14 &#x27;Lebedev&#x27;</a> 172670</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/44404">Glock 19x Pistol - 2K</a> 202560</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/44404">10mm Casing Replacer</a> 202563</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/44794">Juger Pistols</a> 272083</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/34004">Viper-6610 Eng</a> 181461</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/62557">Valve Handgun - Leveled List</a> 244442</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/21827">MP-412</a> 103125</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/77853">Magnum Pistol</a> 300749</li>
+        <li class="list-group-item"><i>+ .45 Auto Pistol Ha_ru anims</i></li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/20143">9mm Pistol (Browning Hi-Power)</a> 102453</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/86135">Crusader Pistol</a> 331020</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/86135">RobCo Patcher Replacer</a> 331021</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/42689">Reaper of Pantheon</a> 175798</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/28308">Officer&#x27;s revolver ENG</a> 120980</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/57389">HK USP - 4K</a> 227698</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/57389">HK USP - Amd Fix</a> 226953</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/88512">R8 Revolver 2K</a> 337648</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/88512">R8 Revolver ESL Flagged ESP</a> 337646</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/88512">R8 Revolver Skins 2K</a> 337557</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/88390">VWR - Smith and Wesson 44 Magnum Revolver 2K</a> 336988</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/78345">MW2022 - 9mm Daemon (Staccato-P) PISTOL</a> 303103</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/91351">Spec Ops Pistol</a> 352440</li>
+        <li class="list-group-item list-group-item-secondary">&mdash; Pistols and Revolvers Past Texture Merge</li>
+        <li class="list-group-item list-group-item-secondary">&mdash; Shotguns</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/75164">Pipe Shotgun Collection Redux - Diacute&#x27;d</a> 291081</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/63061">Duplet</a> 293132</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/28399">Caravan Shotgun</a> 116215</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/45796">Cranky</a> 211031</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/36894">HK G11 K2 - Kraut Space Magic</a> 150085</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/19290">IF-88 Tactical Shotgun REDUX</a> 86321</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/51449">Makeshift shotgun</a> 216317</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/48658">Win1897withSightsRestored</a> 195835</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/19619">Widow Shotgun - Fixed Barrel attachments</a> 80310</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/77579">Handmade Assault Shotgun</a> 300750</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/55488">Agency Arms Benelli M2 - Shotgun</a> 220615</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/55488">M2 - AMDFix</a> 220618</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/55488">M2 - LvlListPatch</a> 220616</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/77927">MW JAK - 12 REMASTERED</a> 300819</li>
+        <li class="list-group-item list-group-item-secondary">&mdash; Submachine Guns</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/81404">PDSW 528 - Main</a> 314256</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/64256">Vault Sec SMG</a> 273182</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/58763">Homemade SMG 2.1</a> 232430</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/10697">AS Vektor Commonwealth Version</a> 42284</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/14598">DefenseGunV1.1</a> 64512</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/46195">10mm SMG BA2 Version</a> 187780</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/71651">Kel-Tec Sub 2000</a> 278416</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/22871">FN P90</a> 97389</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/21921">Grease Gun SMG</a> 90736</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/10269">H and K UMP 45</a> 40419</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/32713">Tomacuzi-9 1.1</a> 133153</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/63447">12.7mm SMG</a> 249780</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/41444">Heckler und Koch - MP5 Complex</a> 169551</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/37330">Heckler und Koch - MP7</a> 155320</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/38653">Heckler und Koch - UMP</a> 158188</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/32908">FACTOR ENG (FULL)</a> 173232</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/52505">AnotherOne TEC-9</a> 210124</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87056">MP7A2 2k</a> 338008</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/93829">Vallas SIG MCX Redux 2k Everything</a> 356601</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/93829">Tacops Flashlight lens and Charging handle Hotfix</a> 357069</li>
+        <li class="list-group-item list-group-item-secondary">&mdash; Submachine Guns Past Texture Merge</li>
+        <li class="list-group-item list-group-item-secondary">&mdash; Rifles</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/88208">MW2019 - Dragunov</a> 336343</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/88208">MW2019 - Dragunov - FTS Patch</a> 336317</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/86035">Kar98K - Main BA2</a> 334454</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/86035">Kar98K - Main BA2 - FST Patch</a> 334110</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/86040">Aiko&#x27;s SOA Subverter</a> 329141</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/78380">European Sniper Rifle FR2</a> 302552</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/21103">9x39 Project - v2.0 - 2K</a> 110293</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/84827">MW2023 - BAL-27</a> 327940</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87264">MW2023 - M4 Platform 2.0</a> 334868</li>
+        <li class="list-group-item"><i>+ Type_56_AK47_M70</i></li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/24053">Nuka-World AK Replacer</a> 124186</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/7715">R91 Standalone Assault Rifle</a> 35910</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/82806">Vintage Repeater</a> 317734</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/82950">Vintage Repeater (Winchester 1866 Henry 1860) Vanilla .45 (or .44) ammo</a> 317075</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/61392">Escape from Boston - Springfield Armory M14</a> 240794</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/77442">MW2022 - Cronen Squall - General Dynamics RM277</a> 300841</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/22536">RU556 - Assault Rifle</a> 148613</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/49039">Ruger Mini</a> 197696</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/49039">Ruger Mini-14 AMD Lens Fix</a> 197678</li>
+        <li class="list-group-item"><i>+ BH SIG MCX Spear NGSW - 4k</i></li>
+        <li class="list-group-item"><i>+ BH SIG MCX Spear NGSW - AMD Patch</i></li>
+        <li class="list-group-item"><i>+ BH_MCX_Spear - Lvl List Patch</i></li>
+        <li class="list-group-item"><i>+ BH SIG MCX SPEAR - STS Patch</i></li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/24619">SA80 4.3</a> 157184</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/67783">Mare&#x27;s Leg</a> 266455</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/19342">Varmint Rifle</a> 79368</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/43419">Steyr AUG - 1.0 - 2K</a> 175772</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/43419">Steyr AUG - AMD Patch 1.1</a> 175725</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/19342">Varmint Rifle 4k Textures</a> 78938</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/66667">Tavor X95</a> 302406</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/70705">Uradium Rifle STANDALONE</a> 274928</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/21466">AK74M - Assault Rifle</a> 130671</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/78832">Vintage Revolver Rifle</a> 304206</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/43086">SV-98 - 1.0 - 2K</a> 174593</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/43086">SV-98 - AMD Patch</a> 174569</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/20687">M1 Garand</a> 107587</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/32361">Service Rifle</a> 134052</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/41109">Sjogren Inertia</a> 166505</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/41109">Bullet Counted Patch by BitSpyder</a> 167692</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/60000">American 180 - Main - 2K Version</a> 239513</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/60000">American 180 - AMD Patch</a> 239250</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/28478">Bozar</a> 133276</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/15909">DKS-501 Sniper Rifle 1.5</a> 77084</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/40907">FN FAL - SA58 (Plus Kukri)</a> 228471</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/56675">FN SCAR-H - 4K</a> 224786</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/56675">FN SCAR-H - AMD Fix</a> 224619</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/56675">FN SCAR-H - LvlList Patch</a> 224618</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/9567">G67 Battle Rifle - Standalone</a> 37383</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/44444">GIAT FAMAS</a> 181903</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/44444">FELIN 3rd Person Reload Tweak</a> 182394</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/32036">Handmade Anti-Materiel Rifle (REDUX) -2K</a> 156706</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/36894">HK G11 K2</a> 150083</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/42624">HK G3 Family 1.4</a> 174171</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/28443">G36 Complex -</a> 176941</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/42624">G3Family - See-Through Update (fixed)</a> 181239</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/32128">Lee Enfield No. 4 Mk. 1 1.5</a> 142479</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/19311">M3D - OTs-02 Kiparis</a> 78784</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/38257">Mk 41 Gyrojet HMG 1.04</a> 209785</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/23258">Mosin Nagant - Sniper Rifle - Script Reload</a> 97792</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/8181">AK-2047</a> 31989</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/9667">The M14</a> 37045</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/70693">MW2022 - FJX-Imperium</a> 276934</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/91569">CW Marine Anti-Materiel Rifle</a> 359054</li>
+        <li class="list-group-item"><i>+ Malyuk - Assault Rifle</i></li>
+        <li class="list-group-item"><i>+ Malyuk - LL Injection</i></li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/91982">Vallas Barrett M82A1 2K</a> 350735</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/91446">M20A1 &#x27;Whalegun&#x27; Anti-Tank Rifle (Beyond Citadel)</a> 355717</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/92509">Colt Mk.40 L45 Automatic Cannon</a> 352836</li>
+        <li class="list-group-item"><i>+ XM197 Anti-Materiel &#x27;Payload&#x27; Rifle</i></li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/93386">CMMA MR39 Machine Rifle</a> 355955</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/78797">Objective Rifle (OICW)</a> 308296</li>
+        <li class="list-group-item list-group-item-secondary">&mdash; Big Guns</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/82735">RRAGatlingGun</a> 316366</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/59089">Makeshift Nailgun</a> 233206</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/63513">Heavy Energy Weapons Combo Deal (Two for One)</a> 247863</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/59277">Shoulder Mounted M2</a> 233542</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/16727">M79 Grenade Launcher 1.3.0</a> 68930</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/69018">MW JOKR</a> 268139</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/72129">Heavy Support Weapons Pack</a> 280585</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/59559">Capital Wasteland Minigun 2 - Integrated</a> 266370</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87191">SMMG-Spadey</a> 336108</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/45415">Cazador Missile Launcher</a> 183372</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/74892">Hellstorm Missile Launcher</a> 325200</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/72327">Spadey-VulcanCannon</a> 285064</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/80164">Rheinmetall Maschinengewehr 34 (MG34) - MG 82 - Extras</a> 308991</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/80646">Incendiary Launcher</a> 310177</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/40268">M2 Flamethrower 2.2.1</a> 197612</li>
+        <li class="list-group-item list-group-item-secondary">&mdash; Laser</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/58956">Tinkerer&#x27;s Raygun 1.1</a> 232703</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/27050">CROSS_BreakActionLaser_v091b3</a> 114438</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/67337">PBW - The LAER</a> 282078</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/67337">LAER New Textures</a> 282068</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87734">Wattz 3000 mkII</a> 335896</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/67355">Handmade Energy Pistol</a> 311827</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/27127">Accelerator</a> 162666</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/30687">AQUILA ENG</a> 172446</li>
+        <li class="list-group-item"><i>+ Laser-RCW</i></li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87762">AEC19 Laser Cannon</a> 335523</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/47159">AER15</a> 190714</li>
+        <li class="list-group-item list-group-item-secondary">&mdash; Plasma</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/64574">PBW - The Plasma Defender</a> 282085</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/64574">PBW - The Plasma Defender New Textures</a> 282046</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/69737">1.1PInstitute Plasma Incinarator Vanilla</a> 272740</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/49201">P94 Plasma Rifle 1.6</a> 213462</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/54943">Jack&#x27;s Unofficial Update - P94 Plasma Rifle</a> 262994</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/52502">AnotherOne YK42B Reborn</a> 210143</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/13850">CROSS_PlasRail</a> 69534</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/36358">Glock 86 - Plasma Pistol</a> 172569</li>
+        <li class="list-group-item list-group-item-secondary">&mdash; Misc Weapon</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/31336">CROSS_Cryolance_090a</a> 128082</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/63645">M32 MGL</a> 248679</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/12347">Alien Assault Rifle</a> 88812</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/10484">Crossbows of the Commonwealth 1.4</a> 59787</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/67065">Institute Phaser</a> 261871</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/30868">LAER (Laser Assisted Electrical Rifle)</a> 150134</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/38218">Rheinmetall EG-7 Energiegewehr</a> 158262</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/58894">Capital Wasteland Gauss Rifle</a> 232200</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/22254">China Lake and Holorifle -2K</a> 99908</li>
+        <li class="list-group-item"><i>+ Grenade Expansion Pack - China Lake Compatibility Patch</i></li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/32114">Fusillade Grenade Launcher</a> 162945</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/93656">CW Flamer RIfle</a> 360161</li>
+        <li class="list-group-item list-group-item-secondary">&mdash; ECO Supported Weapons Addons</li>
+        <li class="list-group-item"><i>+ .45 Auto Pistol (Colt M1911) - ECO Redux - English</i></li>
+        <li class="list-group-item"><i>+ 12.7mm Pistol (Sig Sauer P127) - ECO Redux - English</i></li>
+        <li class="list-group-item"><i>+ 12.7mm SMG - ECO Redux - English</i></li>
+        <li class="list-group-item"><i>+ 9x39 Project - ECO Redux - English</i></li>
+        <li class="list-group-item"><i>+ 9mm Pistol (Browning Hi-Power) Redux - ECO Redux - English</i></li>
+        <li class="list-group-item"><i>+ A Bundle of Tape - A weapons pack - ECO Redux - English</i></li>
+        <li class="list-group-item"><i>+ AK74M - Assault Rifle - ECO Redux - English</i></li>
+        <li class="list-group-item"><i>+ Alien Assault Rifle - ECO Redux - English</i></li>
+        <li class="list-group-item"><i>+ American 180 - ECO Redux - English</i></li>
+        <li class="list-group-item"><i>+ AnotherOne YK42B Reborn - ECO Redux - English</i></li>
+        <li class="list-group-item"><i>+ AQUILA - Laser Rifle - ECO Redux - English</i></li>
+        <li class="list-group-item"><i>+ AS Vektor - ECO Redux - English</i></li>
+        <li class="list-group-item"><i>+ Bullpup Bozar - ECO Redux - English</i></li>
+        <li class="list-group-item"><i>+ Cranky - ECO Redux - English</i></li>
+        <li class="list-group-item"><i>+ CROSS PlasRail - ECO Redux - English</i></li>
+        <li class="list-group-item"><i>+ Crossbows - ECO Redux - English</i></li>
+        <li class="list-group-item"><i>+ CROSS_RugerMkV - ECO Redux - English</i></li>
+        <li class="list-group-item"><i>+ DefenseGun - ECO Redux - English</i></li>
+        <li class="list-group-item"><i>+ DKS-501 Sniper Rifle - ECO Redux - English</i></li>
+        <li class="list-group-item"><i>+ Fallout 3 10mm SMG - ECO Redux - English</i></li>
+        <li class="list-group-item"><i>+ FN FAL - SA58 (Plus Kukri) - ECO Redux - English</i></li>
+        <li class="list-group-item"><i>+ FN Five-seveN - ECO Redux - English</i></li>
+        <li class="list-group-item"><i>+ FN P90 - ECO Redux - English</i></li>
+        <li class="list-group-item"><i>+ FN SCAR-H - Battle rifle - ECO Redux - English</i></li>
+        <li class="list-group-item"><i>+ G67 Battle Rifle - ECO Redux - English</i></li>
+        <li class="list-group-item"><i>+ GIAT FAMAS - ECO Redux - English</i></li>
+        <li class="list-group-item"><i>+ Glock 86 - ECO Redux - English</i></li>
+        <li class="list-group-item"><i>+ Grease Gun SMG - ECO Redux - English</i></li>
+        <li class="list-group-item"><i>+ H and K UMP 45 - ECO Redux - English</i></li>
+        <li class="list-group-item"><i>+ HK G11 K2 - Kraut Space Magic - ECO Redux - Eng</i></li>
+        <li class="list-group-item"><i>+ HK G3 Family - ECO Redux - English</i></li>
+        <li class="list-group-item"><i>+ Hunting Revolver Ranger Sequoia - ECO Redux - Eng</i></li>
+        <li class="list-group-item"><i>+ IF-88 Tactical Shotgun REDUX - ECO Redux - English</i></li>
+        <li class="list-group-item"><i>+ InstitutePhaser - ECO Redux - English</i></li>
+        <li class="list-group-item"><i>+ Izhmash SV-98 Sniper Rifle - ECO Redux - English</i></li>
+        <li class="list-group-item"><i>+ Jericho 941 - ECO Redux - English</i></li>
+        <li class="list-group-item"><i>+ LAER - ECO Redux - English</i></li>
+        <li class="list-group-item"><i>+ Lee Enfield No.4 Mk.1 - ECO Redux - English</i></li>
+        <li class="list-group-item"><i>+ M3D - OTs-02 Kiparis - ECO Redux - English</i></li>
+        <li class="list-group-item"><i>+ M79 Grenade Launcher - ECO Redux - English</i></li>
+        <li class="list-group-item"><i>+ Machineguns Rebirth - ECO Redux - English</i></li>
+        <li class="list-group-item"><i>+ Mauser Family - ECO Redux - English</i></li>
+        <li class="list-group-item"><i>+ Mauser Pistol - ECO Redux - English</i></li>
+        <li class="list-group-item"><i>+ MikeMoore&#x27;s MCAM - ECO Redux - English</i></li>
+        <li class="list-group-item"><i>+ Miniguns Rebirth - ECO Redux - English</i></li>
+        <li class="list-group-item"><i>+ Mk 41 Gyrojet Heavy Machine Gun - ECO Redux - English</i></li>
+        <li class="list-group-item"><i>+ Mosin Nagant Sniper Rifle - ECO Redux - English</i></li>
+        <li class="list-group-item"><i>+ PL-14 &#x27;Lebedev&#x27; - ECO Redux - English</i></li>
+        <li class="list-group-item"><i>+ R91 Standalone Assault Rifle - ECO Redux - English</i></li>
+        <li class="list-group-item"><i>+ Rheinmetall EG-7 Energiegewehr - ECO Redux - Eng</i></li>
+        <li class="list-group-item"><i>+ Rifles Rebirth - ECO Redux - English</i></li>
+        <li class="list-group-item"><i>+ RU556 Assault rifle - ECO Redux - English</i></li>
+        <li class="list-group-item"><i>+ Ruger Mini-14 - ECO Redux - English</i></li>
+        <li class="list-group-item"><i>+ Russian Recon Pack SVU and MP443 - ECO Redux - English</i></li>
+        <li class="list-group-item"><i>+ Service Rifle - ECO Redux - English</i></li>
+        <li class="list-group-item"><i>+ SA80 British Rifle - ECO Redux - English</i></li>
+        <li class="list-group-item"><i>+ Springfield Armory M1A - ECO Redux - English</i></li>
+        <li class="list-group-item"><i>+ SREP REDUX - Service Rifle Expansion Project - ECO Redux - English</i></li>
+        <li class="list-group-item"><i>+ Steyr AUG A3 Modular Assault Rifle - ECO Redux - English</i></li>
+        <li class="list-group-item"><i>+ The AK-2047 Standalone Assault Rifle - ECO Redux - English</i></li>
+        <li class="list-group-item"><i>+ The Charger Pistol - a Gauss based weapon platform - ECO Redux - English</i></li>
+        <li class="list-group-item"><i>+ The Juger Pistols - ECO Redux - English</i></li>
+        <li class="list-group-item"><i>+ The M14 Standalone Rifle - ECO Redux - English</i></li>
+        <li class="list-group-item"><i>+ The Widow Shotgun - ECO Redux - English</i></li>
+        <li class="list-group-item"><i>+ Tomacuzi-9 - Americas Worst - ECO Redux - English</i></li>
+        <li class="list-group-item"><i>+ Valve Handgun - ECO Redux - English</i></li>
+        <li class="list-group-item"><i>+ Viper-6610 - Innovative 10mm pistol - ECO Redux - English</i></li>
+        <li class="list-group-item list-group-item-secondary">&mdash; Armor Additions</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/80157">Minutemen Enforcer</a> 309212</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/83404">Vault Tourist Outfit</a> 318800</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/84334">Enclave Recon Armor</a> 322479</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/42822">Stealth Suit - 1.0 - 2K</a> 173908</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/39474">CROSS_Wasteland_Ronin_090b</a> 161155</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/65256">Wearable Super Mutant Armor Redux</a> 255208</li>
+        <li class="list-group-item"><i>+ Graf&#x27;s Assaultron Armor</i></li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/64886">Dak&#x27;s Ballistic Mask</a> 252629</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/12220">West Tek Tactical Optics v2.0.1 (minor update)</a> 48587</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/17941">T51c Power Armor</a> 74708</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/58927">T-60 Shoulder Cape</a> 233310</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/58927">Automaton Cape Patch</a> 240156</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/71589">T-60 Shoulder Cape - Right Arm</a> 278226</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/71589">Automatron Tesla Armor Patch</a> 278267</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/68882">NCR Veteran Ranger - F4NV Redux</a> 268196</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/58182">NCR Outfit Pack</a> 229954</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/81751">1. VTAC REDUX v.2 - Main File 4k</a> 332912</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/81751">2. VTAC REDUX v.2 - BodySlides - CBBE-TWB</a> 332944</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/81751">0. VTAC REDUX v.2.5 - Update File</a> 355303</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/52393">Secret Service Armor 2048</a> 209956</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/82645">Tumbajamba&#x27;s Synth Combat Armor</a> 319609</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87138">Standalone Tumba Synth Armour</a> 331990</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87138">Standalone Tumba Synth Armour CBBE Bodyslide Files</a> 331991</li>
+        <li class="list-group-item"><i>+ Dogmeat&#x27;s Backpack</i></li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/17686">K-9 Harness - Tactical Body Armor for Dogmeat ESL</a> 322763</li>
+        <li class="list-group-item"><i>+ Modern Military Pack 4k</i></li>
+        <li class="list-group-item"><i>+ MMP CBBE BodySlide</i></li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/81563">RobCo - Modern Military Pack</a> 312407</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/28009">CROSS_CourserStrigidae_090c.zip</a> 115702</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/30857">CROSS_InstituteExpeditionarySuit_090b</a> 126439</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/30857">CROSS_InstituteExpeditionarySuit_CbbeFiles</a> 125956</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87767">Eastern Operator</a> 334222</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/74084">GiC&#x27;s - Western Operator</a> 289463</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87488">Tactical Surplus - Milspec Armor Pack</a> 334912</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87724">Tactical Surplus Expansion Pack</a> 334088</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/83880">Nugget Helmet Pack (with extra)</a> 320507</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/44863">Gunner Operator 2.0</a> 213876</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/45027">Gunner Operator 2.0 - Bodyslide (CBBE and Uni-Boob)</a> 224928</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/81894">Amara Armor - FO4</a> 313410</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/81894">Amara Armor - FO4 Esl</a> 313411</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/37153">jmenaru Bodyslide Presets</a> 151104</li>
+        <li class="list-group-item"><i>+ Vault-Tec Suit</i></li>
+        <li class="list-group-item"><i>+ ESL-flagged ESP</i></li>
+        <li class="list-group-item"><i>+ VTsuit bodyslide</i></li>
+        <li class="list-group-item"><i>+ Handmade Armor</i></li>
+        <li class="list-group-item"><i>+ G2 Outfit Loose</i></li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/86016">G2 Armor CBBE - TWB - 3BBB BodySlides</a> 327717</li>
+        <li class="list-group-item"><i>+ Bunny Mask Loose</i></li>
+        <li class="list-group-item"><i>+ HUD Magnet Shelves</i></li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/78912">MW2023 - Titan Outfit</a> 304362</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/90994">1. VTAC REDUX Sharpshooter Set - Main File 4k</a> 355256</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/90994">0. VTAC REDUX Sharpshooter Set v.1.7.5 - Update</a> 357426</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/90994">2. VTAC REDUX Sharpshooter - BodySlides - CBBE-TWB</a> 355259</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/91730">Expeditionary Forces Pack (4K - 2K - 1K)</a> 358221</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/91730">Expeditionary Forces Pack (4K - 2K - 1K) Textures</a> 357755</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/89268">1. VTAC REDUX Submersible - Main File 4k</a> 340511</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/89268">2. VTAC REDUX Submersible - BodySlides - CBBE-TWB</a> 340513</li>
+        <li class="list-group-item list-group-item-secondary">&mdash; Clothing Additions</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/14135">Evil Detective CBBE</a> 65830</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/22431">Eli&#x27;s Armour Compendium - EAC and Bodyslides</a> 305047</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/46628">Wardrobe6 Main</a> 188135</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/46628">Vtaw Wardrobe6 Bodyslides</a> 188134</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/78169">VtawWardrobe 9 Main 2K</a> 301685</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/78169">Vtaw Wardrobe 9 Materials 2K</a> 301691</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/78169">Vtaw Wardrobe 9 Bodyslides</a> 301692</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/71796">Vtaw Sonya Main</a> 278949</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/71796">Vtaw Sonya Bodyslides</a> 278950</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/61541">Vtaw Wardrobe 8 Main 2k</a> 241306</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/61541">Vtaw Wardrobe 8 Materials 2K</a> 241308</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/61541">Vtaw Wardrobe 8 Bodyslides</a> 241312</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/58463">Vtaw Maxy Dress Main</a> 230845</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/58463">Vtaw Maxy Dress Bodyslides</a> 230846</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/51798">Vtaw Wardrobe 7 Main 2k</a> 207028</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/51798">Vtaw Wardrobe 7 Materials 2K</a> 207030</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/51798">Vtaw Wardrobe 7 Bodyslides</a> 207031</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/52878">Vtaw Overalls Main</a> 211268</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/52878">Vtaw Overalls Bodyslides</a> 211269</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/42145">Vtaw Wardrobe 4</a> 171427</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/42145">Vtaw Wardrobe 4 Bodyslide</a> 171079</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/42971">VtawUtilityPack1</a> 174168</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/42971">Vtaw Utility Pack 1 Bodyslides</a> 174165</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/39780">VtawWardrobe2</a> 160936</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/39780">Bodyslide Vtaw Wardrobe 2</a> 160938</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/43844">Vtaw Wardrobe 5</a> 178622</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/43844">Vtaw Wardrobe 5 Bodysldies</a> 177430</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/39599">VtawWardrobe1</a> 160375</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/39599">VtawWardrobe1 Bodyslides</a> 169841</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/85839">Closet 3 4k</a> 327773</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/68297">Jinga&#x27;s C Bodysuit</a> 266619</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/50250">Clothes Pack 2 by DonEb14n</a> 201956</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/50909">Clothes Pack 2 by DonEb14n Slot 39</a> 204177</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/52199">Clothes Pack 3 by DonEb14n</a> 208400</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/53293">Clothes Pack 4 by DonEb14n</a> 212684</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/58586">Clothes Pack 5 by DonEb14n</a> 231339</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/58586">Clothes Pack 5 CBBE BodySlide</a> 231473</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/74570">Clothes Pack 6 by DonEb14n - 2K Edition</a> 289169</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/51475">Clothes Pack Remake by DonEb14n</a> 206378</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/85764">KGO... CP1 Krazymans Ground Objects KP</a> 326807</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/85764">KGO... CP2 Krazymans Ground Objects KP</a> 326849</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/85764">KGO... CP3 Krazymans Ground Objects KP</a> 326869</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/85764">KGO... CP4 Krazymans Ground Objects KP</a> 326939</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/85764">KGO... CP5 Krazymans Ground Objects KP</a> 326997</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/85764">KGO... CP6 Krazymans Ground Objects KP</a> 327000</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/78802">VTAC and Vtaw Wardrobe Preview Meshes</a> 356238</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/72912">FIS - Vtaw and DonEb14n Clothing Sorting</a> 343128</li>
+        <li class="list-group-item list-group-item-secondary">&mdash; Armor and Clothing Custom Addons</li>
+        <li class="list-group-item list-group-item-secondary">&mdash; Vanilla Overhaul Changes</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/88295">HFs - Burnt Books - 2K</a> 336243</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/79119">Modern Replacer - AIO</a> 322445</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/85526">Modern Replacer - pens and pencils</a> 325908</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/88430">ZP&#x27;s Fire and Smoke</a> 336835</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/52942">Immersive Partial Chems</a> 224074</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/46361">Stimpaks help you breathe</a> 188684</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/55170">Russian Stimpack</a> 241014</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/55170">Red Case 4k</a> 219722</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/55624">Russian Stimpak Replacer Tweaks</a> 227311</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/20093">Automatically Lowered Weapons</a> 105840</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/72601">ALWBOWFO</a> 282136</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/63998">BS Defence</a> 250433</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/10840">Pip-Boy Flashlight</a> 65415</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/29447">Backpacks of the Commonwealth</a> 320973</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/75184">Bastion - A Power Armor Overhaul</a> 291160</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/75565">Energy Weapon Calculation Fix</a> 325159</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/80520">Addiction Overhaul</a> 309774</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/80513">Better Chems</a> 310758</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/74508">Cookable Grenade</a> 288966</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/74514">Grenade Timer Overhaul</a> 288995</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/74305">Slick Fingers - The Art of Theft</a> 288462</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/74026">Lighter Scrap 50 Procent Weight Reduction</a> 287241</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/74027">No Automatic Recoil Adjustment</a> 287254</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/74004">Sighted Weapon Accuracy Fix</a> 287255</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/44511">Configurable Artillery</a> 179784</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/25527">155mm Howitzer M1</a> 104841</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/44540">Configurable Artillery - 155m Howitzer M1 - Patch</a> 179803</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/37572">Better Explosives Redux</a> 288996</li>
+        <li class="list-group-item"><i>+ M84 FlashBang.Main</i></li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/72097">M84FlashBang Advanced</a> 280620</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/72098">M84 Flashbang - LL Integration - RobCo Patch</a> 280247</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/66180">Less intrusive tutorial</a> 257280</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/79999">No Interior Fog</a> 313971</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/73976">Scaling Flag Remover</a> 327117</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/72657">Outfit ReDress Fix</a> 282361</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/74000">Friendly Fire</a> 288853</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/76436">Fire Rate Shows RPM</a> 295676</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/76436">Fire Rate Shows RPM - Fall UI Inventory</a> 300330</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/76436">Fire Rate Shows RPM - Fall UI Workbench</a> 300331</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/84693">LEO - Better Explosives Redux - Patch</a> 323040</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/84693">ECO - ExtraIcons - Patch</a> 323037</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/84693">LEO - Bastion - Patch</a> 323039</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/88525">ZP&#x27;s Frost and Shock loose</a> 337696</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/52752">2k cap stash</a> 210859</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/81908">Drinking Water Retexture - Purified - Institute - Dirty - Drugged - Deezers</a> 333516</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/53012">U.S. Covert Operations Manual - Magazine Retexture</a> 211830</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/50253">Total Hack - Magazine Retexture</a> 202418</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/49999">Classic Wasteland Survival Guide - Magazine Retexture</a> 219269</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/83401">Classic Skill Books - New Magazines - Pugilism - Deans - Nikola Tesla - And More</a> 333365</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/89093">Civil Defense Index - New Magazines</a> 339512</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87511">Nuka-World Recipe Books - Magazine Retexture - Nuka-Cola</a> 333281</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87843">Brotherhood Field Manual - New Magazines - BOS - Brotherhood of Steel</a> 334717</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/11734">Campsite - Simple</a> 238612</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/88530">Nuka-Cola Raspberry-Cheesecake</a> 337405</li>
+        <li class="list-group-item"><i>+ Oppressor&#x27;s Nuka-Cola Project - 4K</i></li>
+        <li class="list-group-item"><i>+ Oppressor&#x27;s Nuka-Cola Project - IAF Patch</i></li>
+        <li class="list-group-item list-group-item-secondary">&mdash; Creature Additions</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/72402">Bosses Get Legendaries</a> 285676</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/68187">Mutant Menagerie - Life Finds A Way</a> 317695</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/68187">Mutant Menagerie Textures - HD</a> 313092</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/74662">IAF - Mutant Menagerie Patch</a> 315635</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/83355">RobCo - Mutant Menagerie - YAE piercing</a> 318487</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/57181">FGEP Definitive Edition</a> 302262</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/73365">Very Zen FGEP Textures 2k</a> 299942</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/43441">More Feral Ghouls. A Zombie Mod</a> 257013</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/58861">4estGimp - MFG_FGEP-DE Merged NoVanilla</a> 300770</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/84615">PLOPTOP</a> 331515</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/32647">Plutonium Creatures V 1.15</a> 297784</li>
+        <li class="list-group-item"><i>+ Quantum Creatures - Resources</i></li>
+        <li class="list-group-item"><i>+ Quantum Creatures - EN Plugin</i></li>
+        <li class="list-group-item"><i>+ Plutonium and Quantum Spell Patch ESL</i></li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/84728">Plutonium and Quantum Creatures - PLOP</a> 331415</li>
+        <li class="list-group-item list-group-item-secondary">&mdash; Faction Overhauls</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/77115">[Faction] Improved Guards</a> 325012</li>
+        <li class="list-group-item list-group-item-secondary">&mdash; Church of Atom</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/26173">Church of Atom Overhaul</a> 118645</li>
+        <li class="list-group-item"><i>+ Atom&#x27;s Glory Threads - CBBE</i></li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/26173">CoA Overhaul CBBE Patch</a> 106849</li>
+        <li class="list-group-item"><i>+ Patch for Church of Atom Overhaul (Nexus mod 26173)</i></li>
+        <li class="list-group-item list-group-item-secondary">&mdash; Supermutants</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/11853">Super Mutant Redux 2.0</a> 144417</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/51353">4estGimp - SuperMutantRedux No AWKCR</a> 241665</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/65256">Human Super Mutant Armors - Super Mutant Redux</a> 255209</li>
+        <li class="list-group-item list-group-item-secondary">&mdash; The Institute</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/50975">Subversion - The Institute-Railroad Alliance Alternate Ending</a> 272969</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/24981">Courser Crusher Version 1.2</a> 114863</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/67969">Synth Power Armor (ESPFE-BA2)</a> 271454</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/86958">ITO Institute Technology Overhaul Full v2</a> 336664</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/76757">[Faction] Improved Institute</a> 335350</li>
+        <li class="list-group-item list-group-item-secondary">&mdash; The Railroad</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/76749">[Faction] Improved Railroad</a> 334763</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/84146">RailroadHeavy</a> 321586</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/83842">tumba_FullKevlar</a> 320193</li>
+        <li class="list-group-item list-group-item-secondary">&mdash; The Raiders</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/51658">4estGimp - Raider Overhaul ONE</a> 343996</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/15510">HD Raider Armor Retex</a> 63807</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/17895">MadMax713&#x27;s Original Raider Armor Texture</a> 88073</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/37202">RPA Clean</a> 153106</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/37202">Raider Power Armor Chop Shop-Streamlined</a> 153108</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/31880">Oppressor Dog Armor - Perpetual Beta</a> 130272</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/40752">Oppressor Dog Armor - No AWKCR</a> 221970</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/18012">Overboss Power Armor - Constructable BASE Linings</a> 74228</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/58965">4estGimp - Overboss PA - NoChain NoAWKCR</a> 261239</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/55844">4estGimp - Cranky LLInjection and Improvements</a> 236737</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/55794">4estGimp - MakeshiftShotgun_LLinj_Patch</a> 233169</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/54062">03. 4estGimp - Sjogren Shorty DoubleBarrel Peer</a> 241701</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/47907">Sjogren Inertia vanilla weapon mods</a> 193067</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/55845">4estGimp - Winchester 1897 LLInjection and Improvements</a> 236738</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/42414">Raider Gang Extended DLC Compatibility Update</a> 206759</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/57675">4estGimp - Raider Gangs Extended Edit</a> 299801</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/57675">4estGimp - RGE FaceGen</a> 329741</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/25967">Altyn Assault Helmet - 1.0 new</a> 106111</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/45813">Grease Rat Garbs - CBBE</a> 320631</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/16172">Tactical Flashlights</a> 80919</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/26378">Metro Gas Masks - 1.1</a> 119217</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/32614">Metro Gas Masks M17 mesh fix</a> 132813</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/39271">The Purge Mask Collection</a> 159043</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/66427">4estGimp - Grease Rat Garbs RO1 Edit</a> 264583</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/65396">4estGimp - Eli&#x27;s Armor Compendium Edit</a> 260748</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/65829">4estGimp - Purge Mask Collection Edit Raider Overhaul One Injection</a> 256062</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/60417">4estGimp - AI Edits Crippled LMCC</a> 260310</li>
+        <li class="list-group-item list-group-item-secondary">&mdash; The Gunners</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87501">Tumbajamba&#x27;s Gunner Armor Collection</a> 341137</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87782">Tumbajamba&#x27;s Gunner Armor Collection-CBBE</a> 334285</li>
+        <li class="list-group-item list-group-item-secondary">&mdash; Brotherhood of Steel</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/86287">Tumbajamba&#x27;s Brotherhood Armor Collection</a> 329057</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/86934">Tumbajamba&#x27;s Brotherhood - eXospanded</a> 331962</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/86934">Backpacks of the Commonwealth Patch</a> 331052</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/76756">[Faction] Improved BoS</a> 332417</li>
+        <li class="list-group-item list-group-item-secondary">&mdash; The Minuteman</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/78925">You And What Army 2</a> 322904</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/86697">Tumbajamba&#x27;s Minutemen Armor Collection</a> 330499</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/86697">Minutemen Armor Collection - Power Armor Minutemen</a> 332091</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/76755">[Faction] Improved Minutemen</a> 334055</li>
+        <li class="list-group-item list-group-item-secondary">&mdash; Vanilla Uniques System</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/71445">Vanilla Uniques Framework</a> 332445</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/86273">Avtomat Kalashnikova Family Rebirth</a> 328956</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87292">URP Aeternus - Cryolance</a> 332476</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87292">URP Ashmaker - GatlingGunRatrunnersArsenal</a> 332499</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87229">URP BigBoy - M79GrenadeLauncher</a> 332268</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87229">URP Reckoning - MurderingChainsaw</a> 332258</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87229">URP ArturosSilence - PJAR</a> 332272</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87229">URP SeargentAsh - TheQuadDuplet</a> 332270</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87229">URP SentinelsPlasmacaster - P94 Plasma Rifle</a> 332259</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87292">URP Skipper&#x27;s Sidearm - MetriLolife</a> 332580</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87292">URP Harvester - Autoaxe</a> 332475</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87229">URP - Overseer&#x27;s Guardian - 10mm Security SMG</a> 332202</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87229">URP Old Reliable - VintageRevolverRifle</a> 332274</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87229">URP ThroatSlicer - ZombieButcher</a> 332265</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87292">URP LeFusilTerribles -PipeRevolverShotgun</a> 332577</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87229">URP Spray and Pray - HomemadeSMG</a> 332243</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87292">URP VirgilsRifle - PBW LAER</a> 332477</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87229">URP TinkerTomsSpecial - BoltAction556</a> 332942</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87229">URP ThePartyStarter - TinkerersTeslaCannon</a> 332242</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87229">URP Chao&#x27;s Revenge - Dadao</a> 332261</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87229">URP Splattercannon - SigSauer12.7</a> 332260</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87229">URP Death From Above - MW JOKR</a> 332204</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87229">URP Kiloton - UradiumRifle</a> 332236</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87229">URP Wastelander&#x27;s Friend - Varmint Revolver</a> 332200</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87229">URP Experiment 18A - Institute Plasma Incinerator</a> 332203</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87229">URP Old Faithful - HandmadeEnergyPistol</a> 332238</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87292">URP Reba - VarmingRifle</a> 332503</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87292">URP LimitlessPotential - ChargerPistol</a> 332471</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87292">URP PickmansBlade - SelectBalisong</a> 332464</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87292">URP RighteousAuthority - BreakActionLaser</a> 332473</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87229">URP LastMinute - HeavySupportGauss</a> 332266</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87292">URP SwansPowerFist - GravityFist</a> 332582</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87292">URP LuckyEddy - VintageRepeater</a> 332469</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87229">URP Fishcatcher - Quadrent</a> 332267</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87292">URP RadicalConversion - RadiumPistol</a> 332500</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87292">URP AutomaticLaserMusket - PAHW Laser Musket</a> 332574</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87292">URP ProblemSolver - MaresLeg</a> 332586</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87292">URP Protectron&#x27;sGaze - TinkerersRaygun</a> 332468</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87292">URP GoodIntentions - ShoulderMountedMachineGun</a> 332496</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87292">URP Gainer - HuntingRevolver</a> 332505</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87292">URP FinalJudgement - TinkerersPlasmaCaster</a> 332502</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87292">URP Bloodletter - Kukri</a> 332579</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87292">URP DecembersChild - ColtSCAMP</a> 332583</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87292">URP DefendersHarpoonGun - MakeshiftNailGun</a> 332584</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87292">URP EddiesPeace</a> 332472</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87229">URP AdmiralsFriend - ThatGun</a> 332271</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87554">URP ProtectorsArmguards - DCSecurity</a> 333440</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87554">URP ApocalypseArmor - WastelandRonin</a> 333442</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87554">URP CommandoSteadfast - ClassicCombatArmor</a> 333454</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87554">URP Destroyers - AssaultronArmor</a> 333455</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87554">URP Devestators - MaskAndWestTecGoggles</a> 333451</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87554">URP ExemplarsVisionaries - T51C</a> 333462</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87554">URP HonorVengence - T60 Capes</a> 333463</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87554">URP Mantis - NCRVeteranRanger</a> 333450</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87554">URP Recon - SecretService</a> 333457</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87554">URP SpecialAgent - EvilDetective</a> 333453</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87554">URP SynthMk234 - SynthCombatArmor</a> 336592</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/87554">URP TessasFist - TribalPowerArmor</a> 333464</li>
+        <li class="list-group-item list-group-item-secondary">&mdash; Vanilla Base Weapon Replacers</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/84562">Modern Weapon Replacer - MW2022 Cronen Squall - Combat Rifle</a> 324777</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/84555">Modern Weapon Replacer - Tavor X95 - Assault Rifle</a> 323476</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/84772">Modern Weapon Replacer - MW2022 FJX-Imperium - Hunting Rifle</a> 323410</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/83726">Modern Weapon Replacer - Kel-Tec Sub 2000 - Pipe Guns</a> 320228</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/61773">Modern Weapon Replacer - Escape From Boston - Springfield Armory M14 - Pipe Bolt Action</a> 242413</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/52672">Modern Weapon Replacer - AnotherOne TEC-9 - Pipe Revolver</a> 324687</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/83727">Modern Weapon Replacer - MW JAK-12 Remastered - Combat Shotgun</a> 322682</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/50502">Modern Weapon Replacer - Glock 19x (FX0x01) - 10mm Replacer</a> 323705</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/39061">Modern Weapon Replacer - Fusillade Grenade Launcher - Missile Launcher</a> 241891</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/60377">Modern Weapon Replacer - Agency Arms Benelli M2 - Double Barrel Shotguns</a> 242305</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/38807">Energy Weapon Replacer - Rheinmetall EG-7 Energiegewehr - Laser Rifles</a> 214133</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/35047">Energy Weapon Replacer - Aquila - Laser Musket</a> 214123</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/34017">Energy Weapon Replacer - Accelerator - Plasma Guns</a> 214248</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/34096">Modern Weapon Replacer - MP-412 - .44 Revolver</a> 214117</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/33580">Modern Weapon Replacer - Heckler Und Koch G36 Complex - Radium Rifles</a> 236025</li>
+        <li class="list-group-item list-group-item-secondary">&mdash; Weapon VFX and Sounds</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/25343">Ambient Wasteland</a> 103413</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/61140">Realistic Reverb and Ambience - ESL Version</a> 329534</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/66713">Ambient Tunnels</a> 316529</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/54741">Recoil Shake and Low Ammo Sounds</a> 248649</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/83453">FO4RP-Guns Main RAO 1.0.4</a> 326535</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/58416">Persistent Volume Sliders</a> 230756</li>
+        <li class="list-group-item"><i>+ CEO - Commonwealth Explosion Overhaul</i></li>
+        <li class="list-group-item"><i>+ CEO - special explosions</i></li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/16609">Commonwealth Warfare - Explosions Main File</a> 66393</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/16609">No Ear Ringing Sounds</a> 66402</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/64891">Bullet Impact Overhaul 2.1</a> 302882</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/77688">Very Zen Impacts</a> 300696</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/21996">Laser_Sound_Overhaul</a> 89809</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/8513">Laser Bolt FX Fallout 4 Edition</a> 37119</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/57774">Power Combined Arms All in One (Nova Finch)</a> 235607</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/38666">City Ambience ESL</a> 260558</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/38609">Lush Ambience ESL</a> 189318</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/73968">Lush Ambience Far Harbor - ESL flagged ESP</a> 319437</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/26014">Faded Glory - A Post-Apocalyptic Soundscape</a> 188642</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/58864">Radium Ghosts of Far Harbor Update 2.7.1</a> 287310</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/30365">Quieter Immersive Squeaky Doors</a> 124092</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/36569">Zippo sound</a> 148574</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/50718">Artillery SFX</a> 203460</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/2397">Radiant Birds</a> 44479</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/3855">Hush Dogmeat - No Sounds While Sneaking</a> 12038</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/1073">Louder Rainy Sound</a> 2829</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/73940">Louder Waves - ESL flagged ESP</a> 286877</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/37419">Horrorghouls v2.2 Final release</a> 184719</li>
+        <li class="list-group-item"><i>+ Monsterum -DeathClaw Sounds Rework</i></li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/65093">Melee Impact Overhaul 1.2.1</a> 255254</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/61140">RRAAO - Melee Impact Overhaul Patch</a> 329535</li>
+        <li class="list-group-item list-group-item-secondary">&mdash; LOD</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/80276">FO4LODGen Resources</a> 308981</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/56138">HD LOD Textures</a> 237603</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/56138">LOD Fixes and Additions</a> 237865</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/56138">LOD Terrain Noise and Detail Normals - Variant 1</a> 223112</li>
+        <li class="list-group-item"><i>+ ModernHouseLOD</i></li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/61884">Far Object LOD Improvement Project</a> 334716</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/63191">Far Harbor 3D Tree LODs</a> 260886</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/70237">Northern Foothills Rocks Fix</a> 272918</li>
+        <li class="list-group-item list-group-item-secondary">&mdash; Final Patches for CRP and Misc</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/4472">True Storms Wasteland Edition v1.4</a> 265374</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/4472">Nuka-World Add-On (Nuka World Only)</a> 71878</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/56566">ENB Helper for Fallout 4</a> 268795</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/40220">Real Water HD for ENB</a> 162727</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/25682">ENBLightsHDRPatch.7z</a> 114764</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/22101">Ultra Interior Lighting</a> 165082</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/57321">Compatibility patch for West Tek Tactical Optics 2.0.1</a> 241189</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/31028">Rusty Face Fix</a> 307994</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/64270">Rusty Face Fix Redux</a> 270989</li>
+        <li class="list-group-item list-group-item-secondary">&mdash; Sandland Desert Additions</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/28713">AtomicWorld 2.0</a> 312968</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/91415">Atomic World and Tumbajamba&#x27;s Gunner Armor Collection Patch</a> 347591</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/23469">TrueGrass</a> 96678</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/45169">Desperados Overhaul</a> 335774</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/45169">Desperados Overhaul PRP Patch OG</a> 335777</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/46554">BADLANDS 2 - LANDSCAPE</a> 187905</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/46554">BADLANDS 2 - GRASSES</a> 187818</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/68190">desperados overhaul workshop addon</a> 265195</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/69063">1.1 Custom Collisions - Desperados Overhaul</a> 268287</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/46738">BADLANDS 2 - LANDSCAPE Flora Tweaks</a> 188479</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/46738">BADLANDS 2 - GRASSES Flora Tweaks</a> 188478</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/61535">BADLANDS 2 - House Waste to Sand</a> 241445</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/63081">Desperados Overhaul Fixes</a> 246673</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/47862">Barren Trees</a> 192919</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/42388">50 Shades Of Rust</a> 172454</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/89944">HD LOD for Atomic World Desperados and Badlands 2</a> 342623</li>
+        <li class="list-group-item list-group-item-secondary">&mdash; Final Outputs</li>
+        <li class="list-group-item"><i>+ Thrax&#x27;s Action Poses</i></li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/24772">Pose It</a> 110437</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/16800">DAVETHEDRUNK PRESENTS DAVE&#x27;S POSES</a> 142308</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/80071">Summer Beach Poses</a> 308488</li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/37742">Nuclear Fire Main Menu Replacer</a> 154369</li>
+        <li class="list-group-item"><i>+ Q.C.A Menu (Quick Change Armor)</i></li>
+        <li class="list-group-item">+ <a target="_blank" href="https://www.nexusmods.com/fallout4/mods/84655">Skyrim Nevernude</a> 324653</li>
+        <li class="list-group-item"><i>+ Bodyslide Output ( Naked Bodies )</i></li>
+        <li class="list-group-item"><i>+ Bodyslide Output v2 Addon ( Naked Bodies )</i></li>
+        <li class="list-group-item"><i>+ Overwrite Output</i></li>
+        <li class="list-group-item"><i>+ VEFS Facegen Output</i></li>
+        <li class="list-group-item"><i>+ FaceGen Addon</i></li>
+        <li class="list-group-item"><i>+ FaceGen Addon Extra</i></li>
+        <li class="list-group-item"><i>+ Complex Sorter Output</i></li>
+        <li class="list-group-item"><i>+ PistolsAIO</i></li>
+        <li class="list-group-item"><i>+ SubmachineGunsAIO</i></li>
+        <li class="list-group-item"><i>+ RiflesAIO</i></li>
+        <li class="list-group-item"><i>+ ShotgunsAIO</i></li>
+        <li class="list-group-item"><i>+ BigGunsAIO</i></li>
+        <li class="list-group-item"><i>+ PlasmaAIO</i></li>
+        <li class="list-group-item"><i>+ LasersAIO</i></li>
+        <li class="list-group-item"><i>+ MiscWeaponsAIO</i></li>
+    </ul>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
